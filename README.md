@@ -77,27 +77,50 @@
 ## 🕒 定时更新策略
 
 默认每天执行一次：
+
 ```yaml
 schedule:
-  - cron: "0 2 * * *"  # 每天 10:00(UTC+8)
+  - cron: "0 2 * * *"  # 每天 10:00 (UTC+8)
+```
 
-  
-合规采集 **B 站番剧时间表/排行榜** 与 **Steam 官方新闻**；输出 **JSON / CSV / Markdown**。  
-遵守 robots，使用公开 API；每日自动刷新、自动 Release、自动发布 GitHub Pages。
+合规采集 **B 站番剧时间表/排行榜** 与 **Steam 官方新闻**；  
+输出 **JSON / CSV / Markdown**。  
+遵守 robots，使用公开 API；每日自动刷新，自动 Release，自动发布 GitHub Pages。
 
-## 本地运行
+---
+
+### 🧩 本地运行
+
 ```bash
 python -m venv .venv
+
 # Windows PowerShell:
 # Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 # .\.venv\Scripts\Activate.ps1
+
 pip install -r requirements.txt
+```
 
-# B 站番剧时间表
+---
+
+### 📺 B 站番剧时间表
+
+```bash
 python -m freshfeeds bili timeline --limit 15 --format all --outdir output
+```
 
-# B 站排行榜：番剧区 / 或 --category anime
+---
+
+### 📊 B 站排行榜（番剧区 / --category anime）
+
+```bash
 python -m freshfeeds bili rank --category bangumi --limit 20 --format md --outdir output
+```
 
-# Steam 新闻（appids 在 config.yaml）
+---
+
+### 🎮 Steam 新闻（appid 来自 config.yaml）
+
+```bash
 python -m freshfeeds steam --limit 8 --format all --outdir output
+```
