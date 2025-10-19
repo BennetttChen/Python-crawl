@@ -2,7 +2,7 @@ name: Refresh feeds
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # 每天 10:00(UTC+8) 运行
+    - cron: "0 2 * * *"   # 每天 10:00 (UTC+8)
   workflow_dispatch:      # 允许手动触发
 
 permissions:
@@ -11,9 +11,12 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0           # 拉完整历史，避免 push 被拒
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -32,9 +35,21 @@ jobs:
           python -m freshfeeds steam --limit 8 --format all --outdir output
 
       - name: Commit updated output
+        shell: bash
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 取得当前分支名（一般是 main）
+          BRANCH="${GITHUB_REF#refs/heads/}"
+
+          # 拉取远端更新，避免 push 被拒
+          git fetch origin "$BRANCH"
+          git pull --rebase origin "$BRANCH" || true
+
           git add output/*
           git commit -m "chore: refresh feeds" || echo "No changes"
-          git push
+
+          # 推送到当前分支
+          git push origin HEAD:"$BRANCH"
