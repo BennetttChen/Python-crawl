@@ -68,7 +68,7 @@ jobs:
         if: steps.commit.outputs.changed == 'true'
         run: git push origin HEAD:"$BRANCH"
 
-      # --- 为 Pages 生成简单首页（每次都生成；不想生成可删掉这步）---
+      # --- 为 Pages 生成简单首页（可留可删）---
       - name: Build index.md for Pages
         run: |
           mkdir -p output
@@ -111,12 +111,13 @@ jobs:
             - Steam news
           files: ${{ env.ZIP }}
 
-      # --- 上传 Pages 工件（每次都发布；若只想有变化时发布可加 if 条件）---
+      # --- 上传 Pages 工件（每次都部署；若只想有变化时部署可加 if 条件）---
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: output
 
+  # === 真正把 Pages 工件发布出去 ===
   deploy-pages:
     needs: refresh
     runs-on: ubuntu-latest
