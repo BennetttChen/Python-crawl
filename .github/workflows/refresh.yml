@@ -2,8 +2,8 @@ name: Refresh feeds
 
 on:
   schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
+    - cron: "0 2 * * *"   # 每天 10:00(UTC+8)
+  workflow_dispatch:      # 允许手动触发
 
 permissions:
   contents: write
@@ -76,7 +76,7 @@ jobs:
             echo '<meta charset="utf-8">'
             echo '<meta name="viewport" content="width=device-width,initial-scale=1">'
             echo '<title>Fresh Feeds</title>'
-            echo '<style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;line-height:1.6}h1{margin:0 0 12px}ul{padding-left:20px}li{margin:6px 0}</style>'
+            echo '<style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;line-height:1.6} h1{margin:0 0 12px} ul{padding-left:20px} li{margin:6px 0}</style>'
             echo '<h1>Fresh Feeds ('"$TS"')</h1>'
             echo '<p>最新一次构建生成的文件：</p>'
             echo '<ul>'
@@ -90,7 +90,8 @@ jobs:
           } > output/index.html
           echo > output/.nojekyll
 
-      - name: Debug: list output tree
+      - name: "Debug: list output tree"
+        shell: bash
         run: |
           echo "== OUTPUT TREE =="
           ls -lahR output || true
