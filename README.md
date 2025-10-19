@@ -59,6 +59,21 @@
 
 ---
 
+- 项目输出：
+
+    ```text
+    output/
+    ├── bili_timeline.csv
+    ├── bili_timeline.json
+    ├── bili_timeline.md
+    ├── bili_rank_bangumi.md
+    ├── steam_news.csv
+    ├── steam_news.json
+    ├── steam_news.md
+    └── index.html  # GitHub Pages 首页
+    ```
+
+
 ## 🕒 定时更新策略
 
 默认每天执行一次：
