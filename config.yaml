@@ -1,12 +1,4 @@
-@'
-requests>=2.31.0
-feedparser>=6.0.11
-python-dateutil>=2.9.0
-PyYAML>=6.0.2
-'@ | Set-Content .\requirements.txt -Encoding UTF8
-
-@'
-user_agent: "freshfeeds-bili-steam/1.0 (+https://github.com/yourname/freshfeeds-bili-steam)"
+user_agent: "freshfeeds-bili-steam/1.0 (+https://github.com/BennetttChen/Python-crawl)"
 request_delay_seconds: 0.8
 bilibili_rank_default_category: "bangumi"
 steam_appids:
