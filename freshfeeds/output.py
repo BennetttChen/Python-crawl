@@ -38,4 +38,3 @@ def save_markdown(items: List[Dict], outdir: str, name: str, title: str) -> str:
             lines.append(f"  鎽樿: {s[:280]}{'鈥? if len(s)>280 else ''}\\n")
     out.write_text("\\n".join(lines).strip()+"\\n", encoding="utf-8")
     return str(out)
-'@ | Set-Content .\freshfeeds\output.py -Encoding UTF8

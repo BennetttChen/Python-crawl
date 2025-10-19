@@ -17,4 +17,3 @@ def get_news_for_app(appid: int, count: int = 5) -> Dict[str, Any]:
     url = STEAM_NEWS_API.format(appid=appid, count=count)
     data = get_json(sess, url, delay=delay)
     return data
-'@ | Set-Content .\freshfeeds\sources\steam_util.py -Encoding UTF8

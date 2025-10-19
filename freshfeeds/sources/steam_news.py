@@ -26,4 +26,3 @@ def fetch_steam_news(appids: List[int], limit_per_app: int = 5) -> List[Dict]:
                 "source": "Steam News API"
             })
     return all_items
-'@ | Set-Content .\freshfeeds\sources\steam_news.py -Encoding UTF8

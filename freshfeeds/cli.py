@@ -54,4 +54,3 @@ def _export(items, fmt, outdir, name, title):
     if fmt in ("csv","all"): paths.append(save_csv(items, outdir, name))
     if fmt in ("md","all"): paths.append(save_markdown(items, outdir, name, title))
     for p in paths: print(p)
-'@ | Set-Content .\freshfeeds\cli.py -Encoding UTF8

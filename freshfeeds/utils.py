@@ -17,4 +17,3 @@ def get_json(session: requests.Session, url: str, delay: float = 0.0, timeout: i
     resp.raise_for_status()
     politely_wait(delay)
     return resp.json()
-'@ | Set-Content .\freshfeeds\utils.py -Encoding UTF8

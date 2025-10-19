@@ -98,4 +98,3 @@ def fetch_bili_rank(category: str = "bangumi", limit: int = 20) -> List[Dict]:
     except Exception:
         pass
     return items[:limit]
-'@ | Set-Content .\freshfeeds\sources\bilibili.py -Encoding UTF8

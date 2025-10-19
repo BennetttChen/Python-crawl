@@ -13,4 +13,3 @@ steam_appids:
   - 570
   - 730
   - 1623730
-'@ | Set-Content .\config.yaml -Encoding UTF8
