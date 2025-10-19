@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   refresh:
@@ -16,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0           # 拉完整历史，避免 push 被拒
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,22 +36,78 @@ jobs:
           python -m freshfeeds bili rank --category bangumi --limit 20 --format md --outdir output
           python -m freshfeeds steam --limit 8 --format all --outdir output
 
-      - name: Commit updated output
-        shell: bash
+      # ---- 提交到 main（仅当 output 有变化）----
+      - name: Prepare commit & pull
         run: |
           set -e
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # 取得当前分支名（一般是 main）
           BRANCH="${GITHUB_REF#refs/heads/}"
-
-          # 拉取远端更新，避免 push 被拒
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
           git fetch origin "$BRANCH"
           git pull --rebase origin "$BRANCH" || true
 
+      - name: Commit updated output
+        id: commit
+        shell: bash
+        run: |
+          set -e
           git add output/*
-          git commit -m "chore: refresh feeds" || echo "No changes"
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes in output/"
+          else
+            git commit -m "chore: refresh feeds"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
 
-          # 推送到当前分支
+      - name: Push changes
+        if: steps.commit.outputs.changed == 'true'
+        run: |
           git push origin HEAD:"$BRANCH"
+
+      # ---- 打包并发 Release（仅当有变化）----
+      - name: Build zip artifact
+        if: steps.commit.outputs.changed == 'true'
+        id: pack
+        run: |
+          TS=$(date -u +'%Y%m%dT%H%M%SZ')
+          echo "TS=$TS" >> $GITHUB_ENV
+          ZIP="output_${TS}.zip"
+          echo "ZIP=$ZIP" >> $GITHUB_ENV
+          zip -r "$ZIP" output
+          ls -lh "$ZIP"
+
+      - name: Create GitHub Release
+        if: steps.commit.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name:  "feeds-${{ env.TS }}"
+          name:      "Feeds ${{ env.TS }}"
+          body: |
+            Automated refresh.
+            - Bilibili timeline & rank
+            - Steam news
+          files: ${{ env.ZIP }}
+
+      # ---- 发布 GitHub Pages（仅当有变化）----
+      - name: Upload Pages artifact
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy-pages:
+    needs: refresh
+    if: needs.refresh.outputs == '' || needs.refresh.result == 'success'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
