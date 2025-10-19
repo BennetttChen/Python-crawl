@@ -1,4 +1,4 @@
-# FreshFeeds: Bilibili + Steam (Compliant)
+# FreshFeeds: Bilibili + Steam 🕷️
 
 <p align="center">
   <a href="https://github.com/BennetttChen/Python-crawl/actions/workflows/refresh.yml">
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Pages-live-blue" alt="GitHub Pages">
   </a>
 </p>
-# FreshFeeds Bili + Steam 🕷️
 
 这是一个基于 **Python** 的信息采集项目，用于自动获取 **B 站番剧时间表** 与 **Steam 官方游戏公告**。
 
