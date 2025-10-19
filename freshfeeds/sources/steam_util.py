@@ -1,5 +1,4 @@
-@'
-from typing import Dict, Any
+﻿from typing import Dict, Any
 from ..utils import make_session, get_json
 import yaml
 

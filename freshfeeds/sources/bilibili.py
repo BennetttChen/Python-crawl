@@ -1,5 +1,4 @@
-@'
-from typing import List, Dict, Tuple
+﻿from typing import List, Dict, Tuple
 from dateutil import parser as dtp
 from ..utils import make_session, get_json
 import yaml
@@ -65,7 +64,7 @@ def fetch_bili_timeline(limit: int = 30) -> List[Dict]:
 
 def _rid_for_category(category: str) -> Tuple[int, str]:
     c = (category or "bangumi").lower()
-    if c in ("anime","animation","donghua","动画","dongman"):
+    if c in ("anime","animation","donghua","鍔ㄧ敾","dongman"):
         return 1, "anime"
     return 13, "bangumi"
 

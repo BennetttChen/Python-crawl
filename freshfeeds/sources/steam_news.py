@@ -1,5 +1,4 @@
-@'
-from typing import List, Dict
+﻿from typing import List, Dict
 from dateutil import parser as dtp
 from .steam_util import get_news_for_app
 

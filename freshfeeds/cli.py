@@ -1,5 +1,4 @@
-@'
-import argparse, yaml
+﻿import argparse, yaml
 from . import __app_name__, __version__
 from .output import save_json, save_csv, save_markdown
 from .sources.bilibili import fetch_bili_timeline, fetch_bili_rank
@@ -33,7 +32,7 @@ def main():
 
     if args.cmd == "bili" and args.bili_cmd == "timeline":
         items = fetch_bili_timeline(limit=args.limit)
-        _export(items, args.format, args.outdir, "bili_timeline", "B站番剧时间表（PGC）")
+        _export(items, args.format, args.outdir, "bili_timeline", "B绔欑暘鍓ф椂闂磋〃锛圥GC锛?)
     elif args.cmd == "bili" and args.bili_cmd == "rank":
         category = args.category
         if category is None:
@@ -41,13 +40,13 @@ def main():
                 cfg = yaml.safe_load(f) or {}
             category = cfg.get("bilibili_rank_default_category","bangumi")
         items = fetch_bili_rank(category=category, limit=args.limit)
-        _export(items, args.format, args.outdir, f"bili_rank_{category}", f"B站排行榜（{category}）")
+        _export(items, args.format, args.outdir, f"bili_rank_{category}", f"B绔欐帓琛屾锛坽category}锛?)
     elif args.cmd == "steam":
         with open("config.yaml", "r", encoding="utf-8") as f:
             cfg = yaml.safe_load(f) or {}
         appids = cfg.get("steam_appids") or []
         items = fetch_steam_news(appids=appids, limit_per_app=args.limit)
-        _export(items, args.format, args.outdir, "steam_news", "Steam 最新公告/更新")
+        _export(items, args.format, args.outdir, "steam_news", "Steam 鏈€鏂板叕鍛?鏇存柊")
 
 def _export(items, fmt, outdir, name, title):
     paths = []

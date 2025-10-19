@@ -1,5 +1,4 @@
-@'
-import csv, json
+﻿import csv, json
 from pathlib import Path
 from typing import List, Dict
 
@@ -31,12 +30,12 @@ def save_markdown(items: List[Dict], outdir: str, name: str, title: str) -> str:
         summary = it.get("summary") or it.get("desc") or ""
         src = it.get("source") or ""
         lines.append(f"- **{t}**  ")
-        if pub: lines.append(f"  发布: {pub}  ")
-        if src: lines.append(f"  来源: {src}  ")
-        if link: lines.append(f"  链接: {link}  ")
+        if pub: lines.append(f"  鍙戝竷: {pub}  ")
+        if src: lines.append(f"  鏉ユ簮: {src}  ")
+        if link: lines.append(f"  閾炬帴: {link}  ")
         if summary:
             s = summary.replace("\\n"," ").strip()
-            lines.append(f"  摘要: {s[:280]}{'…' if len(s)>280 else ''}\\n")
+            lines.append(f"  鎽樿: {s[:280]}{'鈥? if len(s)>280 else ''}\\n")
     out.write_text("\\n".join(lines).strip()+"\\n", encoding="utf-8")
     return str(out)
 '@ | Set-Content .\freshfeeds\output.py -Encoding UTF8
