@@ -1,1 +1,42 @@
-import csv, json\nfrom pathlib import Path\nfrom typing import List, Dict\n\ndef ensure_outdir(outdir: str) -> Path:\n    p = Path(outdir); p.mkdir(parents=True, exist_ok=True); return p\n\ndef save_json(items: List[Dict], outdir: str, name: str) -> str:\n    out = ensure_outdir(outdir) / f"{name}.json"\n    out.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")\n    return str(out)\n\ndef save_csv(items: List[Dict], outdir: str, name: str) -> str:\n    out = ensure_outdir(outdir) / f"{name}.csv"\n    if not items:\n        out.touch(); return str(out)\n    keys = sorted({k for it in items for k in it.keys()})\n    with out.open("w", newline="", encoding="utf-8") as f:\n        w = csv.DictWriter(f, fieldnames=keys); w.writeheader()\n        for it in items: w.writerow(it)\n    return str(out)\n\ndef save_markdown(items: List[Dict], outdir: str, name: str, title: str) -> str:\n    out = ensure_outdir(outdir) / f"{name}.md"\n    lines = [f"# {title}", ""]\n    for it in items:\n        t = it.get("title") or it.get("name") or "Untitled"\n        link = it.get("link") or it.get("url") or ""\n        pub = it.get("published") or it.get("date") or ""\n        summary = it.get("summary") or it.get("desc") or ""\n        src = it.get("source") or ""\n        lines.append(f"- **{t}**  ")\n        if pub: lines.append(f"  发布: {pub}  ")\n        if src: lines.append(f"  来源: {src}  ")\n        if link: lines.append(f"  链接: {link}  ")\n        if summary:\n            s = summary.replace("\\n"," ").strip()\n            lines.append(f"  摘要: {s[:280]}{'…' if len(s)>280 else ''}\\n")\n    out.write_text("\\n".join(lines).strip()+"\\n", encoding="utf-8")\n    return str(out)\n
+@'
+import csv, json
+from pathlib import Path
+from typing import List, Dict
+
+def ensure_outdir(outdir: str) -> Path:
+    p = Path(outdir); p.mkdir(parents=True, exist_ok=True); return p
+
+def save_json(items: List[Dict], outdir: str, name: str) -> str:
+    out = ensure_outdir(outdir) / f"{name}.json"
+    out.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+    return str(out)
+
+def save_csv(items: List[Dict], outdir: str, name: str) -> str:
+    out = ensure_outdir(outdir) / f"{name}.csv"
+    if not items:
+        out.touch(); return str(out)
+    keys = sorted({k for it in items for k in it.keys()})
+    with out.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=keys); w.writeheader()
+        for it in items: w.writerow(it)
+    return str(out)
+
+def save_markdown(items: List[Dict], outdir: str, name: str, title: str) -> str:
+    out = ensure_outdir(outdir) / f"{name}.md"
+    lines = [f"# {title}", ""]
+    for it in items:
+        t = it.get("title") or it.get("name") or "Untitled"
+        link = it.get("link") or it.get("url") or ""
+        pub = it.get("published") or it.get("date") or ""
+        summary = it.get("summary") or it.get("desc") or ""
+        src = it.get("source") or ""
+        lines.append(f"- **{t}**  ")
+        if pub: lines.append(f"  发布: {pub}  ")
+        if src: lines.append(f"  来源: {src}  ")
+        if link: lines.append(f"  链接: {link}  ")
+        if summary:
+            s = summary.replace("\\n"," ").strip()
+            lines.append(f"  摘要: {s[:280]}{'…' if len(s)>280 else ''}\\n")
+    out.write_text("\\n".join(lines).strip()+"\\n", encoding="utf-8")
+    return str(out)
+'@ | Set-Content .\freshfeeds\output.py -Encoding UTF8
