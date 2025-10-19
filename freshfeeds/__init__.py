@@ -1,0 +1,1 @@
+__app_name__ = 'freshfeeds-bili-steam'\n__version__ = '1.0.0'\n

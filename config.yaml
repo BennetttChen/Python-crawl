@@ -1,0 +1,7 @@
+user_agent: "freshfeeds-bili-steam/1.0 (+https://github.com/yourname/freshfeeds-bili-steam)"
+request_delay_seconds: 0.8
+bilibili_rank_default_category: "bangumi"
+steam_appids:
+  - 570
+  - 730
+  - 1623730

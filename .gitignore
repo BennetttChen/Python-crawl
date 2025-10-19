@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+# 允许提交 output（如果只想提交 md，可改为：output/* 然后 !output/*.md）
