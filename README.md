@@ -1,3 +1,5 @@
+# FreshFeeds: Bilibili + Steam (Compliant)
+
 <p align="center">
   <a href="https://github.com/BennetttChen/Python-crawl/actions/workflows/refresh.yml">
     <img src="https://github.com/BennetttChen/Python-crawl/actions/workflows/refresh.yml/badge.svg" alt="Refresh feeds">
@@ -9,7 +11,6 @@
     <img src="https://img.shields.io/badge/Pages-live-blue" alt="GitHub Pages">
   </a>
 </p>
-
 # FreshFeeds Bili + Steam 🕷️
 
 这是一个基于 **Python** 的信息采集项目，用于自动获取 **B 站番剧时间表** 与 **Steam 官方游戏公告**。
@@ -24,8 +25,11 @@
 - Steam 官方新闻（ISteamNews API）
 - 输出 **JSON / CSV / Markdown**
 - GitHub Actions 每日自动刷新；自动 **Release + GitHub Pages**
+  
+合规采集 **B 站番剧时间表/排行榜** 与 **Steam 官方新闻**；输出 **JSON / CSV / Markdown**。  
+遵守 robots，使用公开 API；每日自动刷新、自动 Release、自动发布 GitHub Pages。
 
-## Quick Start (Local)
+## 本地运行
 ```bash
 python -m venv .venv
 # Windows PowerShell:
@@ -33,11 +37,11 @@ python -m venv .venv
 # .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-# Bilibili timeline
+# B 站番剧时间表
 python -m freshfeeds bili timeline --limit 15 --format all --outdir output
 
-# Bilibili rank
+# B 站排行榜：番剧区 / 或 --category anime
 python -m freshfeeds bili rank --category bangumi --limit 20 --format md --outdir output
 
-# Steam news (appids in config.yaml)
+# Steam 新闻（appids 在 config.yaml）
 python -m freshfeeds steam --limit 8 --format all --outdir output
