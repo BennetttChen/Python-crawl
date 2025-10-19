@@ -10,7 +10,16 @@
   </a>
 </p>
 
-## Features
+# FreshFeeds Bili + Steam 🕷️
+
+这是一个基于 **Python** 的信息采集项目，用于自动获取 **B 站番剧时间表** 与 **Steam 官方游戏公告**。
+
+## ✨ 功能
+- 获取 B 站番剧时间表（timeline）
+- 抓取 Steam 官方新闻（news）
+- 导出为 JSON / CSV / Markdown
+- 支持 GitHub Actions 自动每日更新
+
 - Bilibili PGC 时间表、番剧/动漫排行榜（合规、尊重 robots）
 - Steam 官方新闻（ISteamNews API）
 - 输出 **JSON / CSV / Markdown**
