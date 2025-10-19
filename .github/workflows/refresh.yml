@@ -14,11 +14,14 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
 
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0           # 拉完整历史，避免 push 被拒
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -36,7 +39,7 @@ jobs:
           python -m freshfeeds bili rank --category bangumi --limit 20 --format md --outdir output
           python -m freshfeeds steam --limit 8 --format all --outdir output
 
-      # ---- 提交到 main（仅当 output 有变化）----
+      # --- 提交到 main（仅当 output 有变化）---
       - name: Prepare commit & pull
         run: |
           set -e
@@ -63,10 +66,28 @@ jobs:
 
       - name: Push changes
         if: steps.commit.outputs.changed == 'true'
-        run: |
-          git push origin HEAD:"$BRANCH"
+        run: git push origin HEAD:"$BRANCH"
 
-      # ---- 打包并发 Release（仅当有变化）----
+      # --- 为 Pages 生成简单首页（每次都生成；不想生成可删掉这步）---
+      - name: Build index.md for Pages
+        run: |
+          mkdir -p output
+          TS=$(date -u +'%Y-%m-%d %H:%M UTC')
+          {
+            echo "# Fresh Feeds (${TS})"
+            echo
+            echo "最新生成的文件："
+            echo
+            for f in $(ls -1 output | sort); do
+              echo "- [${f}](./${f})"
+            done
+            echo
+            echo "—— 由 GitHub Actions 自动生成"
+          } > output/index.md
+          # 禁用 Jekyll 特殊规则，确保所有文件可访问
+          echo > output/.nojekyll
+
+      # --- 打包并发 Release（仅当有变化）---
       - name: Build zip artifact
         if: steps.commit.outputs.changed == 'true'
         id: pack
@@ -90,23 +111,21 @@ jobs:
             - Steam news
           files: ${{ env.ZIP }}
 
-      # ---- 发布 GitHub Pages（仅当有变化）----
+      # --- 上传 Pages 工件（每次都发布；若只想有变化时发布可加 if 条件）---
       - name: Upload Pages artifact
-        if: steps.commit.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: output
 
   deploy-pages:
     needs: refresh
-    if: needs.refresh.outputs == '' || needs.refresh.result == 'success'
+    runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
         id: deploy
