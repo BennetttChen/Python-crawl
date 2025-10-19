@@ -1,6 +1,6 @@
 user_agent: "freshfeeds-bili-steam/1.0 (+https://github.com/BennetttChen/Python-crawl)"
 request_delay_seconds: 0.8
-bilibili_rank_default_category: "bangumi"
+bilibili_rank_default_category: "bangumi"   # or "anime"
 steam_appids:
   - 570
   - 730
