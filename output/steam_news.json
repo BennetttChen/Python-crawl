@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Something mysterious is lurking in the shadows..October 23rd!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389084126",
+    "author": "pocketpair_dev",
+    "published": "1761008453",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/0b17fa55ef584236016e2e4c4c14de6e2448c809.jpg\"][/img][/p][p]Zoey and...Depresso...?[/p][p][/p][p]Something festive is brewing![/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "'Now you've got no excuses': Palworld is teaming up with Core Keeper for a Steam Autumn sale bundle because the folks over at Pocketpair are 'just big fans'",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811772772481261",
     "author": "Elie Gould",
@@ -204,15 +213,6 @@
     "author": "Rich Stanton",
     "published": "1758650898",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                Only last week, Palworld developer Pocketpair announced that the hit survival game, which remains in early access, would be going quiet as it <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-is-going-quiet-as-pocketpair-takes-an-iron-to-its-quirks-and-jank-with-full-release-pl",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "The Palworld devs are making their very own Pal-filled Stardew Valley",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1811138915552735",
-    "author": "",
-    "published": "1758626228",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/pallworld-pallfarm-headline-pox-z-pi%C5%82%C4%85.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>\n<a href=\"https://www.rockpapershotgun.com/games/palworld\">Palworld</a> developers Pocketpair have revealed Palfarm, a new farming spin-off whose cheeky compound title implies the possibility of countless other Palspin-offs, from Pal<a ",
     "source": "Steam News API"
   }
 ]

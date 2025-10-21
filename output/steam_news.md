@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772259703  
   摘要: [ MISC ] [list][*]Updated collision around Mirage top of ladder hole. [*]Updated R8 Revolver geometry and animation scale. [*]sv_subtick_movement_view_angles will now only send subtick view angles to the server with other subtick events instead of sending them for every frame the…
 
+- **Something mysterious is lurking in the shadows..October 23rd!**  
+  发布: 1761008453  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389084126  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0b17fa55ef584236016e2e4c4c14de6e2448c809.jpg"][/img][/p][p]Zoey and...Depresso...?[/p][p][/p][p]Something festive is brewing![/p]
+
 - **'Now you've got no excuses': Palworld is teaming up with Core Keeper for a Steam Autumn sale bundle because the folks over at Pocketpair are 'just big fans'**  
   发布: 1759423154  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811138915562319  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 Only last week, Palworld developer Pocketpair announced that the hit survival game, which remains in early access, would be going quiet as it <a href="https://www.pcgamer.com…
-
-- **The Palworld devs are making their very own Pal-filled Stardew Valley**  
-  发布: 1758626228  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1811138915552735  
-  摘要: <img src="https://assetsio.gnwcdn.com/pallworld-pallfarm-headline-pox-z-pi%C5%82%C4%85.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp" /> <p> <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developers Pocketpair have revealed Palfarm,…
