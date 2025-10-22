@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772259703  
   摘要: [ MISC ] [list][*]Updated collision around Mirage top of ladder hole. [*]Updated R8 Revolver geometry and animation scale. [*]sv_subtick_movement_view_angles will now only send subtick view angles to the server with other subtick events instead of sending them for every frame the…
 
+- **Depresso Found Something He Actually Likes**  
+  发布: 1761051630  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389100470  
+  摘要: [p][img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/2615.png"][/img]The one thing Depresso actually likes has arrived![/p][p][/p][p]We’ve teamed up with @Madrinas to bring you the Palworld Limited Edition Collector’s Box —[/p][p][/p][p]featur…
+
 - **Something mysterious is lurking in the shadows..October 23rd!**  
   发布: 1761008453  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1811772772249730  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/once-human-palworld-crossover-event-new-island-map-steam-survival-games-f2p-starry-studio-netease-900x506.jpg"/><p><strong>Palworld</strong> is showing no signs of slowing down. Fresh of…
-
-- **A week after saying it was going quiet for the rest of the year, Palworld announces a crossover with the brilliant and bloodstained shooter Ultrakill**  
-  发布: 1758650898  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811138915562319  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 Only last week, Palworld developer Pocketpair announced that the hit survival game, which remains in early access, would be going quiet as it <a href="https://www.pcgamer.com…

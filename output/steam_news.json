@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Depresso Found Something He Actually Likes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389100470",
+    "author": "pocketpair_admin",
+    "published": "1761051630",
+    "summary": "[p][img src=\"https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/2615.png\"][/img]The one thing Depresso actually likes has arrived![/p][p][/p][p]We’ve teamed up with @Madrinas to bring you the Palworld Limited Edition Collector’s Box —[/p][p][/p][p]featuring a Palworld shaker cup and Depresso Chocolate Espresso Cold Brew Coffee. There are 4[/p][p]unique Depresso labels to ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Something mysterious is lurking in the shadows..October 23rd!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389084126",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1758818787",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/once-human-palworld-crossover-event-new-island-map-steam-survival-games-f2p-starry-studio-netease-900x506.jpg\"/><p><strong>Palworld</strong> is showing no signs of slowing down. Fresh off the announcement of farming-themed spinoff Palfarm, Pocketpair's signature critters are invading the world of one of i",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "A week after saying it was going quiet for the rest of the year, Palworld announces a crossover with the brilliant and bloodstained shooter Ultrakill",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811138915562319",
-    "author": "Rich Stanton",
-    "published": "1758650898",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                Only last week, Palworld developer Pocketpair announced that the hit survival game, which remains in early access, would be going quiet as it <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-is-going-quiet-as-pocketpair-takes-an-iron-to-its-quirks-and-jank-with-full-release-pl",
     "source": "Steam News API"
   }
 ]
