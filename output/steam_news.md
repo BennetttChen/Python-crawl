@@ -49,6 +49,18 @@
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/72299dcf96dad6d594f223006a720543a7b151a7.png"][/img]Right now, millions of Dota players are already studiously constructing new Fantasy rosters, loyally repping favorite talent and player bundles, and endlessly serenading enemies and allies…
 
 - **Counter-Strike 2 Update**  
+  发布: 1761174020  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/l…
+
+- **Re-Retakes**  
+  发布: 1761174008  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424631  
+  摘要: [p][/p][p][img]{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.png[/img][/p][p]The bomb has been planted and you're running out of time. It's the return of retakes! [/p][p]In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scena…
+
+- **Counter-Strike 2 Update**  
   发布: 1760573182  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388920331  
@@ -84,17 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772457461  
   摘要: [p]\[ ARMORY ][/p][list][*][p]Added Missing Link Community Charms collection featuring 23 new charms created by Counter-Strike Workshop community artists.[/p][/*][*][p]Added Dr. Boom Charms collection featuring 22 new charms.[/p][/*][*][p]Added 2025 Community Stickers collection …
 
-- **Community Maps, Charms, and More**  
-  发布: 1759362152  
+- **Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI**  
+  发布: 1761152518  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772457460  
-  摘要: [p]Let's get right into it. Today's update features new Wingman and Competitive community maps, along with brand new charms (including community designs), stickers, and more.[/p][p][/p][h3]Community Maps[/h3][p][video webm="{STEAM_CLAN_IMAGE}/3381077/1328ecdd3aff19f14078872e0b8ee…
-
-- **Counter-Strike 2 Update**  
-  发布: 1758846282  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772259703  
-  摘要: [ MISC ] [list][*]Updated collision around Mirage top of ladder hole. [*]Updated R8 Revolver geometry and animation scale. [*]sv_subtick_movement_view_angles will now only send subtick view angles to the server with other subtick events instead of sending them for every frame the…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000  
+  摘要: <img src="https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Earlier this year, <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair used its newfound success to <a href="https://www.roc…
 
 - **Depresso Found Something He Actually Likes**  
   发布: 1761051630  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772360578  
   摘要: [p]Palworld version v0.6.7 has been released![/p][p]＝＝＝[/p][p]▼ Bug Fixes[/p][p]・Fixed an issue where the game would crash when re-entering a dungeon after summoning a Mimog and saving inside the dungeon.[/p][p]▼ Mechanic Adjustments[/p][p]・\[PS5/Xbox] The warning that appears wh…
-
-- **Palworld joins hands with free-to-play survival rival Once Human in new collab**  
-  发布: 1758818787  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1811772772249730  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/once-human-palworld-crossover-event-new-island-map-steam-survival-games-f2p-starry-studio-netease-900x506.jpg"/><p><strong>Palworld</strong> is showing no signs of slowing down. Fresh of…

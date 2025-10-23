@@ -74,6 +74,24 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632",
+    "author": "Vitaliy",
+    "published": "1761174020",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/list][p]\\[ MAPS ][/p][list][*][p]Updated Golden to the latest version from Steam Community Workshop ([url=\"https://steamc",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Re-Retakes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424631",
+    "author": "gautam",
+    "published": "1761174008",
+    "summary": "[p][/p][p][img]{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.png[/img][/p][p]The bomb has been planted and you're running out of time. It's the return of retakes! [/p][p]In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scenario. Select your loadout card each round, check the map to coordinate with your teammates, and use your resources wisely",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388920331",
     "author": "Vitaliy",
     "published": "1760573182",
@@ -126,21 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Community Maps, Charms, and More",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772457460",
-    "author": "gautam",
-    "published": "1759362152",
-    "summary": "[p]Let's get right into it. Today's update features new Wingman and Competitive community maps, along with brand new charms (including community designs), stickers, and more.[/p][p][/p][h3]Community Maps[/h3][p][video webm=\"{STEAM_CLAN_IMAGE}/3381077/1328ecdd3aff19f14078872e0b8eea7e24e615f8.webm\" mp4=\"{STEAM_CLAN_IMAGE}/3381077/c5ab133e75f3b6b2c822652b91d16dfffad9bdd1.mp4\" poster=\"https://clan.aka",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772259703",
-    "author": "Vitaliy",
-    "published": "1758846282",
-    "summary": "[ MISC ]\n[list][*]Updated collision around Mirage top of ladder hole.\n[*]Updated R8 Revolver geometry and animation scale.\n[*]sv_subtick_movement_view_angles will now only send subtick view angles to the server with other subtick events instead of sending them for every frame they change.\n[*]Enabled Vulkan defragmentation to help alleviate texture streaming overhead.[/list]",
+    "appid": 1623730,
+    "title": "Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000",
+    "author": "",
+    "published": "1761152518",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>\nEarlier this year, <a href=\"https://www.rockpapershotgun.com/games/palworld\">Palworld</a> developer Pocketpair used its newfound success to <a href=\"https://www.rockpapershotgun.com/palworlds-creators-are-paying-the-kenzera-devs-to-make-a-horror-game-about-the-entertainment-industry\"",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "pocketpair_admin",
     "published": "1759115064",
     "summary": "[p]Palworld version v0.6.7 has been released![/p][p]＝＝＝[/p][p]▼ Bug Fixes[/p][p]・Fixed an issue where the game would crash when re-entering a dungeon after summoning a Mimog and saving inside the dungeon.[/p][p]▼ Mechanic Adjustments[/p][p]・\\[PS5/Xbox] The warning that appears when the world settings are set too high for the system playing the game will now shows once every 15 minutes.[/p][p]＝＝＝[/",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld joins hands with free-to-play survival rival Once Human in new collab",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1811772772249730",
-    "author": "editor@pcgamesn.com",
-    "published": "1758818787",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/once-human-palworld-crossover-event-new-island-map-steam-survival-games-f2p-starry-studio-netease-900x506.jpg\"/><p><strong>Palworld</strong> is showing no signs of slowing down. Fresh off the announcement of farming-themed spinoff Palfarm, Pocketpair's signature critters are invading the world of one of i",
     "source": "Steam News API"
   }
 ]
