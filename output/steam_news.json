@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326",
+    "author": "Vitaliy",
+    "published": "1761258728",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for players by first kicking dead bots and bots who are not controlled by a human.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632",
     "author": "Vitaliy",
     "published": "1761174020",
@@ -135,12 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772457461",
-    "author": "jo",
-    "published": "1759362184",
-    "summary": "[p]\\[ ARMORY ][/p][list][*][p]Added Missing Link Community Charms collection featuring 23 new charms created by Counter-Strike Workshop community artists.[/p][/*][*][p]Added Dr. Boom Charms collection featuring 22 new charms.[/p][/*][*][p]Added 2025 Community Stickers collection featuring 29 new stickers created by Counter-Strike Workshop community artists.[/p][/*][*][p]Added Sugarface 2 Stickers ",
+    "appid": 1623730,
+    "title": "Update v0.6.8: Halloween! Zoe's Halloween costume and Depresso suit!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641429890",
+    "author": "pocketpair_admin",
+    "published": "1761188707",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png\"][/img][/p][p][/p][p]\\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new \"Halloween Mission\"![/p][p]Complete the mission to unlock Zoe's Halloween costume and a Depresso armor set for players! [/p][p]▼Mechanic Adjustments[/p][p]・Added the \"Zoe's Sphere\"",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1759212822",
     "summary": "[url=https://clan.fastly.steamstatic.com/images/41648656/ce6f4d2489e0c42fbc689061d3cb46fea5734341.png][img]https://clan.fastly.steamstatic.com/images/41648656/40db9d8da860184bea69259335f4f733fdbd9fe0.png[/img][/url]\r\n\r\n[h1]Autumn is here! Time to cosy up inside with some great games up to 50% off![/h1]\r\n[b]Palworld & Core Keeper Steam Bundle[/b]\r\nThis great value bundle (10% OFF) includes two popu",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v0.6.7: Dungeon Entry Bug Fix",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772360578",
-    "author": "pocketpair_admin",
-    "published": "1759115064",
-    "summary": "[p]Palworld version v0.6.7 has been released![/p][p]＝＝＝[/p][p]▼ Bug Fixes[/p][p]・Fixed an issue where the game would crash when re-entering a dungeon after summoning a Mimog and saving inside the dungeon.[/p][p]▼ Mechanic Adjustments[/p][p]・\\[PS5/Xbox] The warning that appears when the world settings are set too high for the system playing the game will now shows once every 15 minutes.[/p][p]＝＝＝[/",
     "source": "Steam News API"
   }
 ]

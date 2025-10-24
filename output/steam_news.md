@@ -49,6 +49,12 @@
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/72299dcf96dad6d594f223006a720543a7b151a7.png"][/img]Right now, millions of Dota players are already studiously constructing new Fantasy rosters, loyally repping favorite talent and player bundles, and endlessly serenading enemies and allies…
 
 - **Counter-Strike 2 Update**  
+  发布: 1761258728  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
+
+- **Counter-Strike 2 Update**  
   发布: 1761174020  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772490482  
   摘要: [p]\[ MAPS ][/p][list][*][p]Updated Palacio, Rooftop, and Golden to the latest Community Workshop versions.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Adjusted AUG and SG 553 scope dot sizes.[/p][/*][*][p]Added game options for dot scale and sniper rifle scope thickness.[/p…
 
-- **Counter-Strike 2 Update**  
-  发布: 1759362184  
+- **Update v0.6.8: Halloween! Zoe's Halloween costume and Depresso suit!**  
+  发布: 1761188707  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772457461  
-  摘要: [p]\[ ARMORY ][/p][list][*][p]Added Missing Link Community Charms collection featuring 23 new charms created by Counter-Strike Workshop community artists.[/p][/*][*][p]Added Dr. Boom Charms collection featuring 22 new charms.[/p][/*][*][p]Added 2025 Community Stickers collection …
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641429890  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png"][/img][/p][p][/p][p]\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new "Halloween Mission"![/p][p]Complete the mission to unlock Zo…
 
 - **Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI**  
   发布: 1761152518  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772399563  
   摘要: [url=https://clan.fastly.steamstatic.com/images/41648656/ce6f4d2489e0c42fbc689061d3cb46fea5734341.png][img]https://clan.fastly.steamstatic.com/images/41648656/40db9d8da860184bea69259335f4f733fdbd9fe0.png[/img][/url]  [h1]Autumn is here! Time to cosy up inside with some great ga…
-
-- **v0.6.7: Dungeon Entry Bug Fix**  
-  发布: 1759115064  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772360578  
-  摘要: [p]Palworld version v0.6.7 has been released![/p][p]＝＝＝[/p][p]▼ Bug Fixes[/p][p]・Fixed an issue where the game would crash when re-entering a dungeon after summoning a Mimog and saving inside the dungeon.[/p][p]▼ Mechanic Adjustments[/p][p]・\[PS5/Xbox] The warning that appears wh…
