@@ -1,53 +1,5 @@
 # Bilibili PGC Timeline
 
-- **双生武魂**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss97755  
-  摘要: 09:00
-
-- **通灵妃 第二季**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45974  
-  摘要: 10:00
-
-- **万剑王座**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106703  
-  摘要: 10:00
-
-- **万古剑帝**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106806  
-  摘要: 10:00
-
-- **天命大神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106807  
-  摘要: 10:00
-
-- **亏成首富从游戏开始 日语版**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112194  
-  摘要: 11:00
-
-- **吉伊卡哇 第二季（中配）**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss108550  
-  摘要: 12:00
-
-- **琉璃的宝石**  
-  发布: 19:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss102014  
-  摘要: 19:00
-
 - **胆大党 第二季 中配版**  
   发布: 00:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +71,51 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss102708  
   摘要: 10:00
+
+- **万古剑帝**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106806  
+  摘要: 10:00
+
+- **绝世神皇**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106808  
+  摘要: 10:00
+
+- **吉伊卡哇 第二季（中配）**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss108550  
+  摘要: 12:00
+
+- **葬送的芙莉莲 中配版**  
+  发布: 18:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss102261  
+  摘要: 18:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **不动声色的柏田与喜形于色的太田**  
+  发布: 20:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112807  
+  摘要: 20:00
+
+- **野生的大魔王出现了！**  
+  发布: 21:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112978  
+  摘要: 21:30

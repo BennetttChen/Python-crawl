@@ -49,6 +49,12 @@
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/72299dcf96dad6d594f223006a720543a7b151a7.png"][/img]Right now, millions of Dota players are already studiously constructing new Fantasy rosters, loyally repping favorite talent and player bundles, and endlessly serenading enemies and allies…
 
 - **Counter-Strike 2 Update**  
+  发布: 1761780997  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034432852394  
+  摘要: [p]\[ MISC ][/p][list][*][p]Improved player movement prediction when colliding with other moving players.[/p][/*][*][p]Added scope in/out sound prediction to play immediately for local player.[/p][/*][*][p]Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has …
+
+- **Counter-Strike 2 Update**  
   发布: 1761258728  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
@@ -90,23 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772523858  
   摘要: [p]\[ MAPS ][/p][list][*][p]Updated Palacio to the latest Community Workshop version. ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053"]Update Notes[/url])[/p][/*][*][p]Removed Transit from official matchmaking.[/p][/*][/list][p][/p][p]\[ MAP SCRIPTI…
 
-- **Counter-Strike 2 Update**  
-  发布: 1759448145  
+- **v0.6.9: Bug Fixes**  
+  发布: 1761707888  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772490482  
-  摘要: [p]\[ MAPS ][/p][list][*][p]Updated Palacio, Rooftop, and Golden to the latest Community Workshop versions.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Adjusted AUG and SG 553 scope dot sizes.[/p][/*][*][p]Added game options for dot scale and sniper rifle scope thickness.[/p…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814942955087349  
+  摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.6.9 has been released! [/p][p]＝＝＝ [/p][p]▼Bug Fixes[/p][p]・Fixed a bug that caused the game to freeze when in combat with the Terraprism and the Free Pal Alliance.[/p][p]・Fixed a bug where the map icon for supply crates would not disa…
 
 - **Update v0.6.8: Halloween! Zoe's Halloween costume and Depresso suit!**  
   发布: 1761188707  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641429890  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png"][/img][/p][p][/p][p]\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new "Halloween Mission"![/p][p]Complete the mission to unlock Zo…
-
-- **Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI**  
-  发布: 1761152518  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Earlier this year, <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair used its newfound success to <a href="https://www.roc…
 
 - **Depresso Found Something He Actually Likes**  
   发布: 1761051630  
