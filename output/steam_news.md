@@ -108,6 +108,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641429890  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png"][/img][/p][p][/p][p]\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new "Halloween Mission"![/p][p]Complete the mission to unlock Zo…
 
+- **Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI**  
+  发布: 1761152518  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000  
+  摘要: <img src="https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Earlier this year, <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair used its newfound success to <a href="https://www.roc…
+
 - **Depresso Found Something He Actually Likes**  
   发布: 1761051630  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1811772772477310  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/palworld-crosses-lines-capcom-dev-yoshiki-okamoto-900x506.jpg"/><p>As <strong>Palworld</strong> developer Pocketpair handles legal challenges from Nintendo over patented game mechanics, …
-
-- **Pocketpair Steam Autumn Sale!**  
-  发布: 1759212822  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772399563  
-  摘要: [url=https://clan.fastly.steamstatic.com/images/41648656/ce6f4d2489e0c42fbc689061d3cb46fea5734341.png][img]https://clan.fastly.steamstatic.com/images/41648656/40db9d8da860184bea69259335f4f733fdbd9fe0.png[/img][/url]  [h1]Autumn is here! Time to cosy up inside with some great ga…
