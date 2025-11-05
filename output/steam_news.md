@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871656943  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/72299dcf96dad6d594f223006a720543a7b151a7.png"][/img]Right now, millions of Dota players are already studiously constructing new Fantasy rosters, loyally repping favorite talent and player bundles, and endlessly serenading enemies and allies…
 
+- **Introducing TrueView**  
+  发布: 1762300820  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748  
+  摘要: [p]Today we're adding a new feature to demo playback called [i]TrueView[/i].  With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency.…
+
+- **Counter-Strike 2 Update**  
+  发布: 1762300751  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210747  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Fixed a case where air acceleration was clamped incorrectly while surfing.[/p][/*][*][p]Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.[/p][/*][*][p]Fix a bug causing "Delay Sniper Rifle …
+
 - **Counter-Strike 2 Update**  
   发布: 1761780997  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388884503  
   摘要: [p]\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][*][p]Reworked bullet penetration simulation to reduce CPU usage.[/p][/*][*][p]Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage wh…
-
-- **Counter-Strike 2 Pre-Release Update**  
-  发布: 1760398156  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031352604  
-  摘要: [p align="start"]A new pre-release build (“1.41.1.3-rc1”) is now available in the CS2 beta depot. This build is not compatible with public matchmaking.[/p][p align="start"]For instructions on how to opt into a CS2 beta depot build, visit the following page: [/p][p][url="https://s…
-
-- **Counter-Strike 2 Update**  
-  发布: 1759533512  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772523858  
-  摘要: [p]\[ MAPS ][/p][list][*][p]Updated Palacio to the latest Community Workshop version. ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053"]Update Notes[/url])[/p][/*][*][p]Removed Transit from official matchmaking.[/p][/*][/list][p][/p][p]\[ MAP SCRIPTI…
 
 - **v0.6.9: Bug Fixes**  
   发布: 1761707888  

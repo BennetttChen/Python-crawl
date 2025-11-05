@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Introducing TrueView",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748",
+    "author": "Piggles ULTRAPRO",
+    "published": "1762300820",
+    "summary": "[p]Today we're adding a new feature to demo playback called [i]TrueView[/i].  With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. This could be confusing because shots would hit that didn't look like they should have, and vice versa. [/p][p]TrueView",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210747",
+    "author": "Piggles ULTRAPRO",
+    "published": "1762300751",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where air acceleration was clamped incorrectly while surfing.[/p][/*][*][p]Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.[/p][/*][*][p]Fix a bug causing \"Delay Sniper Rifle Un-Scope after Shot\" to be inconsistent.[/p][/*][/list][p][/p][p]\\[ DEMO ][/p][list][*][p]Added TrueView demo playback, ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034432852394",
     "author": "Vitaliy",
@@ -123,24 +141,6 @@
     "author": "Vitaliy",
     "published": "1760480890",
     "summary": "[p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][*][p]Reworked bullet penetration simulation to reduce CPU usage.[/p][/*][*][p]Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage when players are shooting.[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Defusing C4 will now lower the viewmodel weapon, ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Pre-Release Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031352604",
-    "author": "Vitaliy",
-    "published": "1760398156",
-    "summary": "[p align=\"start\"]A new pre-release build (“1.41.1.3-rc1”) is now available in the CS2 beta depot. This build is not compatible with public matchmaking.[/p][p align=\"start\"]For instructions on how to opt into a CS2 beta depot build, visit the following page: [/p][p][url=\"https://support.steampowered.com/kb_article.php?ref=9847-WHXC-7326\"]https://support.steampowered.com/kb_article.php?ref=9847-WHXC",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772523858",
-    "author": "Vitaliy",
-    "published": "1759533512",
-    "summary": "[p]\\[ MAPS ][/p][list][*][p]Updated Palacio to the latest Community Workshop version. ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053\"]Update Notes[/url])[/p][/*][*][p]Removed Transit from official matchmaking.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed Instance.OnPlayerPing not sending position.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {
