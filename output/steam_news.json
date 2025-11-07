@@ -77,7 +77,7 @@
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748",
     "author": "Piggles ULTRAPRO",
     "published": "1762300820",
-    "summary": "[p]Today we're adding a new feature to demo playback called [i]TrueView[/i].  With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. This could be confusing because shots would hit that didn't look like they should have, and vice versa. [/p][p]TrueView",
+    "summary": "[p]Today we're adding a new feature to demo playback called [i]TrueView[/i]. With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. This could be confusing because shots would hit that didn't look like they should have, and vice versa. [/p][p]TrueView ",
     "source": "Steam News API"
   },
   {

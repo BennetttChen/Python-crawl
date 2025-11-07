@@ -52,7 +52,7 @@
   发布: 1762300820  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748  
-  摘要: [p]Today we're adding a new feature to demo playback called [i]TrueView[/i].  With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency.…
+  摘要: [p]Today we're adding a new feature to demo playback called [i]TrueView[/i]. With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. …
 
 - **Counter-Strike 2 Update**  
   发布: 1762300751  
