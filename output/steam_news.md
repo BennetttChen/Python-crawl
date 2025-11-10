@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388884503  
   摘要: [p]\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][*][p]Reworked bullet penetration simulation to reduce CPU usage.[/p][/*][*][p]Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage wh…
 
+- **v0.6.9.82911: Multiplayer connectivity improvements**  
+  发布: 1762744038  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768377452  
+  摘要: [p]\[Patch Notice]  [/p][p]Palworld version v0.6.9.82911 has been released! [/p][p]＝＝＝ [/p][p]▼Multiplayer[/p][p]・\[PC] Fixed an issue where multiplayer connectivity was not working correctly in some cases. [/p][p]=== [/p][p]Thank you for your continued support of Palworld![/p]
+
 - **v0.6.9: Bug Fixes**  
   发布: 1761707888  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811772772479780  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg"/><br><br>                 Pocketpair’s Palworld has certainly found an audience since release: even if, unfortunately, those interested include Nintendo's lawyers. The ongoing copyright lawsuit betwee…
-
-- **Ex Resident Evil dev says Palworld "crosses lines that should not be crossed"**  
-  发布: 1759408269  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1811772772477310  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/palworld-crosses-lines-capcom-dev-yoshiki-okamoto-900x506.jpg"/><p>As <strong>Palworld</strong> developer Pocketpair handles legal challenges from Nintendo over patented game mechanics, …
