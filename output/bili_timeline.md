@@ -1,47 +1,5 @@
 # Bilibili PGC Timeline
 
-- **3年Z组银八老师**  
-  发布: 00:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112480  
-  摘要: 00:00
-
-- **明明只是暗杀者，我的面板数值却比勇者还要强**  
-  发布: 00:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112542  
-  摘要: 00:30
-
-- **开局地摊卖大力**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45964  
-  摘要: 10:00
-
-- **绝世神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106808  
-  摘要: 10:00
-
-- **武魂大陆**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106810  
-  摘要: 10:00
-
-- **吉伊卡哇 第二季（中配）**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss108550  
-  摘要: 12:00
-
-- **超常技能开启奇幻世界美食之旅 第二季**  
-  发布: 23:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss113034  
-  摘要: 23:30
-
 - **双生武魂**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +76,46 @@
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss106806  
+  摘要: 10:00
+
+- **天命大神皇**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106807  
+  摘要: 10:00
+
+- **亏成首富从游戏开始 日语版**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112194  
+  摘要: 11:00
+
+- **吉伊卡哇 第二季（中配）**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss108550  
+  摘要: 12:00
+
+- **胆大党 第二季 中配版**  
+  发布: 00:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112243  
+  摘要: 00:00
+
+- **缔灵爱之默水玲珑**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss102134  
+  摘要: 10:00
+
+- **荒古恩仇录·破风篇**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106809  
+  摘要: 10:00
+
+- **枕刀歌 第三季**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss107369  
   摘要: 10:00

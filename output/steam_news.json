@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Dota x Monster Hunter",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768403675",
+    "author": "Unicorn Princess",
+    "published": "1762812389",
+    "summary": "[img src=\"{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png\"][/img]\n\n[p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url=\"https://store.steampowered.com/curator/34827959\"]Monster Hunter[/url] crossover with new sets, new pets, a new in-game hunt and crafting system, and ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Dota 2 Update - 10/09/2025",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031215262",
     "author": "flynnch",
@@ -60,15 +69,6 @@
     "author": "krAnk0r",
     "published": "1757406948",
     "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/b30a83e723685e5b5e448bd2a7195f04ab15da8b.png[/img]\nFor four straight days, sixteen teams battled their way through an intense Road to the International: Playoffs. Now, Xtreme Gaming, BB Team, Team Tidebound, Heroic, Pvision, Nigma Galaxy, Tundra Esports, and Team Falcons will vie for the Aegis in a [url=\"https://www.dota2.com/esports/ti14/standings/playoff/0\"]double",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "The International: Streams, Secret Shop, and More",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871656943",
-    "author": "krAnk0r",
-    "published": "1756572152",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/3703047/72299dcf96dad6d594f223006a720543a7b151a7.png\"][/img]Right now, millions of Dota players are already studiously constructing new Fantasy rosters, loyally repping favorite talent and player bundles, and endlessly serenading enemies and allies with the freshest of voice lines. If you're not one of them, there's no better time than now to dig in. Because as you ",
     "source": "Steam News API"
   },
   {

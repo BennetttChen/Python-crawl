@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota x Monster Hunter**  
+  发布: 1762812389  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768403675  
+  摘要: [img src="{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png"][/img]  [p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url="https://store.steampowered.co…
+
 - **Dota 2 Update - 10/09/2025**  
   发布: 1760033899  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180189983  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/b30a83e723685e5b5e448bd2a7195f04ab15da8b.png[/img] For four straight days, sixteen teams battled their way through an intense Road to the International: Playoffs. Now, Xtreme Gaming, BB Team, Team Tidebound, Heroic, Pvision, Nigma Galaxy, Tundra Es…
-
-- **The International: Streams, Secret Shop, and More**  
-  发布: 1756572152  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871656943  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/72299dcf96dad6d594f223006a720543a7b151a7.png"][/img]Right now, millions of Dota players are already studiously constructing new Fantasy rosters, loyally repping favorite talent and player bundles, and endlessly serenading enemies and allies…
 
 - **Introducing TrueView**  
   发布: 1762300820  
