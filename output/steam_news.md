@@ -1,5 +1,11 @@
 # Steam News
 
+- **I never thought I'd see Dota 2 and Monster Hunter in the same sentence, but the MOBA's biggest collab ever just dropped out of nowhere**  
+  发布: 1762868535  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1815580768422774  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve'…
+
 - **Dota x Monster Hunter**  
   发布: 1762812389  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1810503566424289  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/tqTxvKqPKWAFUekQa2Qw8W-1280-80.jpg"/><br><br>                 The finals of The International 2025, the annual <a href="https://www.pcgamer.com/dota-2/">Dota 2</a> world championship tournament, are now underway, and to get things start…
-
-- **The International 2025 Arrives**  
-  发布: 1757406948  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180189983  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/b30a83e723685e5b5e448bd2a7195f04ab15da8b.png[/img] For four straight days, sixteen teams battled their way through an intense Road to the International: Playoffs. Now, Xtreme Gaming, BB Team, Team Tidebound, Heroic, Pvision, Nigma Galaxy, Tundra Es…
 
 - **Introducing TrueView**  
   发布: 1762300820  
