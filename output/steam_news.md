@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1810503566424289  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/tqTxvKqPKWAFUekQa2Qw8W-1280-80.jpg"/><br><br>                 The finals of The International 2025, the annual <a href="https://www.pcgamer.com/dota-2/">Dota 2</a> world championship tournament, are now underway, and to get things start…
 
+- **Counter-Strike 2 Update**  
+  发布: 1762988337  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365196  
+  摘要: [p]\[ MAJOR ][/p][list][*][p]The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, yo…
+
+- **The Starladder Budapest Major 2025**  
+  发布: 1762988293  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195  
+  摘要: [p]As 2025 comes to an end, the [url="https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three…
+
 - **Introducing TrueView**  
   发布: 1762300820  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424631  
   摘要: [p][/p][p][img]{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.png[/img][/p][p]The bomb has been planted and you're running out of time. It's the return of retakes! [/p][p]In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scena…
-
-- **Counter-Strike 2 Update**  
-  发布: 1760573182  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388920331  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of incorrect damage report data at the end of the rounds.[/p][/*][*][p]Updated King Crasswater and Queen Ava stickers for clarity.[/p][/*][*][p]Skinning fixes on Driver Gloves and Sport Gloves.[/p][/*][*][p]Fixed a crash when playing back …
-
-- **Counter-Strike 2 Update**  
-  发布: 1760480890  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388884503  
-  摘要: [p]\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][*][p]Reworked bullet penetration simulation to reduce CPU usage.[/p][/*][*][p]Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage wh…
 
 - **v0.6.9.82911: Multiplayer connectivity improvements**  
   发布: 1762744038  

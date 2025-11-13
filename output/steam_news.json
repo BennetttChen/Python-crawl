@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365196",
+    "author": "COMPLEX",
+    "published": "1762988337",
+    "summary": "[p]\\[ MAJOR ][/p][list][*][p]The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick'Em Challenge. Additionally, you will show u",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "The Starladder Budapest Major 2025",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195",
+    "author": "gautam",
+    "published": "1762988293",
+    "summary": "[p]As 2025 comes to an end, the [url=\"https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome\"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three stages of the StarLadder Budapest Major will be played in front of live crowds at MTK Sportpark, and for the first time",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Introducing TrueView",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748",
     "author": "Piggles ULTRAPRO",
@@ -123,24 +141,6 @@
     "author": "gautam",
     "published": "1761174008",
     "summary": "[p][/p][p][img]{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.png[/img][/p][p]The bomb has been planted and you're running out of time. It's the return of retakes! [/p][p]In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scenario. Select your loadout card each round, check the map to coordinate with your teammates, and use your resources wisely",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388920331",
-    "author": "Vitaliy",
-    "published": "1760573182",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed a case of incorrect damage report data at the end of the rounds.[/p][/*][*][p]Updated King Crasswater and Queen Ava stickers for clarity.[/p][/*][*][p]Skinning fixes on Driver Gloves and Sport Gloves.[/p][/*][*][p]Fixed a crash when playing back some demo files.[/p][/*][*][p]Stability improvements.[/p][/*][/list]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674388884503",
-    "author": "Vitaliy",
-    "published": "1760480890",
-    "summary": "[p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][*][p]Reworked bullet penetration simulation to reduce CPU usage.[/p][/*][*][p]Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage when players are shooting.[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Defusing C4 will now lower the viewmodel weapon, ",
     "source": "Steam News API"
   },
   {
