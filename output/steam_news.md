@@ -49,6 +49,12 @@
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/tqTxvKqPKWAFUekQa2Qw8W-1280-80.jpg"/><br><br>                 The finals of The International 2025, the annual <a href="https://www.pcgamer.com/dota-2/">Dota 2</a> world championship tournament, are now underway, and to get things start…
 
 - **Counter-Strike 2 Update**  
+  发布: 1763082076  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528930061  
+  摘要: [p]\[ MISC ][/p][list][*][p]Fixed ability to plant C4 while standing on top of a teammate.[/p][/*][*][p]Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.[/p][/*][*][p]Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scor…
+
+- **Counter-Strike 2 Update**  
   发布: 1762988337  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365196  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/l…
-
-- **Re-Retakes**  
-  发布: 1761174008  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424631  
-  摘要: [p][/p][p][img]{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.png[/img][/p][p]The bomb has been planted and you're running out of time. It's the return of retakes! [/p][p]In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scena…
 
 - **v0.6.9.82911: Multiplayer connectivity improvements**  
   发布: 1762744038  

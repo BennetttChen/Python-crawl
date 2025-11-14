@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528930061",
+    "author": "Piggles ULTRAPRO",
+    "published": "1763082076",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed ability to plant C4 while standing on top of a teammate.[/p][/*][*][p]Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.[/p][/*][*][p]Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scoreboard.[/p][/*][*][p]Fixed a replay bug causing infinite shell casing effects.[/p][/*][*][p]Updated the Budapest 2025 Im",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365196",
     "author": "COMPLEX",
     "published": "1762988337",
@@ -132,15 +141,6 @@
     "author": "Vitaliy",
     "published": "1761174020",
     "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/list][p]\\[ MAPS ][/p][list][*][p]Updated Golden to the latest version from Steam Community Workshop ([url=\"https://steamc",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Re-Retakes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424631",
-    "author": "gautam",
-    "published": "1761174008",
-    "summary": "[p][/p][p][img]{STEAM_CLAN_IMAGE}/3381077/aae1ceb26e12464542579430a2436c8348461b5c.png[/img][/p][p]The bomb has been planted and you're running out of time. It's the return of retakes! [/p][p]In this classic game mode, each round drops you in to a fast-paced 4v3 after-plant scenario. Select your loadout card each round, check the map to coordinate with your teammates, and use your resources wisely",
     "source": "Steam News API"
   },
   {
