@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278",
+    "author": "Vitaliy",
+    "published": "1763596068",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of SG 556 deploy animation.[/p][/*][*][p]Stability improvements.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528930061",
     "author": "Piggles ULTRAPRO",
     "published": "1763082076",
@@ -132,15 +141,6 @@
     "author": "Vitaliy",
     "published": "1761258728",
     "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for players by first kicking dead bots and bots who are not controlled by a human.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632",
-    "author": "Vitaliy",
-    "published": "1761174020",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/list][p]\\[ MAPS ][/p][list][*][p]Updated Golden to the latest version from Steam Community Workshop ([url=\"https://steamc",
     "source": "Steam News API"
   },
   {

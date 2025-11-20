@@ -49,6 +49,12 @@
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/tqTxvKqPKWAFUekQa2Qw8W-1280-80.jpg"/><br><br>                 The finals of The International 2025, the annual <a href="https://www.pcgamer.com/dota-2/">Dota 2</a> world championship tournament, are now underway, and to get things start…
 
 - **Counter-Strike 2 Update**  
+  发布: 1763596068  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
+  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
+
+- **Counter-Strike 2 Update**  
   发布: 1763082076  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528930061  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
-
-- **Counter-Strike 2 Update**  
-  发布: 1761174020  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641424632  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/l…
 
 - **v0.6.9.82911: Multiplayer connectivity improvements**  
   发布: 1762744038  
