@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
 
+- **Palworld’s “Home Sweet Home” Update arrives December 17!**  
+  发布: 1763843432  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002017502  
+  摘要: [p]We're excited to announce that Palworld's next major update will arrive on December 17!  The "Home Sweet Home" update includes a collab with the popular FPS ULTRAKILL, as well as new features for customizing bases.  Check out the trailer released today for more details!  [dyna…
+
 - **v0.6.9.82911: Multiplayer connectivity improvements**  
   发布: 1762744038  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811772772481261  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/" target="_blank">Palworld</a> developer Pocketpair has proved time and again that it's no stranger to supporting other indie gam…
-
-- **Capcom legend tackles Palworld-Nintendo battle and manages to annoy almost everyone: 'It's a game that transcends the boundaries of war'**  
-  发布: 1759419160  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811772772479780  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg"/><br><br>                 Pocketpair’s Palworld has certainly found an audience since release: even if, unfortunately, those interested include Nintendo's lawyers. The ongoing copyright lawsuit betwee…

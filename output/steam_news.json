@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld’s “Home Sweet Home” Update arrives December 17!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002017502",
+    "author": "pocketpair_dev",
+    "published": "1763843432",
+    "summary": "[p]We're excited to announce that Palworld's next major update will arrive on December 17!\n\nThe \"Home Sweet Home\" update includes a collab with the popular FPS ULTRAKILL, as well as new features for customizing bases.\n\nCheck out the trailer released today for more details!\n\n[dynamiclink href=\"https://youtu.be/rq8ey7cKfYo\"][/dynamiclink][/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "v0.6.9.82911: Multiplayer connectivity improvements",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768377452",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "Elie Gould",
     "published": "1759423154",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/uk/palworld/\" target=\"_blank\">Palworld</a> developer Pocketpair has proved time and again that it's no stranger to supporting other indie games, whether that be by <a href=\"https://www.pcgamer.com/gaming-industry/game-development/palworld-studios-first-move-as-",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Capcom legend tackles Palworld-Nintendo battle and manages to annoy almost everyone: 'It's a game that transcends the boundaries of war'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811772772479780",
-    "author": "Rich Stanton",
-    "published": "1759419160",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg\"/><br><br>\n                Pocketpair’s Palworld has certainly found an audience since release: even if, unfortunately, those interested include Nintendo's lawyers. The ongoing copyright lawsuit between the indie studio and the most venerable company in gaming is the subject of great interest worldwide, but of particula",
     "source": "Steam News API"
   }
 ]
