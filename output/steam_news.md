@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
 
+- **Palworld update 'Home Sweet Home' arrives December 17 with an ULTRAKILL collab**  
+  发布: 1763991708  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1816849002020151  
+  摘要: <p><p>Home Sweet Home huh? The name of the next Palworld update that's been confirmed to arrive on December 17th.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/38077488id28060gol.jpg" alt /></p><p>Read the full article here: https://www.gamingonlin…
+
 - **Palworld’s “Home Sweet Home” Update arrives December 17!**  
   发布: 1763843432  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389084126  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0b17fa55ef584236016e2e4c4c14de6e2448c809.jpg"][/img][/p][p]Zoey and...Depresso...?[/p][p][/p][p]Something festive is brewing![/p]
-
-- **'Now you've got no excuses': Palworld is teaming up with Core Keeper for a Steam Autumn sale bundle because the folks over at Pocketpair are 'just big fans'**  
-  发布: 1759423154  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1811772772481261  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/" target="_blank">Palworld</a> developer Pocketpair has proved time and again that it's no stranger to supporting other indie gam…
