@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
 
+- **Nominate Palworld for the Labor of Love Award! Steam Awards 2025.**  
+  发布: 1764065272  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002022962  
+  摘要: [p]Hello everyone![/p][p][/p][p]Another year has already passed, and once again we would like to ask for your support by voting for Palworld in the 2025 Steam Awards![/p][p][/p][p]This time, we would be honored if you considered voting for Palworld in the "Labor of Love" category…
+
 - **Palworld update 'Home Sweet Home' arrives December 17 with an ULTRAKILL collab**  
   发布: 1763991708  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389100470  
   摘要: [p][img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/2615.png"][/img]The one thing Depresso actually likes has arrived![/p][p][/p][p]We’ve teamed up with @Madrinas to bring you the Palworld Limited Edition Collector’s Box —[/p][p][/p][p]featur…
-
-- **Something mysterious is lurking in the shadows..October 23rd!**  
-  发布: 1761008453  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389084126  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0b17fa55ef584236016e2e4c4c14de6e2448c809.jpg"][/img][/p][p]Zoey and...Depresso...?[/p][p][/p][p]Something festive is brewing![/p]
