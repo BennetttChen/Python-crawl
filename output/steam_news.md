@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
 
+- **Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'**  
+  发布: 1764538657  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1817483467043818  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 When it's not equipping little critters with assault rifles or <a href="https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-poke…
+
 - **Nominate Palworld for the Labor of Love Award! Steam Awards 2025.**  
   发布: 1764065272  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000  
   摘要: <img src="https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Earlier this year, <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair used its newfound success to <a href="https://www.roc…
-
-- **Depresso Found Something He Actually Likes**  
-  发布: 1761051630  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813674389100470  
-  摘要: [p][img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/2615.png"][/img]The one thing Depresso actually likes has arrived![/p][p][/p][p]We’ve teamed up with @Madrinas to bring you the Palworld Limited Edition Collector’s Box —[/p][p][/p][p]featur…
