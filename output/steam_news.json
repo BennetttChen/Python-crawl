@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "CS2 Workshop Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366178075",
+    "author": "COMPLEX",
+    "published": "1764980760",
+    "summary": "[p]Today we are introducing optional Supplemental Terms for releasing Counter-Strike 2 items in-game, found [url=\"https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730\"]here[/url], which allows the Counter-Strike 2 team to license items for a flat fee, found below:[/p][list][*][p]Weapon finish: $35,000.00 USD[/p][/*][*][p]Sticker: $6,000.00 USD[/p][/*][*][p]Charm: $6,000.00 USD[/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278",
     "author": "Vitaliy",
@@ -132,15 +141,6 @@
     "author": "Vitaliy",
     "published": "1761780997",
     "summary": "[p]\\[ MISC ][/p][list][*][p]Improved player movement prediction when colliding with other moving players.[/p][/*][*][p]Added scope in/out sound prediction to play immediately for local player.[/p][/*][*][p]Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has both equipped in their CT loadout.[/p][/*][*][p]Added Body Armor to 4v3, 4 Bad Guys Left, and Blind Fire cards.[/p][/*][",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326",
-    "author": "Vitaliy",
-    "published": "1761258728",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for players by first kicking dead bots and bots who are not controlled by a human.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]",
     "source": "Steam News API"
   },
   {

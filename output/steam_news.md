@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1810503566424289  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/tqTxvKqPKWAFUekQa2Qw8W-1280-80.jpg"/><br><br>                 The finals of The International 2025, the annual <a href="https://www.pcgamer.com/dota-2/">Dota 2</a> world championship tournament, are now underway, and to get things start…
 
+- **CS2 Workshop Update**  
+  发布: 1764980760  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366178075  
+  摘要: [p]Today we are introducing optional Supplemental Terms for releasing Counter-Strike 2 items in-game, found [url="https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730"]here[/url], which allows the Counter-Strike 2 team to license items for a flat fee, found below…
+
 - **Counter-Strike 2 Update**  
   发布: 1763596068  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034432852394  
   摘要: [p]\[ MISC ][/p][list][*][p]Improved player movement prediction when colliding with other moving players.[/p][/*][*][p]Added scope in/out sound prediction to play immediately for local player.[/p][/*][*][p]Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has …
-
-- **Counter-Strike 2 Update**  
-  发布: 1761258728  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641454326  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for p…
 
 - **Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'**  
   发布: 1764538657  
