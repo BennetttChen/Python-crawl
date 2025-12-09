@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366183917",
+    "author": "jo",
+    "published": "1765231628",
+    "summary": "[p]\\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "CS2 Workshop Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366178075",
     "author": "COMPLEX",
@@ -132,15 +141,6 @@
     "author": "Piggles ULTRAPRO",
     "published": "1762300751",
     "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where air acceleration was clamped incorrectly while surfing.[/p][/*][*][p]Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.[/p][/*][*][p]Fix a bug causing \"Delay Sniper Rifle Un-Scope after Shot\" to be inconsistent.[/p][/*][/list][p][/p][p]\\[ DEMO ][/p][list][*][p]Added TrueView demo playback, ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034432852394",
-    "author": "Vitaliy",
-    "published": "1761780997",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Improved player movement prediction when colliding with other moving players.[/p][/*][*][p]Added scope in/out sound prediction to play immediately for local player.[/p][/*][*][p]Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has both equipped in their CT loadout.[/p][/*][*][p]Added Body Armor to 4v3, 4 Bad Guys Left, and Blind Fire cards.[/p][/*][",
     "source": "Steam News API"
   },
   {
