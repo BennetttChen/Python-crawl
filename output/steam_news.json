@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "The StarLadder Budapest Major Playoffs",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121912",
+    "author": "COMPLEX",
+    "published": "1765397607",
+    "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img]\nOnly 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us.\n\nFURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, The MongolZ, and Vitality advanced at 3-1, and Falcons, FaZe Clan, and Natus Vincere survived with 3-2 records.\n\nPlayoffs ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366183917",
     "author": "jo",
@@ -132,15 +141,6 @@
     "author": "Piggles ULTRAPRO",
     "published": "1762300820",
     "summary": "[p]Today we're adding a new feature to demo playback called [i]TrueView[/i]. With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. This could be confusing because shots would hit that didn't look like they should have, and vice versa. [/p][p]TrueView ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210747",
-    "author": "Piggles ULTRAPRO",
-    "published": "1762300751",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where air acceleration was clamped incorrectly while surfing.[/p][/*][*][p]Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.[/p][/*][*][p]Fix a bug causing \"Delay Sniper Rifle Un-Scope after Shot\" to be inconsistent.[/p][/*][/list][p][/p][p]\\[ DEMO ][/p][list][*][p]Added TrueView demo playback, ",
     "source": "Steam News API"
   },
   {
