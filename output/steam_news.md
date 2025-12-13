@@ -1,5 +1,11 @@
 # Steam News
 
+- **The International 2026 Live Event Broadcast RFP and Broadcast License Requests**  
+  发布: 1765574894  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592128752  
+  摘要: The International returns to Shanghai, China in August 2026, and we’d like to invite all companies interested in producing and distributing regional language broadcasts of The International 2026 to apply now.    For the Live Event Broadcast Production of this year's show, we’ll b…
+
 - **I never thought I'd see Dota 2 and Monster Hunter in the same sentence, but the MOBA's biggest collab ever just dropped out of nowhere**  
   发布: 1762868535  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1810503566424750  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/dota-2-gabe-newell-the-international-2025-ti-speech-plays-every-day-flamed-900x506.jpg"/><p>I consider myself pretty good at <a href="https://www.pcgamesn.com/which-best-moba">MOBAs</a>.…
-
-- **Gabe Newell waxes poetic about his love for the Dota 2 community in a special message for The International: 'People talk s**t at me in chat' and tell him to uninstall the game on a weekly basis**  
-  发布: 1757613488  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1810503566424289  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/tqTxvKqPKWAFUekQa2Qw8W-1280-80.jpg"/><br><br>                 The finals of The International 2025, the annual <a href="https://www.pcgamer.com/dota-2/">Dota 2</a> world championship tournament, are now underway, and to get things start…
 
 - **The StarLadder Budapest Major Playoffs**  
   发布: 1765397607  
