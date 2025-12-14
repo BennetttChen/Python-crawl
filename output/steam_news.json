@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Best of Five in Budapest",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592130605",
+    "author": "COMPLEX",
+    "published": "1765670126",
+    "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img]\nOnly two teams remain in the StarLadder Budapest Major!\n\nTeam Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit in the Semifinals 2-0. \n\nOn the other side of the bracket, FaZe Clan defeated MOUZ in the Quarterfinals and needed all ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "The StarLadder Budapest Major Playoffs",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121912",
     "author": "COMPLEX",
@@ -132,15 +141,6 @@
     "author": "gautam",
     "published": "1762988293",
     "summary": "[p]As 2025 comes to an end, the [url=\"https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome\"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three stages of the StarLadder Budapest Major will be played in front of live crowds at MTK Sportpark, and for the first time",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Introducing TrueView",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748",
-    "author": "Piggles ULTRAPRO",
-    "published": "1762300820",
-    "summary": "[p]Today we're adding a new feature to demo playback called [i]TrueView[/i]. With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. This could be confusing because shots would hit that didn't look like they should have, and vice versa. [/p][p]TrueView ",
     "source": "Steam News API"
   },
   {

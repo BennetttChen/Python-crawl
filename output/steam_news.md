@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1810503566424750  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/dota-2-gabe-newell-the-international-2025-ti-speech-plays-every-day-flamed-900x506.jpg"/><p>I consider myself pretty good at <a href="https://www.pcgamesn.com/which-best-moba">MOBAs</a>.…
 
+- **Best of Five in Budapest**  
+  发布: 1765670126  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592130605  
+  摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img] Only two teams remain in the StarLadder Budapest Major!  Team Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit…
+
 - **The StarLadder Budapest Major Playoffs**  
   发布: 1765397607  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195  
   摘要: [p]As 2025 comes to an end, the [url="https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three…
-
-- **Introducing TrueView**  
-  发布: 1762300820  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768210748  
-  摘要: [p]Today we're adding a new feature to demo playback called [i]TrueView[/i]. With TrueView, demo playback will match the player's original experience much more closely.[/p][p]Previously, demo playback showed the server's view of the world, without accounting for network latency. …
 
 - **Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'**  
   发布: 1764538657  
