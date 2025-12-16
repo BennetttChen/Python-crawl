@@ -1,5 +1,11 @@
 # Steam News
 
+- **Introducing Largo and Patch 7.40**  
+  发布: 1765843654  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592134412  
+  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/c09b13cda87a548b83b626fb33a32efd7895c634.png[/img]  Dota is an ensemble cast, but keen observers looking through the collection of rogues, wizards, druids, and knights (not to mention two characters [i]named[/i] "ranger") may have noticed the absen…
+
 - **The International 2026 Live Event Broadcast RFP and Broadcast License Requests**  
   发布: 1765574894  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811138915339274  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/4ba13ce440c2d97294b14560cfcf46a3f1b113be.png[/img]Congratulations to Team Falcons, Grand Champions at The International 2025. After a year of mixed results, Team Falcons finally soared to the Aegis of Champions in Hamburg — by clawing, scrapping, a…
-
-- **People "talk s**t" to Gabe Newell when he plays Dota 2, but he's okay with it**  
-  发布: 1757614506  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1810503566424750  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/09/dota-2-gabe-newell-the-international-2025-ti-speech-plays-every-day-flamed-900x506.jpg"/><p>I consider myself pretty good at <a href="https://www.pcgamesn.com/which-best-moba">MOBAs</a>.…
 
 - **Best of Five in Budapest**  
   发布: 1765670126  
