@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2 patch 7.40 adds new hero Largo, whose ultimate has one of the coolest mechanics I've seen in ages**  
+  发布: 1765879060  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1818752592135551  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/dota-2-largo-patch-7-40-new-hero-invulnerability-changes-map-terrain-collectors-cache-winter-900x506.jpg"/><p>In a surprise to absolutely no one, my favorite Dungeons and Dragons class i…
+
 - **Introducing Largo and Patch 7.40**  
   发布: 1765843654  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772489146  
   摘要: [p]Patch 7.39e is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.39e"]here[/url]. [/p]
-
-- **The International 2025 Grand Champions**  
-  发布: 1758062560  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811138915339274  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/4ba13ce440c2d97294b14560cfcf46a3f1b113be.png[/img]Congratulations to Team Falcons, Grand Champions at The International 2025. After a year of mixed results, Team Falcons finally soared to the Aegis of Champions in Hamburg — by clawing, scrapping, a…
 
 - **Best of Five in Budapest**  
   发布: 1765670126  
@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195  
   摘要: [p]As 2025 comes to an end, the [url="https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three…
 
+- **Palworld v0.7 - Home Sweet Home**  
+  发布: 1765940666  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365085520  
+  摘要: [h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as content-rich as previous ones, we hope players understand that …
+
 - **Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'**  
   发布: 1764538657  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641429890  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png"][/img][/p][p][/p][p]\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new "Halloween Mission"![/p][p]Complete the mission to unlock Zo…
-
-- **Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI**  
-  发布: 1761152518  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Earlier this year, <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair used its newfound success to <a href="https://www.roc…

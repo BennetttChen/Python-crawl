@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Dota 2 patch 7.40 adds new hero Largo, whose ultimate has one of the coolest mechanics I've seen in ages",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1818752592135551",
+    "author": "editor@pcgamesn.com",
+    "published": "1765879060",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/dota-2-largo-patch-7-40-new-hero-invulnerability-changes-map-terrain-collectors-cache-winter-900x506.jpg\"/><p>In a surprise to absolutely no one, my favorite Dungeons and Dragons class is Bard. As both a musician and support main, it's the perfect blend of buffs and damage, with a dash of charisma on the ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Introducing Largo and Patch 7.40",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592134412",
     "author": "kyled",
@@ -60,15 +69,6 @@
     "author": "Dota Workshop",
     "published": "1759443858",
     "summary": "[p]Patch 7.39e is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.39e\"]here[/url].\n[/p]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "The International 2025 Grand Champions",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811138915339274",
-    "author": "krAnk0r",
-    "published": "1758062560",
-    "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/4ba13ce440c2d97294b14560cfcf46a3f1b113be.png[/img]Congratulations to Team Falcons, Grand Champions at The International 2025. After a year of mixed results, Team Falcons finally soared to the Aegis of Champions in Hamburg — by clawing, scrapping, and grinding through one of the grittiest marathons The International has ever seen. Of their ten series, only three were",
     "source": "Steam News API"
   },
   {
@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld v0.7 - Home Sweet Home",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365085520",
+    "author": "pocketpair_dev",
+    "published": "1765940666",
+    "summary": "[h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as content-rich as previous ones, we hope players understand that it’s necessary for us to begin laying the groundwork now as we work on the development of Palworld 1.0. [/h3][p][/p][h3]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1817483467043818",
     "author": "Justin Wagner",
@@ -204,15 +213,6 @@
     "author": "pocketpair_admin",
     "published": "1761188707",
     "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png\"][/img][/p][p][/p][p]\\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new \"Halloween Mission\"![/p][p]Complete the mission to unlock Zoe's Halloween costume and a Depresso armor set for players! [/p][p]▼Mechanic Adjustments[/p][p]・Added the \"Zoe's Sphere\"",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld dev Pocketpair, famous for making wholly original games, won't publish your game if it uses generative AI",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1814309641417000",
-    "author": "",
-    "published": "1761152518",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-header_Bt5uLwp.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>\nEarlier this year, <a href=\"https://www.rockpapershotgun.com/games/palworld\">Palworld</a> developer Pocketpair used its newfound success to <a href=\"https://www.rockpapershotgun.com/palworlds-creators-are-paying-the-kenzera-devs-to-make-a-horror-game-about-the-entertainment-industry\"",
     "source": "Steam News API"
   }
 ]
