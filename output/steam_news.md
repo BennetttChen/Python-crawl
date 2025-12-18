@@ -96,11 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195  
   摘要: [p]As 2025 comes to an end, the [url="https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three…
 
+- **The Home Sweet Home update for Palworld with the ULTRAKILL crossover is out now**  
+  发布: 1765996089  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1819386365087675  
+  摘要: <p><p>Palworld just levelled up with a big new free Home Sweet Home update as Pocketpair work towards finishing up the game for a full release next year.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/606532266id28209gol.jpg" alt /></p><p>Read the f…
+
 - **Palworld v0.7 - Home Sweet Home**  
   发布: 1765940666  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365085520  
-  摘要: [h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as content-rich as previous ones, we hope players understand that …
+  摘要: [previewyoutube="Vn4-gKzJr0A;full"][/previewyoutube][p][/p][h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as cont…
 
 - **Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'**  
   发布: 1764538657  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814942955087349  
   摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.6.9 has been released! [/p][p]＝＝＝ [/p][p]▼Bug Fixes[/p][p]・Fixed a bug that caused the game to freeze when in combat with the Terraprism and the Free Pal Alliance.[/p][p]・Fixed a bug where the map icon for supply crates would not disa…
-
-- **Update v0.6.8: Halloween! Zoe's Halloween costume and Depresso suit!**  
-  发布: 1761188707  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641429890  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/2c2d4e1baa506e8a3306e4861708dccf794efa36.png"][/img][/p][p][/p][p]\[Patch Notice][/p][p]Palworld version v0.6.8 has been released![/p][p]＝＝＝[/p][p]▼New Content[/p][p]・Added a new "Halloween Mission"![/p][p]Complete the mission to unlock Zo…
