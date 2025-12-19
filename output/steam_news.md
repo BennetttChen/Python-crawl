@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772489146  
   摘要: [p]Patch 7.39e is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.39e"]here[/url]. [/p]
 
+- **The Year of the Bees**  
+  发布: 1766092742  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092528  
+  摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img] The StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.…
+
+- **Counter-Strike 2 Update**  
+  发布: 1766092733  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092527  
+  摘要: [p]\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]
+
 - **Best of Five in Budapest**  
   发布: 1765670126  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528930061  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed ability to plant C4 while standing on top of a teammate.[/p][/*][*][p]Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.[/p][/*][*][p]Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scor…
-
-- **Counter-Strike 2 Update**  
-  发布: 1762988337  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365196  
-  摘要: [p]\[ MAJOR ][/p][list][*][p]The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, yo…
-
-- **The Starladder Budapest Major 2025**  
-  发布: 1762988293  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195  
-  摘要: [p]As 2025 comes to an end, the [url="https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three…
 
 - **The Home Sweet Home update for Palworld with the ULTRAKILL crossover is out now**  
   发布: 1765996089  

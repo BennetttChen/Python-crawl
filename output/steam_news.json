@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "The Year of the Bees",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092528",
+    "author": "Mr. Mario Kart",
+    "published": "1766092742",
+    "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nThe StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.\n\nComing into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The Mongol",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092527",
+    "author": "jo",
+    "published": "1766092733",
+    "summary": "[p]\\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Best of Five in Budapest",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592130605",
     "author": "COMPLEX",
@@ -123,24 +141,6 @@
     "author": "Piggles ULTRAPRO",
     "published": "1763082076",
     "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed ability to plant C4 while standing on top of a teammate.[/p][/*][*][p]Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.[/p][/*][*][p]Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scoreboard.[/p][/*][*][p]Fixed a replay bug causing infinite shell casing effects.[/p][/*][*][p]Updated the Budapest 2025 Im",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365196",
-    "author": "COMPLEX",
-    "published": "1762988337",
-    "summary": "[p]\\[ MAJOR ][/p][list][*][p]The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick'Em Challenge. Additionally, you will show u",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "The Starladder Budapest Major 2025",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816215235365195",
-    "author": "gautam",
-    "published": "1762988293",
-    "summary": "[p]As 2025 comes to an end, the [url=\"https://major.starladder.com/en/news/starladder-to-host-2025-cs2-major-in-budapest-s-20-000-seat-mvm-dome\"]StarLadder Budpest Major 2025[/url] is set to begin. Join us as the first stage begins on Monday, November 24th![/p][p][/p][p]All three stages of the StarLadder Budapest Major will be played in front of live crowds at MTK Sportpark, and for the first time",
     "source": "Steam News API"
   },
   {
