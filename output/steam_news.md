@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.40b Gameplay Patch**  
+  发布: 1766531102  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311  
+  摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
+
 - **Dota 2 patch 7.40 adds new hero Largo, whose ultimate has one of the coolest mechanics I've seen in ages**  
   发布: 1765879060  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772650175  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/2868642fce62093c54a753c9471cd72bc0926ae5.png"][/img][/p][p][/p][p]No matter what else is happening in the world of Dota, the Community Workshop artists never stop dreaming up cool new item sets for all their favorite heroes. Which of course…
-
-- **7.39e Gameplay Patch**  
-  发布: 1759443858  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772489146  
-  摘要: [p]Patch 7.39e is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.39e"]here[/url]. [/p]
 
 - **The Year of the Bees**  
   发布: 1766092742  

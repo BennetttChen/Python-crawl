@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "7.40b Gameplay Patch",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311",
+    "author": "flynnch",
+    "published": "1766531102",
+    "summary": "[p]Patch 7.40b is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.40b\"]here[/url]. \n\nIn addition, over the last few days we've addressed the following issues:\n\n[/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/p][/*][*][p]Fixed \"Learn Ability\" toggle not closing automatically after level 24[/p][/*][*][p]Fixed incorrect hitboxes ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Dota 2 patch 7.40 adds new hero Largo, whose ultimate has one of the coolest mechanics I've seen in ages",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1818752592135551",
     "author": "editor@pcgamesn.com",
@@ -60,15 +69,6 @@
     "author": "krAnk0r",
     "published": "1759874536",
     "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/3703047/2868642fce62093c54a753c9471cd72bc0926ae5.png\"][/img][/p][p][/p][p]No matter what else is happening in the world of Dota, the Community Workshop artists never stop dreaming up cool new item sets for all their favorite heroes. Which of course means the workshop is near-to-bursting with game-worthy sets, and — you guessed it by cleverly reading the title above ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.39e Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772489146",
-    "author": "Dota Workshop",
-    "published": "1759443858",
-    "summary": "[p]Patch 7.39e is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.39e\"]here[/url].\n[/p]",
     "source": "Steam News API"
   },
   {
