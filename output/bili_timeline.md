@@ -1,35 +1,5 @@
 # Bilibili PGC Timeline
 
-- **双生武魂**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss97755  
-  摘要: 09:00
-
-- **通灵妃 第二季**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45974  
-  摘要: 10:00
-
-- **万古剑帝**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106806  
-  摘要: 10:00
-
-- **天命大神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106807  
-  摘要: 10:00
-
-- **亏成首富从游戏开始 日语版**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112194  
-  摘要: 11:00
-
 - **荒古恩仇录·破风篇**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +89,33 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss33378  
   摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **不动声色的柏田与喜形于色的太田**  
+  发布: 20:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112807  
+  摘要: 20:00
+
+- **东岛丹三郎想成为假面骑士**  
+  发布: 01:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112990  
+  摘要: 01:00
+
+- **仙王的日常生活 第五季**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73972  
+  摘要: 10:00
+
+- **武魂大陆**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106810  
+  摘要: 10:00
