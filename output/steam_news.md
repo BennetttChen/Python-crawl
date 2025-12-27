@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772650175  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/2868642fce62093c54a753c9471cd72bc0926ae5.png"][/img][/p][p][/p][p]No matter what else is happening in the world of Dota, the Community Workshop artists never stop dreaming up cool new item sets for all their favorite heroes. Which of course…
 
+- **2026 Service Medal**  
+  发布: 1766779495  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365109671  
+  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png[/img]  Starting January 1, 2026, the newest Service Medal will be available in-game.  Reach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Ser…
+
 - **The Year of the Bees**  
   发布: 1766092742  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
-
-- **Counter-Strike 2 Update**  
-  发布: 1763082076  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528930061  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed ability to plant C4 while standing on top of a teammate.[/p][/*][*][p]Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.[/p][/*][*][p]Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scor…
 
 - **The Home Sweet Home update for Palworld with the ULTRAKILL crossover is out now**  
   发布: 1765996089  
