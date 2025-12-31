@@ -6,42 +6,6 @@
   链接: https://www.bilibili.com/bangumi/play/ss97755  
   摘要: 09:00
 
-- **玄界之门**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss73973  
-  摘要: 10:00
-
-- **荒古恩仇录·破风篇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106809  
-  摘要: 10:00
-
-- **紫禁·御喵房**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss122457  
-  摘要: 10:00
-
-- **弹珠汽水瓶里的千岁同学**  
-  发布: 20:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112481  
-  摘要: 20:30
-
-- **绝妙舞步**  
-  发布: 23:15  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112541  
-  摘要: 23:15
-
-- **双生武魂**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss97755  
-  摘要: 09:00
-
 - **天命大神皇**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +82,40 @@
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss106808  
+  摘要: 10:00
+
+- **剑网3·沈剑心的365天**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73959  
+  摘要: 12:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **仙王的日常生活 第五季**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73972  
+  摘要: 10:00
+
+- **武魂大陆**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106810  
+  摘要: 10:00
+
+- **假面骑士ZZZ**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss109700  
   摘要: 10:00
