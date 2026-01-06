@@ -1,5 +1,11 @@
 # Steam News
 
+- **Former Dota 2 pro is selling his TI championship ring on Ebay for some serious cash, but it's not because he's "desperate"**  
+  发布: 1767607133  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1819386365123191  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/dota-2-the-international-ti3-championship-ring-admiralbulldog-sold-ebay-900x506.jpg"/><p>I didn't expect my first news article of 2026 to be this one. Former <strong>Dota 2</strong> pro …
+
 - **7.40b Gameplay Patch**  
   发布: 1766531102  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031215262  
   摘要: [p]Since the 7.39e gameplay patch, we've addressed the following issues:[/p][list][*][p]Items on trade cooldown can no longer be listed on the Steam Market[/p][list][*][p]Removed separate "Market Cooldown" timer from item tooltips as it is no longer relevant[/p][/*][/list][/*][*]…
-
-- **Collector's Cache Voting Open Now**  
-  发布: 1759874536  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772650175  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/3703047/2868642fce62093c54a753c9471cd72bc0926ae5.png"][/img][/p][p][/p][p]No matter what else is happening in the world of Dota, the Community Workshop artists never stop dreaming up cool new item sets for all their favorite heroes. Which of course…
 
 - **2026 Service Medal**  
   发布: 1766779495  

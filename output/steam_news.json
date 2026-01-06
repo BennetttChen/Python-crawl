@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Former Dota 2 pro is selling his TI championship ring on Ebay for some serious cash, but it's not because he's \"desperate\"",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1819386365123191",
+    "author": "editor@pcgamesn.com",
+    "published": "1767607133",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/dota-2-the-international-ti3-championship-ring-admiralbulldog-sold-ebay-900x506.jpg\"/><p>I didn't expect my first news article of 2026 to be this one. Former <strong>Dota 2</strong> pro Henrik 'AdmiralBulldog' Ahnberg is selling his TI 2013 championship ring on Ebay - yes, I double took, too. But the list",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "7.40b Gameplay Patch",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311",
     "author": "flynnch",
@@ -60,15 +69,6 @@
     "author": "flynnch",
     "published": "1760033899",
     "summary": "[p]Since the 7.39e gameplay patch, we've addressed the following issues:[/p][list][*][p]Items on trade cooldown can no longer be listed on the Steam Market[/p][list][*][p]Removed separate \"Market Cooldown\" timer from item tooltips as it is no longer relevant[/p][/*][/list][/*][*][p]Fixed people being able to find the server id of non-friends playing matches[/p][/*][*][p]Fixed relic progress displa",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Collector's Cache Voting Open Now",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772650175",
-    "author": "krAnk0r",
-    "published": "1759874536",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/3703047/2868642fce62093c54a753c9471cd72bc0926ae5.png\"][/img][/p][p][/p][p]No matter what else is happening in the world of Dota, the Community Workshop artists never stop dreaming up cool new item sets for all their favorite heroes. Which of course means the workshop is near-to-bursting with game-worthy sets, and — you guessed it by cleverly reading the title above ",
     "source": "Steam News API"
   },
   {
