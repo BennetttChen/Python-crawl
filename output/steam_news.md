@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
 
+- **'Not bad for a dead game': Palworld managed to get four nominations in Steam's Best of 2025 Awards, including 2nd place for most played game**  
+  发布: 1767710298  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1819386365125817  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/4thtSQAMAwZZNYF24VjUiE-1280-80.jpg"/><br><br>                 The end of the year doesn't just bring some much-needed time off, awkward family gatherings, and a wave of New Year's resolutions that'll only be kept for a day or so. It is …
+
 - **The Home Sweet Home update for Palworld with the ULTRAKILL crossover is out now**  
   发布: 1765996089  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768377452  
   摘要: [p]\[Patch Notice]  [/p][p]Palworld version v0.6.9.82911 has been released! [/p][p]＝＝＝ [/p][p]▼Multiplayer[/p][p]・\[PC] Fixed an issue where multiplayer connectivity was not working correctly in some cases. [/p][p]=== [/p][p]Thank you for your continued support of Palworld![/p]
-
-- **v0.6.9: Bug Fixes**  
-  发布: 1761707888  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814942955087349  
-  摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.6.9 has been released! [/p][p]＝＝＝ [/p][p]▼Bug Fixes[/p][p]・Fixed a bug that caused the game to freeze when in combat with the Terraprism and the Free Pal Alliance.[/p][p]・Fixed a bug where the map icon for supply crates would not disa…
