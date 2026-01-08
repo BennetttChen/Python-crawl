@@ -1,35 +1,5 @@
 # Bilibili PGC Timeline
 
-- **双生武魂**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss97755  
-  摘要: 09:00
-
-- **天命大神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106807  
-  摘要: 10:00
-
-- **中国奇谭2**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss73976  
-  摘要: 11:00
-
-- **亏成首富从游戏开始 日语版**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss112194  
-  摘要: 11:00
-
-- **请吃红小豆吧！新年快乐**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss126979  
-  摘要: 12:00
-
 - **荒古恩仇录·破风篇**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +89,33 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss109701  
   摘要: 10:00
+
+- **爆燃战队奔奔者**  
+  发布: 10:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss91942  
+  摘要: 10:30
+
+- **爆燃战队奔奔者（中配）**  
+  发布: 10:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss91943  
+  摘要: 10:30
+
+- **牧神记**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45969  
+  摘要: 11:00
+
+- **咔嗒咔嗒**  
+  发布: 23:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss102255  
+  摘要: 23:00
+
+- **宗门里除了我都是卧底**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss48518  
+  摘要: 09:00
