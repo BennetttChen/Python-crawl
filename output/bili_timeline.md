@@ -1,29 +1,5 @@
 # Bilibili PGC Timeline
 
-- **开局地摊卖大力**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45964  
-  摘要: 10:00
-
-- **武魂大陆**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106810  
-  摘要: 10:00
-
-- **为喵人生**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss73971  
-  摘要: 11:00
-
-- **绝世神皇**  
-  发布: 19:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106808  
-  摘要: 19:00
-
 - **双生武魂**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +95,27 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss102708  
   摘要: 10:00
+
+- **绝世神皇**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss106808  
+  摘要: 10:00
+
+- **剑网3·沈剑心的365天**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73959  
+  摘要: 12:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30

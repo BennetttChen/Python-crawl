@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
 
+- **Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'**  
+  发布: 1768233611  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1821288646586165  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg"/><br><br>                 In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Po…
+
+- **The new Palworld game isn't what I expected, but a TCG actually makes a lot of sense**  
+  发布: 1768218174  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1821288646585660  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/palworld-tcg-card-game-2026-reveal-900x506.jpg"/><p>Some things feel inevitable. Multiple GTA 6 delays. Half-Life 3 (let me dream). <strong>Palworld</strong> upsetting Nintendo. In its l…
+
 - **'Not bad for a dead game': Palworld managed to get four nominations in Steam's Best of 2025 Awards, including 2nd place for most played game**  
   发布: 1767710298  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1816849002020151  
   摘要: <p><p>Home Sweet Home huh? The name of the next Palworld update that's been confirmed to arrive on December 17th.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/38077488id28060gol.jpg" alt /></p><p>Read the full article here: https://www.gamingonlin…
-
-- **Palworld’s “Home Sweet Home” Update arrives December 17!**  
-  发布: 1763843432  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002017502  
-  摘要: [p]We're excited to announce that Palworld's next major update will arrive on December 17!  The "Home Sweet Home" update includes a collab with the popular FPS ULTRAKILL, as well as new features for customizing bases.  Check out the trailer released today for more details!  [dyna…
-
-- **v0.6.9.82911: Multiplayer connectivity improvements**  
-  发布: 1762744038  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768377452  
-  摘要: [p]\[Patch Notice]  [/p][p]Palworld version v0.6.9.82911 has been released! [/p][p]＝＝＝ [/p][p]▼Multiplayer[/p][p]・\[PC] Fixed an issue where multiplayer connectivity was not working correctly in some cases. [/p][p]=== [/p][p]Thank you for your continued support of Palworld![/p]
