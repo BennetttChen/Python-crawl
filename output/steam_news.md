@@ -31,7 +31,7 @@
   摘要: The International returns to Shanghai, China in August 2026, and we’d like to invite all companies interested in producing and distributing regional language broadcasts of The International 2026 to apply now.    For the Live Event Broadcast Production of this year's show, we’ll b…
 
 - **I never thought I'd see Dota 2 and Monster Hunter in the same sentence, but the MOBA's biggest collab ever just dropped out of nowhere**  
-  发布: 1762868535  
+  发布: 1762860995  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1815580768422774  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve'…
@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
 
+- **Ah yes, a Palworld card game is on the way, can't think of any other creature collector that has one of those**  
+  发布: 1768236793  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1821288646586320  
+  摘要: <img src="https://assetsio.gnwcdn.com/palworld-card-game_Imd7aG0.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Once again it appears that Pocketpair appears to be going after a bit of Pokemon's pie, this time of the card game variety. Where the latter's started life as a …
+
 - **Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'**  
   发布: 1768233611  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002022962  
   摘要: [p]Hello everyone![/p][p][/p][p]Another year has already passed, and once again we would like to ask for your support by voting for Palworld in the 2025 Steam Awards![/p][p][/p][p]This time, we would be honored if you considered voting for Palworld in the "Labor of Love" category…
-
-- **Palworld update 'Home Sweet Home' arrives December 17 with an ULTRAKILL collab**  
-  发布: 1763991708  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1816849002020151  
-  摘要: <p><p>Home Sweet Home huh? The name of the next Palworld update that's been confirmed to arrive on December 17th.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/38077488id28060gol.jpg" alt /></p><p>Read the full article here: https://www.gamingonlin…
