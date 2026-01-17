@@ -1,47 +1,49 @@
 # Bilibili PGC Timeline
 
-- **宗门里除了我都是卧底**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss48518  
-  摘要: 09:00
-
-- **奥美迦奥特曼**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
+- **第2话 判处勇者刑**  
+  发布: 1768483800  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss127870  
+- **第12话 离开A级队伍的我，和从前的弟子往迷宫深处迈进**  
+  发布: 1768557600  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss117925  
+- **第28话 奥美迦奥特曼**  
+  发布: 1768615200  
+  来源: Bilibili PGC Timeline  
   链接: https://www.bilibili.com/bangumi/play/ss102707  
-  摘要: 10:00
-
-- **奥美迦奥特曼（中配）**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
+- **第28话 奥美迦奥特曼（中配）**  
+  发布: 1768615200  
+  来源: Bilibili PGC Timeline  
   链接: https://www.bilibili.com/bangumi/play/ss102708  
-  摘要: 10:00
-
-- **绝世神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106808  
-  摘要: 10:00
-
-- **剑网3·沈剑心的365天**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss73959  
-  摘要: 12:00
-
-- **名侦探柯南**  
-  发布: 19:30  
-  来源: Bilibili Timeline (legacy)  
+- **第1248话 名侦探柯南**  
+  发布: 1768649400  
+  来源: Bilibili PGC Timeline  
   链接: https://www.bilibili.com/bangumi/play/ss33378  
-  摘要: 19:30
-
-- **名侦探柯南（中配）**  
-  发布: 19:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss33415  
-  摘要: 19:30
-
+- **第18话 假面骑士ZZZ**  
+  发布: 1768701600  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss109700  
+- **第18话 假面骑士ZZZ（中配）**  
+  发布: 1768701600  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss109701  
+- **第43话 爆燃战队奔奔者**  
+  发布: 1768703400  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss91942  
+- **第43话 爆燃战队奔奔者（中配）**  
+  发布: 1768703400  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss91943  
+- **第23话 咔嗒咔嗒**  
+  发布: 1768748400  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss102255  
+- **第10话 弹珠汽水瓶里的千岁同学**  
+  发布: 1768998600  
+  来源: Bilibili PGC Timeline  
+  链接: https://www.bilibili.com/bangumi/play/ss112481  
 - **仙王的日常生活 第五季**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -95,27 +97,3 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss48518  
   摘要: 09:00
-
-- **天命大神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106807  
-  摘要: 10:00
-
-- **仙帝归来**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45976  
-  摘要: 11:00
-
-- **开局地摊卖大力**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45964  
-  摘要: 10:00
-
-- **绝世神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106808  
-  摘要: 10:00
