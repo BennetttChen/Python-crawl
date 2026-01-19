@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **宗门里除了我都是卧底**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss48518  
-  摘要: 09:00
-
-- **天命大神皇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss106807  
-  摘要: 10:00
-
-- **仙帝归来**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45976  
-  摘要: 11:00
-
 - **开局地摊卖大力**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss96881  
   摘要: 18:00
+
+- **离开A级队伍的我，和从前的弟子往迷宫深处迈进**  
+  发布: 18:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss117925  
+  摘要: 18:00
+
+- **宗门里除了我都是卧底**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss48518  
+  摘要: 09:00
+
+- **奥美迦奥特曼**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss102707  
+  摘要: 10:00
