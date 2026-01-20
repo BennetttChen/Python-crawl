@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
 
+- **【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!**  
+  发布: 1768827608  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
+  摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…
+
 - **Ah yes, a Palworld card game is on the way, can't think of any other creature collector that has one of those**  
   发布: 1768236793  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1817483467043818  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 When it's not equipping little critters with assault rifles or <a href="https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-poke…
-
-- **Nominate Palworld for the Labor of Love Award! Steam Awards 2025.**  
-  发布: 1764065272  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002022962  
-  摘要: [p]Hello everyone![/p][p][/p][p]Another year has already passed, and once again we would like to ask for your support by voting for Palworld in the 2025 Steam Awards![/p][p][/p][p]This time, we would be honored if you considered voting for Palworld in the "Labor of Love" category…
