@@ -96,17 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
 
+- **v0.7.1: Balance adjustments and bug fixes**  
+  发布: 1768964692  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746155818  
+  摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your…
+
 - **【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!**  
   发布: 1768827608  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
   摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…
-
-- **Ah yes, a Palworld card game is on the way, can't think of any other creature collector that has one of those**  
-  发布: 1768236793  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1821288646586320  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-card-game_Imd7aG0.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Once again it appears that Pocketpair appears to be going after a bit of Pokemon's pie, this time of the card game variety. Where the latter's started life as a …
 
 - **Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'**  
   发布: 1768233611  
