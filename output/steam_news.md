@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.40c Gameplay Patch**  
+  发布: 1769041258  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157843  
+  摘要: [p]Patch 7.40c is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40c"]here[/url]. [/p][p][/p][p]As a reminder, the Monster Hunter event ends February 6, 2026, after which you'll no longer be able to earn progress or craft items. Today's update…
+
 - **Former Dota 2 pro is selling his TI championship ring on Ebay for some serious cash, but it's not because he's "desperate"**  
   发布: 1767607133  
   来源: Steam News API  
@@ -42,11 +48,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768403675  
   摘要: [img src="{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png"][/img]  [p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url="https://store.steampowered.co…
 
-- **Dota 2 Update - 10/09/2025**  
-  发布: 1760033899  
+- **The Fourth Season**  
+  发布: 1769036297  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1813041031215262  
-  摘要: [p]Since the 7.39e gameplay patch, we've addressed the following issues:[/p][list][*][p]Items on trade cooldown can no longer be listed on the Steam Market[/p][list][*][p]Removed separate "Market Cooldown" timer from item tooltips as it is no longer relevant[/p][/*][/list][/*][*]…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157781  
+  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it!  [/p][p]Anubis is back after a short v…
+
+- **Counter-Strike 2 Update**  
+  发布: 1769036288  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157780  
+  摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Four has begun[/p][/*][*][p]Added Anubis to the Active Duty Map Pool[/p][/*][*][p]Removed Train from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ COMPETITIVE ][/p][list][*][p]Adjusted underlying per-map competitive matchmaking …
 
 - **2026 Service Medal**  
   发布: 1766779495  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366183917  
   摘要: [p]\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]
-
-- **CS2 Workshop Update**  
-  发布: 1764980760  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366178075  
-  摘要: [p]Today we are introducing optional Supplemental Terms for releasing Counter-Strike 2 items in-game, found [url="https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730"]here[/url], which allows the Counter-Strike 2 team to license items for a flat fee, found below…
-
-- **Counter-Strike 2 Update**  
-  发布: 1763596068  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of S…
 
 - **v0.7.1: Balance adjustments and bug fixes**  
   发布: 1768964692  
