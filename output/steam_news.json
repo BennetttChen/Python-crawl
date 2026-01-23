@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746160428",
+    "author": "jo",
+    "published": "1769122494",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have been reversed.[/p][/*][*][p]Fixed a case where HUD safezone settings were not being applied.[/p][/*][*][p]Various server ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "The Fourth Season",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157781",
     "author": "Gautam",
@@ -135,12 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366183917",
-    "author": "jo",
-    "published": "1765231628",
-    "summary": "[p]\\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]",
+    "appid": 1623730,
+    "title": "Palworld shows off concept art for new pals as part of its 2-year anniversary celebration as Pocketpair's CEO promises fans 'we will do everything we can to meet your expectations'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746159649",
+    "author": "Elie Gould",
+    "published": "1769102405",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/UaqGdRGLoqw7XyTrdhLdVL-1280-80.png\"/><br><br>\n                <a href=\"https://www.pcgamer.com/palworld/\">Palworld's</a> 1.0 release is coming up soon. Well that could be wishful thinking: it'll be available to play sometime this year. But after two years in early access there's nothing but excitement for this next step. And to celebrate the lead up to 1",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1765940666",
     "summary": "[previewyoutube=\"Vn4-gKzJr0A;full\"][/previewyoutube][p][/p][h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as content-rich as previous ones, we hope players understand that it’s necessary for us to begin laying the groundwork now as w",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1817483467043818",
-    "author": "Justin Wagner",
-    "published": "1764538657",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                When it's not equipping little critters with assault rifles or <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-pokemon-patents-for-only-usd66-000-in-damages-but-a-videogame-ip-lawyer-says-fighting-the-lawsuit-could-mean-burning-million",
     "source": "Steam News API"
   }
 ]

@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768403675  
   摘要: [img src="{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png"][/img]  [p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url="https://store.steampowered.co…
 
+- **Counter-Strike 2 Update**  
+  发布: 1769122494  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746160428  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have b…
+
 - **The Fourth Season**  
   发布: 1769036297  
   来源: Steam News API  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121912  
   摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img] Only 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us.  FURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, Th…
 
-- **Counter-Strike 2 Update**  
-  发布: 1765231628  
+- **Palworld shows off concept art for new pals as part of its 2-year anniversary celebration as Pocketpair's CEO promises fans 'we will do everything we can to meet your expectations'**  
+  发布: 1769102405  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366183917  
-  摘要: [p]\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746159649  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/UaqGdRGLoqw7XyTrdhLdVL-1280-80.png"/><br><br>                 <a href="https://www.pcgamer.com/palworld/">Palworld's</a> 1.0 release is coming up soon. Well that could be wishful thinking: it'll be available to play sometime this year. …
 
 - **v0.7.1: Balance adjustments and bug fixes**  
   发布: 1768964692  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365085520  
   摘要: [previewyoutube="Vn4-gKzJr0A;full"][/previewyoutube][p][/p][h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as cont…
-
-- **Palworld publishing boss says 'I haven't really touched so-called AAA titles', adding that they tend to be 'overwhelmingly about graphic quality and fidelity'**  
-  发布: 1764538657  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1817483467043818  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 When it's not equipping little critters with assault rifles or <a href="https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-poke…
