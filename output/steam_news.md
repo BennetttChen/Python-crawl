@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121912  
   摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img] Only 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us.  FURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, Th…
 
+- **Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'**  
+  发布: 1769189427  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746162475  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 It's not uncommon to sugarcoat things in a job interview. Perhaps you've even told a little white lie about how much you love what the company does—it's not like it ever come…
+
 - **Palworld shows off concept art for new pals as part of its 2-year anniversary celebration as Pocketpair's CEO promises fans 'we will do everything we can to meet your expectations'**  
   发布: 1769102405  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1819386365087675  
   摘要: <p><p>Palworld just levelled up with a big new free Home Sweet Home update as Pocketpair work towards finishing up the game for a full release next year.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/606532266id28209gol.jpg" alt /></p><p>Read the f…
-
-- **Palworld v0.7 - Home Sweet Home**  
-  发布: 1765940666  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365085520  
-  摘要: [previewyoutube="Vn4-gKzJr0A;full"][/previewyoutube][p][/p][h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as cont…

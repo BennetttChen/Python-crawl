@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746162475",
+    "author": "Rory Norris",
+    "published": "1769189427",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                It's not uncommon to sugarcoat things in a job interview. Perhaps you've even told a little white lie about how much you love what the company does—it's not like it ever comes back to bite you in the arse, right?..\n                <a href=\"https://www.pcgamer.com/games/survival-crafting/palwor",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld shows off concept art for new pals as part of its 2-year anniversary celebration as Pocketpair's CEO promises fans 'we will do everything we can to meet your expectations'",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746159649",
     "author": "Elie Gould",
@@ -204,15 +213,6 @@
     "author": "",
     "published": "1765996089",
     "summary": "<p><p>Palworld just levelled up with a big new free Home Sweet Home update as Pocketpair work towards finishing up the game for a full release next year.</p><p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/606532266id28209gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2025/12/the-home-sweet-home-update-for-palworld-with-the-ultrakill-cross",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld v0.7 - Home Sweet Home",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365085520",
-    "author": "pocketpair_dev",
-    "published": "1765940666",
-    "summary": "[previewyoutube=\"Vn4-gKzJr0A;full\"][/previewyoutube][p][/p][h3]2025 has been an incredible year for Palworld, and we’re excited to end the year with v0.7, Home Sweet Home! The purpose of this update is to begin improving existing features, and while this update may not be as content-rich as previous ones, we hope players understand that it’s necessary for us to begin laying the groundwork now as w",
     "source": "Steam News API"
   }
 ]
