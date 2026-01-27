@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746168133",
+    "author": "jo",
+    "published": "1769472540",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Fixed a performance issue when running CS2 without a sound device.[/p][/*][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746160428",
     "author": "jo",
     "published": "1769122494",
@@ -132,15 +141,6 @@
     "author": "COMPLEX",
     "published": "1765670126",
     "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img]\nOnly two teams remain in the StarLadder Budapest Major!\n\nTeam Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit in the Semifinals 2-0. \n\nOn the other side of the bracket, FaZe Clan defeated MOUZ in the Quarterfinals and needed all ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "The StarLadder Budapest Major Playoffs",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121912",
-    "author": "COMPLEX",
-    "published": "1765397607",
-    "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img]\nOnly 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us.\n\nFURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, The MongolZ, and Vitality advanced at 3-1, and Falcons, FaZe Clan, and Natus Vincere survived with 3-2 records.\n\nPlayoffs ",
     "source": "Steam News API"
   },
   {

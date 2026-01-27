@@ -49,6 +49,12 @@
   摘要: [img src="{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png"][/img]  [p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url="https://store.steampowered.co…
 
 - **Counter-Strike 2 Update**  
+  发布: 1769472540  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746168133  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.[/p][/*][/list][p][/p][p]\[ SOUND ][/p][list][*][p]Fixed a performan…
+
+- **Counter-Strike 2 Update**  
   发布: 1769122494  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746160428  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592130605  
   摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img] Only two teams remain in the StarLadder Budapest Major!  Team Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit…
-
-- **The StarLadder Budapest Major Playoffs**  
-  发布: 1765397607  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121912  
-  摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img] Only 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us.  FURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, Th…
 
 - **Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'**  
   发布: 1769189427  
