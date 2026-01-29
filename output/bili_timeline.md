@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **中国奇谭2**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss73976  
-  摘要: 11:00
-
-- **判处勇者刑**  
-  发布: 21:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss127870  
-  摘要: 21:30
-
 - **深空彼岸**  
   发布: 11:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +106,16 @@
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss103878  
+  摘要: 10:00
+
+- **仙帝归来**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45976  
+  摘要: 11:00
+
+- **开局地摊卖大力**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45964  
   摘要: 10:00
