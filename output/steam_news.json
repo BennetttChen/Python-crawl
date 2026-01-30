@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198603765",
+    "author": "jo",
+    "published": "1769732256",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Performance optimizations for exploding chickens.[/p][/*][*][p]Fixed a map scripting bug where Entity.SetOwner ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746168133",
     "author": "jo",
     "published": "1769472540",
@@ -132,15 +141,6 @@
     "author": "jo",
     "published": "1766092733",
     "summary": "[p]\\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Best of Five in Budapest",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592130605",
-    "author": "COMPLEX",
-    "published": "1765670126",
-    "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img]\nOnly two teams remain in the StarLadder Budapest Major!\n\nTeam Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit in the Semifinals 2-0. \n\nOn the other side of the bracket, FaZe Clan defeated MOUZ in the Quarterfinals and needed all ",
     "source": "Steam News API"
   },
   {
