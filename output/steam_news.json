@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Dota 2 Update - 1/30/2026",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606637",
+    "author": "Jeff Hill",
+    "published": "1769814739",
+    "summary": "[p]Over the past few days we've addressed the following issues:[/p][list][*][p]Fixed a bug where Clinkz's Skeleton Archers were doing more than the intended amount of damage to buildings.[/p][/*][*][p]Fixed a bug where Slark's Depth Shroud was not applying the intended move speed and health regen to allies.[/p][/*][*][p]Fixed a bug where Specter's Shadow Step had an interaction with attack range e",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "7.40c Gameplay Patch",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157843",
     "author": "eugenep",
@@ -60,15 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1762860995",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg\"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve's hit <a href=\"https://www.pcgamesn.com/which-best-moba\">MOBA</a> has been inundated with cosmetic goods and iconic anno",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Dota x Monster Hunter",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768403675",
-    "author": "Unicorn Princess",
-    "published": "1762812389",
-    "summary": "[img src=\"{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png\"][/img]\n\n[p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url=\"https://store.steampowered.com/curator/34827959\"]Monster Hunter[/url] crossover with new sets, new pets, a new in-game hunt and crafting system, and ",
     "source": "Steam News API"
   },
   {

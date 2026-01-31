@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2 Update - 1/30/2026**  
+  发布: 1769814739  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606637  
+  摘要: [p]Over the past few days we've addressed the following issues:[/p][list][*][p]Fixed a bug where Clinkz's Skeleton Archers were doing more than the intended amount of damage to buildings.[/p][/*][*][p]Fixed a bug where Slark's Depth Shroud was not applying the intended move speed…
+
 - **7.40c Gameplay Patch**  
   发布: 1769041258  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1815580768422774  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve'…
-
-- **Dota x Monster Hunter**  
-  发布: 1762812389  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768403675  
-  摘要: [img src="{STEAM_CLAN_IMAGE}/3703047/98be0d0a60eca8edbad91ec0050918f83ea462e2.png"][/img]  [p]It's open season on the world's most dangerous heroes, and you're just the hero we need to track them all down. We're happy to announce a massive Dota/[url="https://store.steampowered.co…
 
 - **Counter-Strike 2 Update**  
   发布: 1769732256  
