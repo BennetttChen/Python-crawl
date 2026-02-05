@@ -49,6 +49,12 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve'…
 
 - **Counter-Strike 2 Update**  
+  发布: 1770248033  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240  
+  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\[ MAPS ][/p][p]Anub…
+
+- **Counter-Strike 2 Update**  
   发布: 1769732256  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198603765  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092528  
   摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img] The StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.…
-
-- **Counter-Strike 2 Update**  
-  发布: 1766092733  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092527  
-  摘要: [p]\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]
 
 - **Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'**  
   发布: 1769189427  

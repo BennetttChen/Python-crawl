@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240",
+    "author": "jo",
+    "published": "1770248033",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Adjusted player clipping around new drop.[/p][/*][*][p]Adjusted grenade clipping around connector (e-b",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198603765",
     "author": "jo",
     "published": "1769732256",
@@ -132,15 +141,6 @@
     "author": "Mr. Mario Kart",
     "published": "1766092742",
     "summary": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nThe StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.\n\nComing into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The Mongol",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092527",
-    "author": "jo",
-    "published": "1766092733",
-    "summary": "[p]\\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {
