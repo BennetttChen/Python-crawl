@@ -49,6 +49,12 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve'…
 
 - **Counter-Strike 2 Update**  
+  发布: 1770677957  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
+  摘要: [p]\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]
+
+- **Counter-Strike 2 Update**  
   发布: 1770248033  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365109671  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png[/img]  Starting January 1, 2026, the newest Service Medal will be available in-game.  Reach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Ser…
-
-- **The Year of the Bees**  
-  发布: 1766092742  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092528  
-  摘要: [img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img] The StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.…
 
 - **Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'**  
   发布: 1769189427  
