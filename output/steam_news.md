@@ -1,5 +1,11 @@
 # Steam News
 
+- **The International 2026**  
+  发布: 1770854734  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824459501605090  
+  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/2b0dbd8497914662524fb7ed561beb3090d33be7.jpg[/img]  Every year, dedicated Dota players around the globe join together and train relentlessly with a single goal in mind: to battle through the highest levels of opposition and emerge victorious as the…
+
 - **Dota 2 Update - 1/30/2026**  
   发布: 1769814739  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592128752  
   摘要: The International returns to Shanghai, China in August 2026, and we’d like to invite all companies interested in producing and distributing regional language broadcasts of The International 2026 to apply now.    For the Live Event Broadcast Production of this year's show, we’ll b…
-
-- **I never thought I'd see Dota 2 and Monster Hunter in the same sentence, but the MOBA's biggest collab ever just dropped out of nowhere**  
-  发布: 1762860995  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1815580768422774  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/dota-2-monster-hunter-collab-900x506.jpg"/><p><strong>Dota 2</strong> used to be an absolute fiend for a good crossover. From Final Fantasy to Fallout, Deus Ex to Darkest Dungeon, Valve'…
 
 - **Counter-Strike 2 Update**  
   发布: 1770677957  
