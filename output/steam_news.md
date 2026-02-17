@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365109671  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png[/img]  Starting January 1, 2026, the newest Service Medal will be available in-game.  Reach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Ser…
 
+- **v0.7.2: Balance adjustments and bug fixes**  
+  发布: 1771218125  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522844567  
+  摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.2 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Added rarity variations for melee weapons (swords, katanas, beam swords, Lily's Spear).[/p][p]・\[Steam] Added a Debug Mod that allows constant updates …
+
 - **Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'**  
   发布: 1769189427  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1819386365125817  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/4thtSQAMAwZZNYF24VjUiE-1280-80.jpg"/><br><br>                 The end of the year doesn't just bring some much-needed time off, awkward family gatherings, and a wave of New Year's resolutions that'll only be kept for a day or so. It is …
-
-- **The Home Sweet Home update for Palworld with the ULTRAKILL crossover is out now**  
-  发布: 1765996089  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1819386365087675  
-  摘要: <p><p>Palworld just levelled up with a big new free Home Sweet Home update as Pocketpair work towards finishing up the game for a full release next year.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/606532266id28209gol.jpg" alt /></p><p>Read the f…
