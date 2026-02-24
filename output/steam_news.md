@@ -49,6 +49,12 @@
   摘要: The International returns to Shanghai, China in August 2026, and we’d like to invite all companies interested in producing and distributing regional language broadcasts of The International 2026 to apply now.    For the Live Event Broadcast Production of this year's show, we’ll b…
 
 - **Counter-Strike 2 Update**  
+  发布: 1771889921  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926  
+  摘要: [p]\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs…
+
+- **Counter-Strike 2 Update**  
   发布: 1770677957  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157780  
   摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Four has begun[/p][/*][*][p]Added Anubis to the Active Duty Map Pool[/p][/*][*][p]Removed Train from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ COMPETITIVE ][/p][list][*][p]Adjusted underlying per-map competitive matchmaking …
-
-- **2026 Service Medal**  
-  发布: 1766779495  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365109671  
-  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png[/img]  Starting January 1, 2026, the newest Service Medal will be available in-game.  Reach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Ser…
 
 - **v0.7.2: Balance adjustments and bug fixes**  
   发布: 1771218125  
