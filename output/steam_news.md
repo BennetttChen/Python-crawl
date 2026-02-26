@@ -49,6 +49,12 @@
   摘要: The International returns to Shanghai, China in August 2026, and we’d like to invite all companies interested in producing and distributing regional language broadcasts of The International 2026 to apply now.    For the Live Event Broadcast Production of this year's show, we’ll b…
 
 - **Counter-Strike 2 Update**  
+  发布: 1772060032  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141  
+  摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit c…
+
+- **Counter-Strike 2 Update**  
   发布: 1771889921  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157781  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it!  [/p][p]Anubis is back after a short v…
-
-- **Counter-Strike 2 Update**  
-  发布: 1769036288  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157780  
-  摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Four has begun[/p][/*][*][p]Added Anubis to the Active Duty Map Pool[/p][/*][*][p]Removed Train from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ COMPETITIVE ][/p][list][*][p]Adjusted underlying per-map competitive matchmaking …
 
 - **v0.7.2: Balance adjustments and bug fixes**  
   发布: 1771218125  

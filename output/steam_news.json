@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141",
+    "author": "jo",
+    "published": "1772060032",
+    "summary": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDa",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926",
     "author": "jo",
     "published": "1771889921",
@@ -132,15 +141,6 @@
     "author": "Gautam",
     "published": "1769036297",
     "summary": "[img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it!  [/p][p]Anubis is back after a short vacation, and has several gameplay adjustments to show for it. The release notes have the full story, but let's just say ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157780",
-    "author": "brianlev",
-    "published": "1769036288",
-    "summary": "[p]\\[ PREMIER ][/p][list][*][p]Premier Season Four has begun[/p][/*][*][p]Added Anubis to the Active Duty Map Pool[/p][/*][*][p]Removed Train from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\\[ COMPETITIVE ][/p][list][*][p]Adjusted underlying per-map competitive matchmaking rank values. Existing per-map competitive Skill Groups have been expired, and will be displayed again once the player ob",
     "source": "Steam News API"
   },
   {
