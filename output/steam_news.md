@@ -1,5 +1,17 @@
 # Steam News
 
+- **Valve is being sued by New York Attorney General Letitia James. The accusation: "promoting illegal gambling through videogames."**  
+  发布: 1772109761  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1825727806707462  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/02/valve-lawsuit-ny-ag-letitia-james-counter-strike-2-skins-crates-loot-boxes-900x506.jpg"/><p>A lawsuit filed by New York Attorney General Letitia James accuses <strong>Valve</strong> of "…
+
+- **Valve accused of "letting children and adults alike illegally gamble" via loot boxes in New York state lawsuit**  
+  发布: 1772102231  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1825727806707377  
+  摘要: <img src="https://assetsio.gnwcdn.com/valve-sued--loot-boxes-gambling-new-york-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Valve's Lionel Hutzes have been summoned to slide down the fireman's pole and deal with yet more legal wranglings involving the behemoth behind S…
+
 - **The International 2026**  
   发布: 1770854734  
   来源: Steam News API  
@@ -35,18 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1818752592135551  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/dota-2-largo-patch-7-40-new-hero-invulnerability-changes-map-terrain-collectors-cache-winter-900x506.jpg"/><p>In a surprise to absolutely no one, my favorite Dungeons and Dragons class i…
-
-- **Introducing Largo and Patch 7.40**  
-  发布: 1765843654  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592134412  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/c09b13cda87a548b83b626fb33a32efd7895c634.png[/img]  Dota is an ensemble cast, but keen observers looking through the collection of rogues, wizards, druids, and knights (not to mention two characters [i]named[/i] "ranger") may have noticed the absen…
-
-- **The International 2026 Live Event Broadcast RFP and Broadcast License Requests**  
-  发布: 1765574894  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592128752  
-  摘要: The International returns to Shanghai, China in August 2026, and we’d like to invite all companies interested in producing and distributing regional language broadcasts of The International 2026 to apply now.    For the Live Event Broadcast Production of this year's show, we’ll b…
 
 - **Counter-Strike 2 Update**  
   发布: 1772060032  
