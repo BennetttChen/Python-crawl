@@ -49,6 +49,18 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/dota-2-largo-patch-7-40-new-hero-invulnerability-changes-map-terrain-collectors-cache-winter-900x506.jpg"/><p>In a surprise to absolutely no one, my favorite Dungeons and Dragons class i…
 
 - **Counter-Strike 2 Update**  
+  发布: 1772664700  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059919569  
+  摘要: [p]\[ MISC ][/p][list][*][p]Starting today, items listed for sale on Steam Community Market will remain in your inventory for use while they are listed (e.g., your weapon can be equipped in your loadout while it is listed). While listed, items cannot be consumed or modified. You …
+
+- **CSGO is back on Steam, if you know where to look**  
+  发布: 1772623159  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consi…
+
+- **Counter-Strike 2 Update**  
   发布: 1772060032  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746168133  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.[/p][/*][/list][p][/p][p]\[ SOUND ][/p][list][*][p]Fixed a performan…
-
-- **Counter-Strike 2 Update**  
-  发布: 1769122494  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746160428  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have b…
-
-- **The Fourth Season**  
-  发布: 1769036297  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157781  
-  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it!  [/p][p]Anubis is back after a short v…
 
 - **v0.7.2: Balance adjustments and bug fixes**  
   发布: 1771218125  
