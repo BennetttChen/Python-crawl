@@ -9,7 +9,7 @@
 - **Valve accused of "letting children and adults alike illegally gamble" via loot boxes in New York state lawsuit**  
   发布: 1772102231  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1825727806707377  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/rps/1825727806707377  
   摘要: <img src="https://assetsio.gnwcdn.com/valve-sued--loot-boxes-gambling-new-york-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Valve's Lionel Hutzes have been summoned to slide down the fireman's pole and deal with yet more legal wranglings involving the behemoth behind S…
 
 - **The International 2026**  
