@@ -1,5 +1,11 @@
 # Steam News
 
+- **New lawsuit wants Valve to repay "billions" earned from "illegal gambling" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2**  
+  发布: 1773146056  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871  
+  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of runn…
+
 - **Valve is being sued by New York Attorney General Letitia James. The accusation: "promoting illegal gambling through videogames."**  
   发布: 1772109761  
   来源: Steam News API  
@@ -42,11 +48,23 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311  
   摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
 
-- **Dota 2 patch 7.40 adds new hero Largo, whose ultimate has one of the coolest mechanics I've seen in ages**  
-  发布: 1765879060  
+- **Counter-Strike 2 Update**  
+  发布: 1773270006  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1818752592135551  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/dota-2-largo-patch-7-40-new-hero-invulnerability-changes-map-terrain-collectors-cache-winter-900x506.jpg"/><p>In a surprise to absolutely no one, my favorite Dungeons and Dragons class i…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189  
+  摘要: [p]\[ DEAD HAND COLLECTION ][/p][list][*][p]The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.[/p][/*][*][p]Access items in the Dead Hand Collection via the Dead Hand Terminal, avail…
+
+- **The Dead Hand**  
+  发布: 1773269955  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591187  
+  摘要: Today we're introducing the Dead Hand Collection, featuring 17 finishes from community contributors and 22 all-new gloves as rare special items.   [carousel][img]https://clan.fastly.steamstatic.com/images/3381077/55ed2cb8da5c61796d087c29b39e0b4bd8220443.png[/img][img]https://clan…
+
+- **New lawsuit wants Valve to repay "billions" earned from "illegal gambling" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2**  
+  发布: 1773146056  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871  
+  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of runn…
 
 - **Counter-Strike 2 Update**  
   发布: 1772664700  
@@ -77,24 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
   摘要: [p]\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]
-
-- **Counter-Strike 2 Update**  
-  发布: 1770248033  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\[ MAPS ][/p][p]Anub…
-
-- **Counter-Strike 2 Update**  
-  发布: 1769732256  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198603765  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\[ MISC ][/p][li…
-
-- **Counter-Strike 2 Update**  
-  发布: 1769472540  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746168133  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.[/p][/*][/list][p][/p][p]\[ SOUND ][/p][list][*][p]Fixed a performan…
 
 - **v0.7.2: Balance adjustments and bug fixes**  
   发布: 1771218125  
