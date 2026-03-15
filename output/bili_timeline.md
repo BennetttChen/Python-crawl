@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **牧神记**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45969  
-  摘要: 11:00
-
-- **正相反的你与我**  
-  发布: 16:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss129142  
-  摘要: 16:30
-
 - **宗门里除了我都是卧底**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +107,15 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss148433  
   摘要: 09:00
+
+- **为喵人生**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73971  
+  摘要: 11:00
+
+- **玄界之门**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73973  
+  摘要: 10:00
