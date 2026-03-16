@@ -60,6 +60,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591187  
   摘要: Today we're introducing the Dead Hand Collection, featuring 17 finishes from community contributors and 22 all-new gloves as rare special items.   [carousel][img]https://clan.fastly.steamstatic.com/images/3381077/55ed2cb8da5c61796d087c29b39e0b4bd8220443.png[/img][img]https://clan…
 
+- **New lawsuit wants Valve to repay "billions" earned from "illegal gambling" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2**  
+  发布: 1773146056  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871  
+  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of runn…
+
 - **Counter-Strike 2 Update**  
   发布: 1772664700  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
   摘要: [p]\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]
-
-- **Counter-Strike 2 Update**  
-  发布: 1770248033  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\[ MAPS ][/p][p]Anub…
 
 - **Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'**  
   发布: 1773424915  
