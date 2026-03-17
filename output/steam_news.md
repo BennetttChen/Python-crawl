@@ -49,6 +49,12 @@
   摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
 
 - **Counter-Strike 2 Update**  
+  发布: 1773698794  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521  
+  摘要: [p]\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url="https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Sca…
+
+- **Counter-Strike 2 Update**  
   发布: 1773270006  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926  
   摘要: [p]\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs…
-
-- **Counter-Strike 2 Update**  
-  发布: 1770677957  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
-  摘要: [p]\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]
 
 - **Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'**  
   发布: 1773424915  

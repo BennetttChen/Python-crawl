@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521",
+    "author": "Gautam",
+    "published": "1773698794",
+    "summary": "[p]\\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url=\"https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B\"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable \"Genuine P250 | X-ray\", which must be claimed before usi",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189",
     "author": "jo",
     "published": "1773270006",
@@ -132,15 +141,6 @@
     "author": "jo",
     "published": "1771889921",
     "summary": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792",
-    "author": "jo",
-    "published": "1770677957",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {
