@@ -1,11 +1,11 @@
 [
   {
     "appid": 570,
-    "title": "New lawsuit wants Valve to repay \"billions\" earned from \"illegal gambling\" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871",
+    "title": "\"Valve does not cooperate with gambling sites\" - Counter-Strike publishers issue rare public defence of lootbox mechanics, following New York lawsuit",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967",
     "author": "",
-    "published": "1773146056",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of running an unlawful gambling operation through lootbox mechanics in <a href=\"https://www.rockpapershotgun.com/games/counter-",
+    "published": "1773260158",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href=\"https://www.rockpapershotgun.com/valve-accused-of-letting-children-and-adults-alike-illegally-gamble-via-loot-boxes-in",
     "source": "Steam News API"
   },
   {
@@ -100,15 +100,6 @@
   },
   {
     "appid": 730,
-    "title": "New lawsuit wants Valve to repay \"billions\" earned from \"illegal gambling\" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871",
-    "author": "",
-    "published": "1773146056",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of running an unlawful gambling operation through lootbox mechanics in <a href=\"https://www.rockpapershotgun.com/games/counter-",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059919569",
     "author": "Vitaliy",
@@ -141,6 +132,15 @@
     "author": "jo",
     "published": "1771889921",
     "summary": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792",
+    "author": "jo",
+    "published": "1770677957",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {

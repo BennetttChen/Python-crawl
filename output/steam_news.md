@@ -1,10 +1,10 @@
 # Steam News
 
-- **New lawsuit wants Valve to repay "billions" earned from "illegal gambling" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2**  
-  发布: 1773146056  
+- **"Valve does not cooperate with gambling sites" - Counter-Strike publishers issue rare public defence of lootbox mechanics, following New York lawsuit**  
+  发布: 1773260158  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871  
-  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of runn…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
+  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
 - **Valve is being sued by New York Attorney General Letitia James. The accusation: "promoting illegal gambling through videogames."**  
   发布: 1772109761  
@@ -66,12 +66,6 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591187  
   摘要: Today we're introducing the Dead Hand Collection, featuring 17 finishes from community contributors and 22 all-new gloves as rare special items.   [carousel][img]https://clan.fastly.steamstatic.com/images/3381077/55ed2cb8da5c61796d087c29b39e0b4bd8220443.png[/img][img]https://clan…
 
-- **New lawsuit wants Valve to repay "billions" earned from "illegal gambling" lootboxes in Counter-Strike, Dota 2 and Team Fortress 2**  
-  发布: 1773146056  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826362059932871  
-  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-loot-box-a1_BuGempM.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Tis the season for taking Steam to court, apparently. A new class action lawsuit has been filed in Washington, USA accusing Valve of runn…
-
 - **Counter-Strike 2 Update**  
   发布: 1772664700  
   来源: Steam News API  
@@ -95,6 +89,12 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926  
   摘要: [p]\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs…
+
+- **Counter-Strike 2 Update**  
+  发布: 1770677957  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
+  摘要: [p]\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]
 
 - **Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'**  
   发布: 1773424915  
