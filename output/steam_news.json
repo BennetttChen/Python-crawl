@@ -74,6 +74,24 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572",
+    "author": "COMPLEX",
+    "published": "1773873327",
+    "summary": "[ GAMEPLAY ][list]\n[*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.\n[*]Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.\n[*]The fill-level of the curren",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Guns, Guides, and Games",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751571",
+    "author": "Piggles ULTRAPRO",
+    "published": "1773873319",
+    "summary": "[p]From reloading to custom games, today's update will give you plenty to think about.\n[/p][h3]Reload[/h3][p][img]https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png[/img]\nWhen you reload in CS2, the leftover ammo in your magazine is dumped back into an essentially endless reserve supply. And so the decision to reload has never offered significant trade-",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521",
     "author": "Gautam",
     "published": "1773698794",
@@ -123,24 +141,6 @@
     "author": "jo",
     "published": "1772060032",
     "summary": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDa",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926",
-    "author": "jo",
-    "published": "1771889921",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792",
-    "author": "jo",
-    "published": "1770677957",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {

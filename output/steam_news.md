@@ -49,6 +49,18 @@
   摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
 
 - **Counter-Strike 2 Update**  
+  发布: 1773873327  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572  
+  摘要: [ GAMEPLAY ][list] [*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves. [*]Reserve ammunition is now…
+
+- **Guns, Guides, and Games**  
+  发布: 1773873319  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751571  
+  摘要: [p]From reloading to custom games, today's update will give you plenty to think about. [/p][h3]Reload[/h3][p][img]https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png[/img] When you reload in CS2, the leftover ammo in your magazine is du…
+
+- **Counter-Strike 2 Update**  
   发布: 1773698794  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141  
   摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit c…
-
-- **Counter-Strike 2 Update**  
-  发布: 1771889921  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926  
-  摘要: [p]\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs…
-
-- **Counter-Strike 2 Update**  
-  发布: 1770677957  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792  
-  摘要: [p]\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]
 
 - **Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'**  
   发布: 1773424915  
