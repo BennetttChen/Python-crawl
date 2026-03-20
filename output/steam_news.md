@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311  
   摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
 
+- **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
+  发布: 1773912675  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526  
+  摘要: Possibly one of the most controversial updates for the Counter-Strike series as a whole, the latest Counter-Strike 2 update brings major changes from Valve.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/2143105576id28682gol.jpg" alt /></p><p>Read the f…
+
 - **Counter-Strike 2 Update**  
   发布: 1773873327  
   来源: Steam News API  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consi…
 
-- **Counter-Strike 2 Update**  
-  发布: 1772060032  
+- **Palworld x Enshrouded bundle available on Steam!**  
+  发布: 1773939649  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141  
-  摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit c…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432  
+  摘要: [p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p]…
 
 - **Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'**  
   发布: 1773424915  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1821288646586165  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg"/><br><br>                 In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Po…
-
-- **The new Palworld game isn't what I expected, but a TCG actually makes a lot of sense**  
-  发布: 1768218174  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1821288646585660  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/palworld-tcg-card-game-2026-reveal-900x506.jpg"/><p>Some things feel inevitable. Multiple GTA 6 delays. Half-Life 3 (let me dream). <strong>Palworld</strong> upsetting Nintendo. In its l…

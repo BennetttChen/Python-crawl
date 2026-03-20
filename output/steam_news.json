@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
+    "author": "",
+    "published": "1773912675",
+    "summary": "Possibly one of the most controversial updates for the Counter-Strike series as a whole, the latest Counter-Strike 2 update brings major changes from Valve.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2143105576id28682gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/03/counter-strike-2-gets-a-major-update-with-reload-changes-custom-",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572",
     "author": "COMPLEX",
@@ -135,12 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141",
-    "author": "jo",
-    "published": "1772060032",
-    "summary": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDa",
+    "appid": 1623730,
+    "title": "Palworld x Enshrouded bundle available on Steam!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432",
+    "author": "pocketpair_dev",
+    "published": "1773939649",
+    "summary": "[p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p][p][dynamiclink href=\"https://store.steampowered.com/bundle/68744/Palworld__Enshrouded/\"][/dynamiclink][/p][p][img src=\"",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "Joshua Wolens",
     "published": "1768233611",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg\"/><br><br>\n                In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Pokémon series—is launching a trading card game...\n                <a href=\"https://www.pcgamer.com/games/card-games/palwo",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "The new Palworld game isn't what I expected, but a TCG actually makes a lot of sense",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1821288646585660",
-    "author": "editor@pcgamesn.com",
-    "published": "1768218174",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/palworld-tcg-card-game-2026-reveal-900x506.jpg\"/><p>Some things feel inevitable. Multiple GTA 6 delays. Half-Life 3 (let me dream). <strong>Palworld</strong> upsetting Nintendo. In its latest endeavor, Pocketpair has confirmed that it's making a Palworld TCG inspired by its hit <a href=\"https://www.pcgame",
     "source": "Steam News API"
   }
 ]
