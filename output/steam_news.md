@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consi…
 
+- **All those upcoming spin-offs aside, Pocketpair apparently aren't all that interested in a Palworld "media empire"**  
+  发布: 1774116559  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1827626365760547  
+  摘要: <img src="https://assetsio.gnwcdn.com/palworld-1.0-release-coming-2026-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> has honestly lived, and thrived, a lot longer than I honestly expected to. I gues…
+
 - **Palworld x Enshrouded bundle available on Steam!**  
   发布: 1773939649  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
   摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…
-
-- **Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'**  
-  发布: 1768233611  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1821288646586165  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg"/><br><br>                 In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Po…
