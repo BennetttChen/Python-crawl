@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311  
   摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
 
+- **Valve say Counter-Strike 2's reloading needed "higher stakes", so you now dump all the ammo left in a clip when you reload early**  
+  发布: 1773914385  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1827626365752996  
+  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-2-reload-change-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Bang. 29 bullets left. Bang, bang, bang, rattatata. 14 bullets left. I'd better reload, in case someone comes around that corner and I need a full clip on …
+
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059919569  
   摘要: [p]\[ MISC ][/p][list][*][p]Starting today, items listed for sale on Steam Community Market will remain in your inventory for use while they are listed (e.g., your weapon can be equipped in your loadout while it is listed). While listed, items cannot be consumed or modified. You …
-
-- **CSGO is back on Steam, if you know where to look**  
-  发布: 1772623159  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consi…
 
 - **All those upcoming spin-offs aside, Pocketpair apparently aren't all that interested in a Palworld "media empire"**  
   发布: 1774116559  
