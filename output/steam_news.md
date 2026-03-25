@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.41 Gameplay Patch**  
+  发布: 1774395824  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968  
+  摘要: [p]Patch 7.41 is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41"]here[/url].  In addition, we've made the following improvements and bug fixes: [/p][list][*][p] Added an overhead indicator when a consumable item is being used on an ally or …
+
 - **"Valve does not cooperate with gambling sites" - Counter-Strike publishers issue rare public defence of lootbox mechanics, following New York lawsuit**  
   发布: 1773260158  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1819386365123191  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/dota-2-the-international-ti3-championship-ring-admiralbulldog-sold-ebay-900x506.jpg"/><p>I didn't expect my first news article of 2026 to be this one. Former <strong>Dota 2</strong> pro …
-
-- **7.40b Gameplay Patch**  
-  发布: 1766531102  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311  
-  摘要: [p]Patch 7.40b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40b"]here[/url].   In addition, over the last few days we've addressed the following issues:  [/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/…
 
 - **Valve say Counter-Strike 2's reloading needed "higher stakes", so you now dump all the ammo left in a clip when you reload early**  
   发布: 1773914385  

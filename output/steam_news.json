@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "7.41 Gameplay Patch",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968",
+    "author": "flynnch",
+    "published": "1774395824",
+    "summary": "[p]Patch 7.41 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[/p][list][*][p] Added an overhead indicator when a consumable item is being used on an ally or given to one within 1200 units (e.g., Tango)[/p][/*][*][p] Added an option in Settings to show your hero's current visio",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "\"Valve does not cooperate with gambling sites\" - Counter-Strike publishers issue rare public defence of lootbox mechanics, following New York lawsuit",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967",
     "author": "",
@@ -60,15 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1767607133",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/dota-2-the-international-ti3-championship-ring-admiralbulldog-sold-ebay-900x506.jpg\"/><p>I didn't expect my first news article of 2026 to be this one. Former <strong>Dota 2</strong> pro Henrik 'AdmiralBulldog' Ahnberg is selling his TI 2013 championship ring on Ebay - yes, I double took, too. But the list",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.40b Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365105311",
-    "author": "flynnch",
-    "published": "1766531102",
-    "summary": "[p]Patch 7.40b is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.40b\"]here[/url]. \n\nIn addition, over the last few days we've addressed the following issues:\n\n[/p][list][*][p]Fixed Dota+ Talent Pickrates and Winrates not properly aggregating[/p][/*][*][p]Fixed \"Learn Ability\" toggle not closing automatically after level 24[/p][/*][*][p]Fixed incorrect hitboxes ",
     "source": "Steam News API"
   },
   {
