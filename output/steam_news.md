@@ -1,10 +1,16 @@
 # Steam News
 
+- **A huge new Dota 2 patch U-turns on one of Valve's biggest additions in years**  
+  发布: 1774444105  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1827626365768108  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-7-41-patch-notes-facets-removed-innate-abilities-reworked-new-items-hero-skills-and-map-changes-900x506.jpg"/><p>As is tradition, Valve has just unleashed one of its biggest <stro…
+
 - **7.41 Gameplay Patch**  
   发布: 1774395824  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968  
-  摘要: [p]Patch 7.41 is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41"]here[/url].  In addition, we've made the following improvements and bug fixes: [/p][list][*][p] Added an overhead indicator when a consumable item is being used on an ally or …
+  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/b51c728ac0c7a28973be12fce11a3c869037177d.png[/img]  [p]Patch 7.41 is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41"]here[/url].  In addition, we've made the following improvements and bug fixes: [/p][list][*…
 
 - **"Valve does not cooperate with gambling sites" - Counter-Strike publishers issue rare public defence of lootbox mechanics, following New York lawsuit**  
   发布: 1773260158  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157843  
   摘要: [p]Patch 7.40c is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40c"]here[/url]. [/p][p][/p][p]As a reminder, the Monster Hunter event ends February 6, 2026, after which you'll no longer be able to earn progress or craft items. Today's update…
-
-- **Former Dota 2 pro is selling his TI championship ring on Ebay for some serious cash, but it's not because he's "desperate"**  
-  发布: 1767607133  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1819386365123191  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/dota-2-the-international-ti3-championship-ring-admiralbulldog-sold-ebay-900x506.jpg"/><p>I didn't expect my first news article of 2026 to be this one. Former <strong>Dota 2</strong> pro …
 
 - **Valve say Counter-Strike 2's reloading needed "higher stakes", so you now dump all the ammo left in a clip when you reload early**  
   发布: 1773914385  

@@ -1,11 +1,20 @@
 [
   {
     "appid": 570,
+    "title": "A huge new Dota 2 patch U-turns on one of Valve's biggest additions in years",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1827626365768108",
+    "author": "editor@pcgamesn.com",
+    "published": "1774444105",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-7-41-patch-notes-facets-removed-innate-abilities-reworked-new-items-hero-skills-and-map-changes-900x506.jpg\"/><p>As is tradition, Valve has just unleashed one of its biggest <strong>Dota 2</strong> updates in a while right on the cusp of a major tournament climax. With the group stages of ESL One B",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "7.41 Gameplay Patch",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968",
     "author": "flynnch",
     "published": "1774395824",
-    "summary": "[p]Patch 7.41 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[/p][list][*][p] Added an overhead indicator when a consumable item is being used on an ally or given to one within 1200 units (e.g., Tango)[/p][/*][*][p] Added an option in Settings to show your hero's current visio",
+    "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/b51c728ac0c7a28973be12fce11a3c869037177d.png[/img]\n\n[p]Patch 7.41 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[/p][list][*][p] Added an overhead indicator when a consumable item is being used on an ally or given to one within 1200 units (e.g.",
     "source": "Steam News API"
   },
   {
@@ -60,15 +69,6 @@
     "author": "eugenep",
     "published": "1769041258",
     "summary": "[p]Patch 7.40c is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.40c\"]here[/url]. [/p][p][/p][p]As a reminder, the Monster Hunter event ends February 6, 2026, after which you'll no longer be able to earn progress or craft items. Today's update also adds new Universal Material packs for purchase, providing an alternative way to get materials and finish crafting ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Former Dota 2 pro is selling his TI championship ring on Ebay for some serious cash, but it's not because he's \"desperate\"",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1819386365123191",
-    "author": "editor@pcgamesn.com",
-    "published": "1767607133",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/01/dota-2-the-international-ti3-championship-ring-admiralbulldog-sold-ebay-900x506.jpg\"/><p>I didn't expect my first news article of 2026 to be this one. Former <strong>Dota 2</strong> pro Henrik 'AdmiralBulldog' Ahnberg is selling his TI 2013 championship ring on Ebay - yes, I double took, too. But the list",
     "source": "Steam News API"
   },
   {
