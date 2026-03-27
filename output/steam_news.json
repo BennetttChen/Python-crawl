@@ -73,15 +73,6 @@
   },
   {
     "appid": 730,
-    "title": "Valve say Counter-Strike 2's reloading needed \"higher stakes\", so you now dump all the ammo left in a clip when you reload early",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1827626365752996",
-    "author": "",
-    "published": "1773914385",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-2-reload-change-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Bang. 29 bullets left. Bang, bang, bang, rattatata. 14 bullets left. I'd better reload, in case someone comes around that corner and I need a full clip on hand to empty into then. NO. THINK ABOUT THE BULLETS YOU'RE USING, Valve yell from their giant Steam-powered tower loomi",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
     "author": "",
@@ -141,6 +132,15 @@
     "author": "Vitaliy",
     "published": "1772664700",
     "summary": "[p]\\[ MISC ][/p][list][*][p]Starting today, items listed for sale on Steam Community Market will remain in your inventory for use while they are listed (e.g., your weapon can be equipped in your loadout while it is listed). While listed, items cannot be consumed or modified. You can cancel your listings at any time.[/p][/*][*][p]Added ability to set your max offer limit for items in the Terminal, ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "CSGO is back on Steam, if you know where to look",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935",
+    "author": "editor@pcgamesn.com",
+    "published": "1772623159",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg\"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consistently pulling daily player-count peaks that nearly double the second-placed Dota 2. Yet some of us crave the way thing",
     "source": "Steam News API"
   },
   {
