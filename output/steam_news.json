@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "7.41a Gameplay Patch",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105709",
+    "author": "flynnch",
+    "published": "1774649721",
+    "summary": "Patch 7.41a is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41a\"]here[/url].\n\nIn addition, over the last few days we've addressed the following issues:\n\n[list]\n[*] Fixed a number of miscellaneous client and server crashes\n[*] Option for displaying Hero Facet Names above health bar has been removed\n[*] Spectator options and hotkey settings for Facets have been",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "A huge new Dota 2 patch U-turns on one of Valve's biggest additions in years",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1827626365768108",
     "author": "editor@pcgamesn.com",
@@ -60,15 +69,6 @@
     "author": "Jeff Hill",
     "published": "1769814739",
     "summary": "[p]Over the past few days we've addressed the following issues:[/p][list][*][p]Fixed a bug where Clinkz's Skeleton Archers were doing more than the intended amount of damage to buildings.[/p][/*][*][p]Fixed a bug where Slark's Depth Shroud was not applying the intended move speed and health regen to allies.[/p][/*][*][p]Fixed a bug where Spectre's Shadow Step had an interaction with attack range e",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.40c Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157843",
-    "author": "eugenep",
-    "published": "1769041258",
-    "summary": "[p]Patch 7.40c is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.40c\"]here[/url]. [/p][p][/p][p]As a reminder, the Monster Hunter event ends February 6, 2026, after which you'll no longer be able to earn progress or craft items. Today's update also adds new Universal Material packs for purchase, providing an alternative way to get materials and finish crafting ",
     "source": "Steam News API"
   },
   {

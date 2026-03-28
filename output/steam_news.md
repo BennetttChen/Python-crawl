@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.41a Gameplay Patch**  
+  发布: 1774649721  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105709  
+  摘要: Patch 7.41a is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41a"]here[/url].  In addition, over the last few days we've addressed the following issues:  [list] [*] Fixed a number of miscellaneous client and server crashes [*] Option for disp…
+
 - **A huge new Dota 2 patch U-turns on one of Valve's biggest additions in years**  
   发布: 1774444105  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606637  
   摘要: [p]Over the past few days we've addressed the following issues:[/p][list][*][p]Fixed a bug where Clinkz's Skeleton Archers were doing more than the intended amount of damage to buildings.[/p][/*][*][p]Fixed a bug where Slark's Depth Shroud was not applying the intended move speed…
-
-- **7.40c Gameplay Patch**  
-  发布: 1769041258  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157843  
-  摘要: [p]Patch 7.40c is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.40c"]here[/url]. [/p][p][/p][p]As a reminder, the Monster Hunter event ends February 6, 2026, after which you'll no longer be able to earn progress or craft items. Today's update…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
