@@ -1,5 +1,11 @@
 # Steam News
 
+- **Deadlock isn't a death sentence for Dota 2 - it's "a gateway," according to caster and ESL product manager 'Avo+'**  
+  发布: 1774801617  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1828441623108336  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-avoplus-interview-esl-one-birmingham-2026-patch-7-41-deadlock-gateway-900x506.jpg"/><p>The <strong>Dota 2</strong> ESL One Birmingham 2026 tournament reaches its grand conclusion …
+
 - **7.41a Gameplay Patch**  
   发布: 1774649721  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824459501605090  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/2b0dbd8497914662524fb7ed561beb3090d33be7.jpg[/img]  Every year, dedicated Dota players around the globe join together and train relentlessly with a single goal in mind: to battle through the highest levels of opposition and emerge victorious as the…
-
-- **Dota 2 Update - 1/30/2026**  
-  发布: 1769814739  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198606637  
-  摘要: [p]Over the past few days we've addressed the following issues:[/p][list][*][p]Fixed a bug where Clinkz's Skeleton Archers were doing more than the intended amount of damage to buildings.[/p][/*][*][p]Fixed a bug where Slark's Depth Shroud was not applying the intended move speed…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
