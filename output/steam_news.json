@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Dota 2 Update - 3/31/2026",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815553165",
+    "author": "Vatyx",
+    "published": "1774997526",
+    "summary": "[p]Over the past few days we've addressed the following issues:[/p]\n\n[list]\n[*] Fixed Meepo being able to create potions (and other stackable, nonshareable items)\n[*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser\n[*] Fixed Meepo and Divine Rapier interaction\n[*] Fixed Meepo and Radiance interaction\n[*] Fixed Meepo deleting his Hand of Midas when using the last charge on a clone\n[*]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Deadlock isn't a death sentence for Dota 2 - it's \"a gateway,\" according to caster and ESL product manager 'Avo+'",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1828441623108336",
     "author": "editor@pcgamesn.com",
@@ -60,15 +69,6 @@
     "author": "",
     "published": "1772102231",
     "summary": "<img src=\"https://assetsio.gnwcdn.com/valve-sued--loot-boxes-gambling-new-york-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Valve's Lionel Hutzes have been summoned to slide down the fireman's pole and deal with yet more legal wranglings involving the behemoth behind Steam. New York state attorney general Letitia James has filed a lawsuit against the company for allegedly violating gamb",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "The International 2026",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824459501605090",
-    "author": "krAnk0r",
-    "published": "1770854734",
-    "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/2b0dbd8497914662524fb7ed561beb3090d33be7.jpg[/img]\n\nEvery year, dedicated Dota players around the globe join together and train relentlessly with a single goal in mind: to battle through the highest levels of opposition and emerge victorious as the last squad standing. These resolute competitors must find a way to intertwine the strands of talent, dreams, and sacrif",
     "source": "Steam News API"
   },
   {
@@ -145,15 +145,6 @@
   },
   {
     "appid": 1623730,
-    "title": "All those upcoming spin-offs aside, Pocketpair apparently aren't all that interested in a Palworld \"media empire\"",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1827626365760547",
-    "author": "",
-    "published": "1774116559",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-1.0-release-coming-2026-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>\n<a href=\"https://www.rockpapershotgun.com/games/palworld\">Palworld</a> has honestly lived, and thrived, a lot longer than I honestly expected to. I guess the people really do want Pokemon with guns! As since its launch two years ago (ignore the coffee I've spat over my sc",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
     "title": "Palworld x Enshrouded bundle available on Steam!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432",
     "author": "pocketpair_dev",
@@ -213,6 +204,15 @@
     "author": "pocketpair_dev",
     "published": "1768827608",
     "summary": "[previewyoutube=\"a0M82qgvIxE;full\"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at just some of the upcoming Pals![/p][p][/p][p]Please look forward to our biggest update yet![/p][p][/p][p][img src=\"{STEAM_C",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1821288646586165",
+    "author": "Joshua Wolens",
+    "published": "1768233611",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg\"/><br><br>\n                In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Pokémon series—is launching a trading card game...\n                <a href=\"https://www.pcgamer.com/games/card-games/palwo",
     "source": "Steam News API"
   }
 ]

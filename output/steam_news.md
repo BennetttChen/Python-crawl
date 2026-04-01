@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2 Update - 3/31/2026**  
+  发布: 1774997526  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815553165  
+  摘要: [p]Over the past few days we've addressed the following issues:[/p]  [list] [*] Fixed Meepo being able to create potions (and other stackable, nonshareable items) [*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser [*] Fixed Meepo and Divine Rapier interaction [*] F…
+
 - **Deadlock isn't a death sentence for Dota 2 - it's "a gateway," according to caster and ESL product manager 'Avo+'**  
   发布: 1774801617  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/rps/1825727806707377  
   摘要: <img src="https://assetsio.gnwcdn.com/valve-sued--loot-boxes-gambling-new-york-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Valve's Lionel Hutzes have been summoned to slide down the fireman's pole and deal with yet more legal wranglings involving the behemoth behind S…
-
-- **The International 2026**  
-  发布: 1770854734  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824459501605090  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/2b0dbd8497914662524fb7ed561beb3090d33be7.jpg[/img]  Every year, dedicated Dota players around the globe join together and train relentlessly with a single goal in mind: to battle through the highest levels of opposition and emerge victorious as the…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
@@ -96,12 +96,6 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consi…
 
-- **All those upcoming spin-offs aside, Pocketpair apparently aren't all that interested in a Palworld "media empire"**  
-  发布: 1774116559  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1827626365760547  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-1.0-release-coming-2026-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> has honestly lived, and thrived, a lot longer than I honestly expected to. I gues…
-
 - **Palworld x Enshrouded bundle available on Steam!**  
   发布: 1773939649  
   来源: Steam News API  
@@ -143,3 +137,9 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
   摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…
+
+- **Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'**  
+  发布: 1768233611  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1821288646586165  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg"/><br><br>                 In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Po…
