@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Animgraph 2 Beta",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
     "author": "",
@@ -126,21 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059919569",
-    "author": "Vitaliy",
-    "published": "1772664700",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Starting today, items listed for sale on Steam Community Market will remain in your inventory for use while they are listed (e.g., your weapon can be equipped in your loadout while it is listed). While listed, items cannot be consumed or modified. You can cancel your listings at any time.[/p][/*][*][p]Added ability to set your max offer limit for items in the Terminal, ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "CSGO is back on Steam, if you know where to look",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1826362059917935",
-    "author": "editor@pcgamesn.com",
-    "published": "1772623159",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg\"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consistently pulling daily player-count peaks that nearly double the second-placed Dota 2. Yet some of us crave the way thing",
+    "appid": 1623730,
+    "title": "Nintendo's legal fight with Palworld suffers a reversal as the USPTO reject their patent on character-summoning battle mechanics",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1828894815555634",
+    "author": "",
+    "published": "1775066422",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-update2-1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Nintendo's efforts to patent the idea of summoning a videogame character and letting it fight another character have suffered a significant reversal in the USA, even as the Mario makers continue a copyright infringement lawsuit against <a href=\"https://www.rockpapershotgun.com/games/palwor",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1768827608",
     "summary": "[previewyoutube=\"a0M82qgvIxE;full\"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at just some of the upcoming Pals![/p][p][/p][p]Please look forward to our biggest update yet![/p][p][/p][p][img src=\"{STEAM_C",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld takes the 'red rag to a bull' approach to its Nintendo lawsuit, announces 'a 2-player competitive card game'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1821288646586165",
-    "author": "Joshua Wolens",
-    "published": "1768233611",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/qRkwoT6DYxDnuVdhGLSthd-1280-80.jpg\"/><br><br>\n                In a move that future legal scholars will surely brand 'the matador approach,' Palworld—currently embroiled in a lawsuit with Nintendo over its various similarities to the Pokémon series—is launching a trading card game...\n                <a href=\"https://www.pcgamer.com/games/card-games/palwo",
     "source": "Steam News API"
   }
 ]
