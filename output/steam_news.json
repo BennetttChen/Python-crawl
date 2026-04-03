@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 gets a Beta with a fancy new animation system",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252",
+    "author": "",
+    "published": "1775132572",
+    "summary": "While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/counter-strike-2-gets-a-beta-with-a-fancy-new-animation-system/</p>",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Animgraph 2 Beta",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
     "author": "Piggles ULTRAPRO",
@@ -132,15 +141,6 @@
     "author": "jo",
     "published": "1773270006",
     "summary": "[p]\\[ DEAD HAND COLLECTION ][/p][list][*][p]The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.[/p][/*][*][p]Access items in the Dead Hand Collection via the Dead Hand Terminal, available as a weekly drop.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Dust II[/p][list][*][p]Fixed a pixel gap in a door Outsid",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "The Dead Hand",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591187",
-    "author": "Gautam",
-    "published": "1773269955",
-    "summary": "Today we're introducing the Dead Hand Collection, featuring 17 finishes from community contributors and 22 all-new gloves as rare special items. \n\n[carousel][img]https://clan.fastly.steamstatic.com/images/3381077/55ed2cb8da5c61796d087c29b39e0b4bd8220443.png[/img][img]https://clan.fastly.steamstatic.com/images/3381077/4d57e0881ea5a03a6dcc0ac66a84ea6d53f219a9.png[/img][img]https://clan.fastly.steams",
     "source": "Steam News API"
   },
   {

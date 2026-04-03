@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/rps/1825727806707377  
   摘要: <img src="https://assetsio.gnwcdn.com/valve-sued--loot-boxes-gambling-new-york-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Valve's Lionel Hutzes have been summoned to slide down the fireman's pole and deal with yet more legal wranglings involving the behemoth behind S…
 
+- **Counter-Strike 2 gets a Beta with a fancy new animation system**  
+  发布: 1775132572  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
+  摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
+
 - **Animgraph 2 Beta**  
   发布: 1775082945  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189  
   摘要: [p]\[ DEAD HAND COLLECTION ][/p][list][*][p]The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.[/p][/*][*][p]Access items in the Dead Hand Collection via the Dead Hand Terminal, avail…
-
-- **The Dead Hand**  
-  发布: 1773269955  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591187  
-  摘要: Today we're introducing the Dead Hand Collection, featuring 17 finishes from community contributors and 22 all-new gloves as rare special items.   [carousel][img]https://clan.fastly.steamstatic.com/images/3381077/55ed2cb8da5c61796d087c29b39e0b4bd8220443.png[/img][img]https://clan…
 
 - **Nintendo's legal fight with Palworld suffers a reversal as the USPTO reject their patent on character-summoning battle mechanics**  
   发布: 1775066422  
