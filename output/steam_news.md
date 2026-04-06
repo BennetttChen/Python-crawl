@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189  
   摘要: [p]\[ DEAD HAND COLLECTION ][/p][list][*][p]The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.[/p][/*][*][p]Access items in the Dead Hand Collection via the Dead Hand Terminal, avail…
 
+- **v0.7.3: Balance adjustments and bug fixes**  
+  发布: 1775444933  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
+  摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
+
 - **Nintendo's legal fight with Palworld suffers a reversal as the USPTO reject their patent on character-summoning battle mechanics**  
   发布: 1775066422  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746155818  
   摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your…
-
-- **【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!**  
-  发布: 1768827608  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
-  摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…
