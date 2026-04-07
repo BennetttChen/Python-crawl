@@ -82,20 +82,20 @@
   },
   {
     "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
-    "author": "Piggles ULTRAPRO",
-    "published": "1775082945",
-    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Animgraph 2 Beta",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
     "author": "Piggles ULTRAPRO",
     "published": "1775082945",
     "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
     "source": "Steam News API"
   },
   {
