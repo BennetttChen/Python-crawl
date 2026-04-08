@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.41b Gameplay Patch**  
+  发布: 1775593486  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815568310  
+  摘要: Patch 7.41b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41b"]here[/url].
+
 - **Dota 2 Update - 3/31/2026**  
   发布: 1774997526  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1825727806707462  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/02/valve-lawsuit-ny-ag-letitia-james-counter-strike-2-skins-crates-loot-boxes-900x506.jpg"/><p>A lawsuit filed by New York Attorney General Letitia James accuses <strong>Valve</strong> of "…
-
-- **Valve accused of "letting children and adults alike illegally gamble" via loot boxes in New York state lawsuit**  
-  发布: 1772102231  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/rps/1825727806707377  
-  摘要: <img src="https://assetsio.gnwcdn.com/valve-sued--loot-boxes-gambling-new-york-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Valve's Lionel Hutzes have been summoned to slide down the fireman's pole and deal with yet more legal wranglings involving the behemoth behind S…
 
 - **Counter-Strike 2 gets a Beta with a fancy new animation system**  
   发布: 1775132572  
