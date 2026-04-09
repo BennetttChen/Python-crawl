@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta**  
+  发布: 1775651713  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1829528821304191  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/04/dota-2-7-41b-patch-notes-valve-moba-update-meepo-nerf-consecrated-wraps-rework-hero-and-item-changes-900x506.jpg"/><p>Big balance updates can often have long-reaching ramifications, and …
+
 - **7.41b Gameplay Patch**  
   发布: 1775593486  
   来源: Steam News API  
@@ -42,29 +48,23 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
-- **Valve is being sued by New York Attorney General Letitia James. The accusation: "promoting illegal gambling through videogames."**  
-  发布: 1772109761  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1825727806707462  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/02/valve-lawsuit-ny-ag-letitia-james-counter-strike-2-skins-crates-loot-boxes-900x506.jpg"/><p>A lawsuit filed by New York Attorney General Letitia James accuses <strong>Valve</strong> of "…
-
 - **Counter-Strike 2 gets a Beta with a fancy new animation system**  
   发布: 1775132572  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
   摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
 
-- **Animgraph 2 Beta**  
-  发布: 1775082945  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
-  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
-
 - **Counter-Strike 2 Update**  
   发布: 1775082945  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
   摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
+
+- **Animgraph 2 Beta**  
+  发布: 1775082945  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
+  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  

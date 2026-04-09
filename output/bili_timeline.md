@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **盗妖行**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss148433  
-  摘要: 09:00
-
-- **驭灵师**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45979  
-  摘要: 11:00
-
-- **判处勇者刑**  
-  发布: 21:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss127870  
-  摘要: 21:30
-
 - **深空彼岸**  
   发布: 11:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss148433  
   摘要: 09:00
+
+- **驭灵师**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45979  
+  摘要: 11:00
+
+- **判处勇者刑**  
+  发布: 21:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss127870  
+  摘要: 21:30
+
+- **深空彼岸**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73968  
+  摘要: 11:00
