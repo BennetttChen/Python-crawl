@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Animgraph 2 Beta Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821308514",
+    "author": "FletcherDunnValve",
+    "published": "1775776671",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [/p][p][url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 gets a Beta with a fancy new animation system",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252",
     "author": "",
@@ -82,20 +91,20 @@
   },
   {
     "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
-    "author": "Piggles ULTRAPRO",
-    "published": "1775082945",
-    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Animgraph 2 Beta",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
     "author": "Piggles ULTRAPRO",
     "published": "1775082945",
     "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
     "source": "Steam News API"
   },
   {
@@ -132,15 +141,6 @@
     "author": "Gautam",
     "published": "1773698794",
     "summary": "[p]\\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url=\"https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B\"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable \"Genuine P250 | X-ray\", which must be claimed before usi",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189",
-    "author": "jo",
-    "published": "1773270006",
-    "summary": "[p]\\[ DEAD HAND COLLECTION ][/p][list][*][p]The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.[/p][/*][*][p]Access items in the Dead Hand Collection via the Dead Hand Terminal, available as a weekly drop.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Dust II[/p][list][*][p]Fixed a pixel gap in a door Outsid",
     "source": "Steam News API"
   },
   {

@@ -48,23 +48,29 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
+- **Animgraph 2 Beta Update**  
+  发布: 1775776671  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821308514  
+  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [/p][p][url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p]…
+
 - **Counter-Strike 2 gets a Beta with a fancy new animation system**  
   发布: 1775132572  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
   摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
 
-- **Counter-Strike 2 Update**  
-  发布: 1775082945  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
-  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
-
 - **Animgraph 2 Beta**  
   发布: 1775082945  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
+
+- **Counter-Strike 2 Update**  
+  发布: 1775082945  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
+  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521  
   摘要: [p]\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url="https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Sca…
-
-- **Counter-Strike 2 Update**  
-  发布: 1773270006  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591189  
-  摘要: [p]\[ DEAD HAND COLLECTION ][/p][list][*][p]The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.[/p][/*][*][p]Access items in the Dead Hand Collection via the Dead Hand Terminal, avail…
 
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  
