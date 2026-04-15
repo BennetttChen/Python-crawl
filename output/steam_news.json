@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212",
+    "author": "jo",
+    "published": "1776204460",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Animgraph 2 Beta Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821308514",
     "author": "FletcherDunnValve",
@@ -91,20 +100,20 @@
   },
   {
     "appid": 730,
-    "title": "Animgraph 2 Beta",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
-    "author": "Piggles ULTRAPRO",
-    "published": "1775082945",
-    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
     "author": "Piggles ULTRAPRO",
     "published": "1775082945",
     "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Animgraph 2 Beta",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
     "source": "Steam News API"
   },
   {
@@ -135,30 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521",
-    "author": "Gautam",
-    "published": "1773698794",
-    "summary": "[p]\\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url=\"https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B\"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable \"Genuine P250 | X-ray\", which must be claimed before usi",
-    "source": "Steam News API"
-  },
-  {
     "appid": 1623730,
     "title": "v0.7.3: Balance adjustments and bug fixes",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607",
     "author": "pocketpair_dev",
     "published": "1775444933",
     "summary": "[p]\\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation structures such as pillars would cause roofs and other structures to float in mid-air.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]Tha",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Nintendo's legal fight with Palworld suffers a reversal as the USPTO reject their patent on character-summoning battle mechanics",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1828894815555634",
-    "author": "",
-    "published": "1775066422",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-update2-1.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Nintendo's efforts to patent the idea of summoning a videogame character and letting it fight another character have suffered a significant reversal in the USA, even as the Mario makers continue a copyright infringement lawsuit against <a href=\"https://www.rockpapershotgun.com/games/palwor",
     "source": "Steam News API"
   },
   {
@@ -213,6 +204,15 @@
     "author": "pocketpair_admin",
     "published": "1768964692",
     "summary": "[p]\\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your base will no longer be destroyed at the end of the raids inside the raid area. [/p][p]・Reduce the recovery time between",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052",
+    "author": "pocketpair_dev",
+    "published": "1768827608",
+    "summary": "[previewyoutube=\"a0M82qgvIxE;full\"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at just some of the upcoming Pals![/p][p][/p][p]Please look forward to our biggest update yet![/p][p][/p][p][img src=\"{STEAM_C",
     "source": "Steam News API"
   }
 ]

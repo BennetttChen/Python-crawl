@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
+- **Counter-Strike 2 Update**  
+  发布: 1776204460  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212  
+  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
+
 - **Animgraph 2 Beta Update**  
   发布: 1775776671  
   来源: Steam News API  
@@ -60,17 +66,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
   摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
 
-- **Animgraph 2 Beta**  
-  发布: 1775082945  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
-  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
-
 - **Counter-Strike 2 Update**  
   发布: 1775082945  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
   摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
+
+- **Animgraph 2 Beta**  
+  发布: 1775082945  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
+  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
@@ -90,23 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751571  
   摘要: [p]From reloading to custom games, today's update will give you plenty to think about. [/p][h3]Reload[/h3][p][img]https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png[/img] When you reload in CS2, the leftover ammo in your magazine is du…
 
-- **Counter-Strike 2 Update**  
-  发布: 1773698794  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521  
-  摘要: [p]\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url="https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Sca…
-
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
-
-- **Nintendo's legal fight with Palworld suffers a reversal as the USPTO reject their patent on character-summoning battle mechanics**  
-  发布: 1775066422  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1828894815555634  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-update2-1.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Nintendo's efforts to patent the idea of summoning a videogame character and letting it fight another character have suffered a significant reversal in the USA, even as t…
 
 - **Palworld x Enshrouded bundle available on Steam!**  
   发布: 1773939649  
@@ -143,3 +137,9 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746155818  
   摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your…
+
+- **【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!**  
+  发布: 1768827608  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
+  摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…
