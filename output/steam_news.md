@@ -49,6 +49,12 @@
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
 - **Counter-Strike 2 Update**  
+  发布: 1776458858  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361  
+  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
+
+- **Counter-Strike 2 Update**  
   发布: 1776204460  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212  
@@ -66,17 +72,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
   摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
 
-- **Counter-Strike 2 Update**  
-  发布: 1775082945  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
-  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
-
 - **Animgraph 2 Beta**  
   发布: 1775082945  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
+
+- **Counter-Strike 2 Update**  
+  发布: 1775082945  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
+  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
 
 - **Counter-Strike 2 gets a major update with reload changes, custom game modes**  
   发布: 1773912675  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572  
   摘要: [ GAMEPLAY ][list] [*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves. [*]Reserve ammunition is now…
-
-- **Guns, Guides, and Games**  
-  发布: 1773873319  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751571  
-  摘要: [p]From reloading to custom games, today's update will give you plenty to think about. [/p][h3]Reload[/h3][p][img]https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png[/img] When you reload in CS2, the leftover ammo in your magazine is du…
 
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  

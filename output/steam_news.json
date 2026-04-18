@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361",
+    "author": "jo",
+    "published": "1776458858",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212",
     "author": "jo",
     "published": "1776204460",
@@ -100,20 +109,20 @@
   },
   {
     "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
-    "author": "Piggles ULTRAPRO",
-    "published": "1775082945",
-    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Animgraph 2 Beta",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
     "author": "Piggles ULTRAPRO",
     "published": "1775082945",
     "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
     "source": "Steam News API"
   },
   {
@@ -132,15 +141,6 @@
     "author": "COMPLEX",
     "published": "1773873327",
     "summary": "[ GAMEPLAY ][list]\n[*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.\n[*]Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.\n[*]The fill-level of the curren",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Guns, Guides, and Games",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751571",
-    "author": "Piggles ULTRAPRO",
-    "published": "1773873319",
-    "summary": "[p]From reloading to custom games, today's update will give you plenty to think about.\n[/p][h3]Reload[/h3][p][img]https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png[/img]\nWhen you reload in CS2, the leftover ammo in your magazine is dumped back into an essentially endless reserve supply. And so the decision to reload has never offered significant trade-",
     "source": "Steam News API"
   },
   {

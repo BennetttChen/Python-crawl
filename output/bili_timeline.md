@@ -1,29 +1,5 @@
 # Bilibili PGC Timeline
 
-- **宗门里除了我都是卧底**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss48518  
-  摘要: 09:00
-
-- **超常技能开启奇幻世界美食之旅 第二季（中配版）**  
-  发布: 18:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss148347  
-  摘要: 18:00
-
-- **名侦探柯南**  
-  发布: 19:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss33378  
-  摘要: 19:30
-
-- **名侦探柯南（中配）**  
-  发布: 19:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss33415  
-  摘要: 19:30
-
 - **假面骑士ZZZ**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +94,28 @@
   发布: 18:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss117925  
+  摘要: 18:00
+
+- **穿越兽世，神兽男仆助我成后**  
+  发布: 19:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss226692  
+  摘要: 19:00
+
+- **弹珠汽水瓶里的千岁同学**  
+  发布: 20:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss112481  
+  摘要: 20:30
+
+- **宗门里除了我都是卧底**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss48518  
+  摘要: 09:00
+
+- **超常技能开启奇幻世界美食之旅 第二季（中配版）**  
+  发布: 18:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss148347  
   摘要: 18:00
