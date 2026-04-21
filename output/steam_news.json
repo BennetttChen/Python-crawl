@@ -74,6 +74,24 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453",
+    "author": "jo",
+    "published": "1776733888",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267301",
+    "author": "Piggles ULTRAPRO",
+    "published": "1776725923",
+    "summary": "[p]All changes from the animgraph_2_beta build are now live.[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Adjusted general weapon deploy animation logic.[/p][/*][*][p]Fixed issues with transitioning between knife attacks.[/p][/*][*][p]Fixed Elites not shooting in third-person.[/p][/*][/list][p]\n\\[ MISC ][/p][list][*][p]Fixed a bug that allowe",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361",
     "author": "jo",
     "published": "1776458858",
@@ -109,15 +127,6 @@
   },
   {
     "appid": 730,
-    "title": "Animgraph 2 Beta",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
-    "author": "Piggles ULTRAPRO",
-    "published": "1775082945",
-    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
     "author": "Piggles ULTRAPRO",
@@ -127,20 +136,11 @@
   },
   {
     "appid": 730,
-    "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
-    "author": "",
-    "published": "1773912675",
-    "summary": "Possibly one of the most controversial updates for the Counter-Strike series as a whole, the latest Counter-Strike 2 update brings major changes from Valve.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2143105576id28682gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/03/counter-strike-2-gets-a-major-update-with-reload-changes-custom-",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572",
-    "author": "COMPLEX",
-    "published": "1773873327",
-    "summary": "[ GAMEPLAY ][list]\n[*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.\n[*]Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.\n[*]The fill-level of the curren",
+    "title": "Animgraph 2 Beta",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
+    "author": "Piggles ULTRAPRO",
+    "published": "1775082945",
+    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many ca",
     "source": "Steam News API"
   },
   {
