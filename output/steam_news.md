@@ -49,6 +49,12 @@
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
 - **Counter-Strike 2 Update**  
+  发布: 1776810660  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless …
+
+- **Counter-Strike 2 Update**  
   发布: 1776733888  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453  
@@ -83,12 +89,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
   摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
-
-- **Counter-Strike 2 Update**  
-  发布: 1775082945  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043  
-  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
 
 - **Animgraph 2 Beta**  
   发布: 1775082945  

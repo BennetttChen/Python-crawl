@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332",
+    "author": "jo",
+    "published": "1776810660",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453",
     "author": "jo",
     "published": "1776733888",
@@ -123,15 +132,6 @@
     "author": "",
     "published": "1775132572",
     "summary": "While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/counter-strike-2-gets-a-beta-with-a-fancy-new-animation-system/</p>",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
-    "author": "Piggles ULTRAPRO",
-    "published": "1775082945",
-    "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]",
     "source": "Steam News API"
   },
   {
