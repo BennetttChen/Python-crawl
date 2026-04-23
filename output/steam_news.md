@@ -49,6 +49,12 @@
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
 - **Counter-Strike 2 Update**  
+  发布: 1776897651  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770231786  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Adjusted ground smoothing at locations where the player can stand on very thin ledges.[/p][/*][/list][p][/p][p]\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Corrected som…
+
+- **Counter-Strike 2 Update**  
   发布: 1776810660  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252  
   摘要: While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg" alt /></p><p>Read the full article…
-
-- **Animgraph 2 Beta**  
-  发布: 1775082945  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044  
-  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]  Today we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the t…
 
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  
