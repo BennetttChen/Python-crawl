@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237569",
+    "author": "jo",
+    "published": "1777070708",
+    "summary": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where players can get stuck in a planted-turn state.[/p][/*][*][p]Made foot IK transitions smoother.[/p][/*][*][p]Adjusted the first",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770231786",
     "author": "jo",
     "published": "1776897651",
@@ -132,15 +141,6 @@
     "author": "FletcherDunnValve",
     "published": "1775776671",
     "summary": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [/p][p][url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 gets a Beta with a fancy new animation system",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1828894815557252",
-    "author": "",
-    "published": "1775132572",
-    "summary": "While I still sit here waiting for Danger Zone to return (please Valve), Counter-Strike 2 just got a big Beta upgrade with a new animation system.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/274872569id28773gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/counter-strike-2-gets-a-beta-with-a-fancy-new-animation-system/</p>",
     "source": "Steam News API"
   },
   {
