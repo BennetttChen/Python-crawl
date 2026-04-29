@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
+- **The Return Of Cache**  
+  发布: 1777415065  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563524  
+  摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/c2e89d3e3ea290a9a7ac0f4ff472b3c51b81dec5.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/2a3251dedbc1d4ffcac5e644280893c52f053b5a.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/fb8e14e6…
+
+- **Counter-Strike 2 Update**  
+  发布: 1777415058  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563523  
+  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Added Cache to Competitive, Casual, Deathmatch, and Retakes modes.[/p][/*][/list][p]Dust II[/p][list][*][p]Uncovered Mid Box (Xbox) to reveal a previously hidden jump spot. On purpose this time.[/p][/*][/list][p]Office[/p][list][*][p]Enable…
+
 - **Counter-Strike 2 Update**  
   发布: 1777070708  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361  
   摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
-
-- **Counter-Strike 2 Update**  
-  发布: 1776204460  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047252212  
-  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
-
-- **Animgraph 2 Beta Update**  
-  发布: 1775776671  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1829528821308514  
-  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [/p][p][url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p]…
 
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  
