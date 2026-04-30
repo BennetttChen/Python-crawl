@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
+- **Counter-Strike 2 Update**  
+  发布: 1777499165  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354  
+  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Ch…
+
+- **Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2**  
+  发布: 1777458337  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670  
+  摘要: A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg" alt /></p><p>Read the full…
+
 - **The Return Of Cache**  
   发布: 1777415065  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]
-
-- **Counter-Strike 2 Update**  
-  发布: 1776725923  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267301  
-  摘要: [p]All changes from the animgraph_2_beta build are now live.[/p][p][/p][p]\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Adjusted general weapon deploy animation logic.[/p][/*][*][p]Fixed issues with transitioning between knife attacks.[/p…
-
-- **Counter-Strike 2 Update**  
-  发布: 1776458858  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361  
-  摘要: [p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]…
 
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  
