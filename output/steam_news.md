@@ -49,6 +49,12 @@
   摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
 - **Counter-Strike 2 Update**  
+  发布: 1777589209  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878  
+  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][…
+
+- **Counter-Strike 2 Update**  
   发布: 1777499165  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless …
-
-- **Counter-Strike 2 Update**  
-  发布: 1776733888  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]
 
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  

@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878",
+    "author": "jo",
+    "published": "1777589209",
+    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354",
     "author": "jo",
     "published": "1777499165",
@@ -132,15 +141,6 @@
     "author": "jo",
     "published": "1776810660",
     "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453",
-    "author": "jo",
-    "published": "1776733888",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {
