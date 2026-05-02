@@ -1,5 +1,11 @@
 # Steam News
 
+- **Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power**  
+  发布: 1777663832  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1831432155572324  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/RYEXTskz9rYHJjUSYAitsF-1280-80.jpg"/><br><br>                 OpenAI is now one of the world's most talked-about companies, and the ongoing legal spat between co-founders Elon Musk and Sam Altman has resulted in some truly juicy revelat…
+
 - **Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta**  
   发布: 1775651713  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/b51c728ac0c7a28973be12fce11a3c869037177d.png[/img]  [p]Patch 7.41 is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41"]here[/url].  In addition, we've made the following improvements and bug fixes: [/p][list][*…
-
-- **"Valve does not cooperate with gambling sites" - Counter-Strike publishers issue rare public defence of lootbox mechanics, following New York lawsuit**  
-  发布: 1773260158  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1826992588590967  
-  摘要: <img src="https://assetsio.gnwcdn.com/counter-strike-global-offensive-back-on-steam-separate-01.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>In an unusual show of candour, Valve have spoken out publicly against a lawsuit filed in New York, USA that accuses them of <a href…
 
 - **Counter-Strike 2 Update**  
   发布: 1777589209  
