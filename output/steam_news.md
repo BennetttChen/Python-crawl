@@ -1,5 +1,11 @@
 # Steam News
 
+- **The International Team Registration**  
+  发布: 1777932735  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766  
+  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]  The International is getting closer. After many years, Dota's ultimate proving ground is returning to China and returning to August, which is now just a few short months away.  In preparation, we'…
+
 - **Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power**  
   发布: 1777663832  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1827626365768108  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-7-41-patch-notes-facets-removed-innate-abilities-reworked-new-items-hero-skills-and-map-changes-900x506.jpg"/><p>As is tradition, Valve has just unleashed one of its biggest <stro…
-
-- **7.41 Gameplay Patch**  
-  发布: 1774395824  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/b51c728ac0c7a28973be12fce11a3c869037177d.png[/img]  [p]Patch 7.41 is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41"]here[/url].  In addition, we've made the following improvements and bug fixes: [/p][list][*…
 
 - **Counter-Strike 2 Update**  
   发布: 1777589209  

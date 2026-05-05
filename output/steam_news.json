@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "The International Team Registration",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766",
+    "author": "kyled",
+    "published": "1777932735",
+    "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]\n\nThe International is getting closer. After many years, Dota's ultimate proving ground is returning to China and returning to August, which is now just a few short months away.\n\nIn preparation, we've updated the registration process for any teams interested in participating in The International this year.\n\nAll inter",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1831432155572324",
     "author": "Rich Stanton",
@@ -60,15 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1774444105",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-7-41-patch-notes-facets-removed-innate-abilities-reworked-new-items-hero-skills-and-map-changes-900x506.jpg\"/><p>As is tradition, Valve has just unleashed one of its biggest <strong>Dota 2</strong> updates in a while right on the cusp of a major tournament climax. With the group stages of ESL One B",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.41 Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365766968",
-    "author": "flynnch",
-    "published": "1774395824",
-    "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/b51c728ac0c7a28973be12fce11a3c869037177d.png[/img]\n\n[p]Patch 7.41 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[/p][list][*][p] Added an overhead indicator when a consumable item is being used on an ally or given to one within 1200 units (e.g.",
     "source": "Steam News API"
   },
   {
