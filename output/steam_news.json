@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Beloved Dota 2 esports team Heroic has just disbanded, saying it's a \"tough game to commercialize\"",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907",
+    "author": "editor@pcgamesn.com",
+    "published": "1777982948",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg\"/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is League of Legends - a beast that isn't showing any signs of slowing down. While Dota 2 remains huge in the East, its Wes",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "The International Team Registration",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766",
     "author": "kyled",
@@ -60,15 +69,6 @@
     "author": "flynnch",
     "published": "1774649721",
     "summary": "Patch 7.41a is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41a\"]here[/url].\n\nIn addition, over the last few days we've addressed the following issues:\n\n[list]\n[*] Fixed a number of miscellaneous client and server crashes\n[*] Option for displaying Hero Facet Names above health bar has been removed\n[*] Spectator options and hotkey settings for Facets have been",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "A huge new Dota 2 patch U-turns on one of Valve's biggest additions in years",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1827626365768108",
-    "author": "editor@pcgamesn.com",
-    "published": "1774444105",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-7-41-patch-notes-facets-removed-innate-abilities-reworked-new-items-hero-skills-and-map-changes-900x506.jpg\"/><p>As is tradition, Valve has just unleashed one of its biggest <strong>Dota 2</strong> updates in a while right on the cusp of a major tournament climax. With the group stages of ESL One B",
     "source": "Steam News API"
   },
   {

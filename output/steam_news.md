@@ -1,5 +1,11 @@
 # Steam News
 
+- **Beloved Dota 2 esports team Heroic has just disbanded, saying it's a "tough game to commercialize"**  
+  发布: 1777982948  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg"/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is …
+
 - **The International Team Registration**  
   发布: 1777932735  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105709  
   摘要: Patch 7.41a is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41a"]here[/url].  In addition, over the last few days we've addressed the following issues:  [list] [*] Fixed a number of miscellaneous client and server crashes [*] Option for disp…
-
-- **A huge new Dota 2 patch U-turns on one of Valve's biggest additions in years**  
-  发布: 1774444105  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1827626365768108  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-7-41-patch-notes-facets-removed-innate-abilities-reworked-new-items-hero-skills-and-map-changes-900x506.jpg"/><p>As is tradition, Valve has just unleashed one of its biggest <stro…
 
 - **Counter-Strike 2 Update**  
   发布: 1777589209  
