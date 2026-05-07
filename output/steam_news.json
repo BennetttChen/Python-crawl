@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "7.41c Gameplay Patch",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810383",
+    "author": "BattleRabbit",
+    "published": "1778105875",
+    "summary": "[p]Patch 7.41c is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41c\"]here[/url].[/p]\n\nIn addition, over the last few days we've addressed the following issues:\n[list]\n[*] Fixed illusions not duplicating the correct level of neutral item enchantment\n[*] Fixed Bloodstone's Bloodpact having a superfluous stack counter\n[*] Fixed Conjurer's Catalyst getting into a ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Beloved Dota 2 esports team Heroic has just disbanded, saying it's a \"tough game to commercialize\"",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907",
     "author": "editor@pcgamesn.com",
@@ -60,15 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1774801617",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-avoplus-interview-esl-one-birmingham-2026-patch-7-41-deadlock-gateway-900x506.jpg\"/><p>The <strong>Dota 2</strong> ESL One Birmingham 2026 tournament reaches its grand conclusion today, and it's been an impressive showcase full of memorable stories and dramatic comebacks. The big news is the chaos ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.41a Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105709",
-    "author": "flynnch",
-    "published": "1774649721",
-    "summary": "Patch 7.41a is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41a\"]here[/url].\n\nIn addition, over the last few days we've addressed the following issues:\n\n[list]\n[*] Fixed a number of miscellaneous client and server crashes\n[*] Option for displaying Hero Facet Names above health bar has been removed\n[*] Spectator options and hotkey settings for Facets have been",
     "source": "Steam News API"
   },
   {

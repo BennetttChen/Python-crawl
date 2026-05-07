@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.41c Gameplay Patch**  
+  发布: 1778105875  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810383  
+  摘要: [p]Patch 7.41c is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41c"]here[/url].[/p]  In addition, over the last few days we've addressed the following issues: [list] [*] Fixed illusions not duplicating the correct level of neutral item encha…
+
 - **Beloved Dota 2 esports team Heroic has just disbanded, saying it's a "tough game to commercialize"**  
   发布: 1777982948  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1828441623108336  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-avoplus-interview-esl-one-birmingham-2026-patch-7-41-deadlock-gateway-900x506.jpg"/><p>The <strong>Dota 2</strong> ESL One Birmingham 2026 tournament reaches its grand conclusion …
-
-- **7.41a Gameplay Patch**  
-  发布: 1774649721  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105709  
-  摘要: Patch 7.41a is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41a"]here[/url].  In addition, over the last few days we've addressed the following issues:  [list] [*] Fixed a number of miscellaneous client and server crashes [*] Option for disp…
 
 - **Counter-Strike 2 Update**  
   发布: 1777589209  

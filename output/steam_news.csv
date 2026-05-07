@@ -1,4 +1,11 @@
 appid,author,link,published,source,summary,title
+570,BattleRabbit,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810383,1778105875,Steam News API,"[p]Patch 7.41c is out now and you can check out the patch notes [url=""https://www.dota2.com/patches/7.41c""]here[/url].[/p]
+
+In addition, over the last few days we've addressed the following issues:
+[list]
+[*] Fixed illusions not duplicating the correct level of neutral item enchantment
+[*] Fixed Bloodstone's Bloodpact having a superfluous stack counter
+[*] Fixed Conjurer's Catalyst getting into a ",7.41c Gameplay Patch
 570,editor@pcgamesn.com,https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907,1777982948,Steam News API,"<img width=""900"" height=""507"" src=""https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg""/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is League of Legends - a beast that isn't showing any signs of slowing down. While Dota 2 remains huge in the East, its Wes","Beloved Dota 2 esports team Heroic has just disbanded, saying it's a ""tough game to commercialize"""
 570,kyled,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766,1777932735,Steam News API,"[img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]
 
@@ -21,14 +28,6 @@ All inter",The International Team Registration
 [*] Fixed Meepo deleting his Hand of Midas when using the last charge on a clone
 [*]",Dota 2 Update - 3/31/2026
 570,editor@pcgamesn.com,https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1828441623108336,1774801617,Steam News API,"<img width=""900"" height=""507"" src=""https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-avoplus-interview-esl-one-birmingham-2026-patch-7-41-deadlock-gateway-900x506.jpg""/><p>The <strong>Dota 2</strong> ESL One Birmingham 2026 tournament reaches its grand conclusion today, and it's been an impressive showcase full of memorable stories and dramatic comebacks. The big news is the chaos ","Deadlock isn't a death sentence for Dota 2 - it's ""a gateway,"" according to caster and ESL product manager 'Avo+'"
-570,flynnch,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828441623105709,1774649721,Steam News API,"Patch 7.41a is out now and you can check out the patch notes [url=""https://www.dota2.com/patches/7.41a""]here[/url].
-
-In addition, over the last few days we've addressed the following issues:
-
-[list]
-[*] Fixed a number of miscellaneous client and server crashes
-[*] Option for displaying Hero Facet Names above health bar has been removed
-[*] Spectator options and hotkey settings for Facets have been",7.41a Gameplay Patch
 730,jo,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878,1777589209,Steam News API,[p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list,Counter-Strike 2 Update
 730,jo,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354,1777499165,Steam News API,[p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Checkers entrance frame height at B Main.[/p][/*][*][p]Removed AC unit above Sandbags and moved pipes.[/p][/*][*][p]Fixed ,Counter-Strike 2 Update
 730,,https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670,1777458337,Steam News API,"A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src=""https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg"" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-a",Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2
