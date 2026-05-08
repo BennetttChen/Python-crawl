@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502811921",
+    "author": "editor@pcgamesn.com",
+    "published": "1778156403",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/dota-2-7-41c-patch-notes-full-breakdown-valve-moba-steam-900x506.jpg\"/><p>New <strong>Dota 2 7.41c</strong> patch notes have arrived to shake up the meta once again, and Valve is bringing some of the most impactful heroes in line with targeted nerfs across the roster. We're still recovering from the grand",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "7.41c Gameplay Patch",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810383",
     "author": "BattleRabbit",
@@ -63,12 +72,21 @@
     "source": "Steam News API"
   },
   {
-    "appid": 570,
-    "title": "Deadlock isn't a death sentence for Dota 2 - it's \"a gateway,\" according to caster and ESL product manager 'Avo+'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1828441623108336",
-    "author": "editor@pcgamesn.com",
-    "published": "1774801617",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/dota-2-avoplus-interview-esl-one-birmingham-2026-patch-7-41-deadlock-gateway-900x506.jpg\"/><p>The <strong>Dota 2</strong> ESL One Birmingham 2026 tournament reaches its grand conclusion today, and it's been an impressive showcase full of memorable stories and dramatic comebacks. The big news is the chaos ",
+    "appid": 730,
+    "title": "NIGHTMODE II Music Kits",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
+    "author": "COMPLEX",
+    "published": "1778191843",
+    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813482",
+    "author": "tomd",
+    "published": "1778191777",
+    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak v",
     "source": "Steam News API"
   },
   {
@@ -123,24 +141,6 @@
     "author": "jo",
     "published": "1777070708",
     "summary": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where players can get stuck in a planted-turn state.[/p][/*][*][p]Made foot IK transitions smoother.[/p][/*][*][p]Adjusted the first",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770231786",
-    "author": "jo",
-    "published": "1776897651",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted ground smoothing at locations where the player can stand on very thin ledges.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Corrected some improper character texture assignments.[/p][/*][*][p]Trade offers containing Counter-Strike 2 items are now limited to",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332",
-    "author": "jo",
-    "published": "1776810660",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*]",
     "source": "Steam News API"
   },
   {
