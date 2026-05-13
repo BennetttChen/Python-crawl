@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237569  
   摘要: [p]\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where player…
 
+- **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
+  发布: 1778589051  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the gam…
+
 - **v0.7.3: Balance adjustments and bug fixes**  
   发布: 1775444933  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746155818  
   摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your…
-
-- **【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!**  
-  发布: 1768827608  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052  
-  摘要: [previewyoutube="a0M82qgvIxE;full"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at jus…

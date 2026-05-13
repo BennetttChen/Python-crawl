@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "'Palworld Online' has been trademarked, but there's hints of potential AI use",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863",
+    "author": "editor@pcgamesn.com",
+    "published": "1778589051",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg\"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the game having to <a href=\"https://www.pcgamesn.com/palworld/nintendo-lawsuit-gameplay-changes\">change several of its core fea",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "v0.7.3: Balance adjustments and bug fixes",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "pocketpair_admin",
     "published": "1768964692",
     "summary": "[p]\\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your base will no longer be destroyed at the end of the raids inside the raid area. [/p][p]・Reduce the recovery time between",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "【2nd Anniversary】 Special Video Unveiled Ahead of 2026 Official Release!!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921821052",
-    "author": "pocketpair_dev",
-    "published": "1768827608",
-    "summary": "[previewyoutube=\"a0M82qgvIxE;full\"][/previewyoutube][p][/p][p]Hello everyone![/p][p][/p][p]Today marks 2 years since Palworld entered early access! Thank you, everyone!![/p][p][/p][p]We're working hard on Palworld 1.0, which is coming this year! [/p][p]Here is a sneak peek at just some of the upcoming Pals![/p][p][/p][p]Please look forward to our biggest update yet![/p][p][/p][p][img src=\"{STEAM_C",
     "source": "Steam News API"
   }
 ]
