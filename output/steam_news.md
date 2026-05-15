@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815553165  
   摘要: [p]Over the past few days we've addressed the following issues:[/p]  [list] [*] Fixed Meepo being able to create potions (and other stackable, nonshareable items) [*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser [*] Fixed Meepo and Divine Rapier interaction [*] F…
 
+- **Counter-Strike 2 Update**  
+  发布: 1778797438  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456  
+  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\[ MISC ][/p][list…
+
 - **NIGHTMODE II Music Kits**  
   发布: 1778191843  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563523  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Added Cache to Competitive, Casual, Deathmatch, and Retakes modes.[/p][/*][/list][p]Dust II[/p][list][*][p]Uncovered Mid Box (Xbox) to reveal a previously hidden jump spot. On purpose this time.[/p][/*][/list][p]Office[/p][list][*][p]Enable…
-
-- **Counter-Strike 2 Update**  
-  发布: 1777070708  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237569  
-  摘要: [p]\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where player…
 
 - **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
   发布: 1778589051  

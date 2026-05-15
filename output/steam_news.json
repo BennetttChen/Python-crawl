@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456",
+    "author": "daVinci1980",
+    "published": "1778797438",
+    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "NIGHTMODE II Music Kits",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
     "author": "COMPLEX",
@@ -132,15 +141,6 @@
     "author": "jo",
     "published": "1777415058",
     "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Added Cache to Competitive, Casual, Deathmatch, and Retakes modes.[/p][/*][/list][p]Dust II[/p][list][*][p]Uncovered Mid Box (Xbox) to reveal a previously hidden jump spot. On purpose this time.[/p][/*][/list][p]Office[/p][list][*][p]Enabled collision on tarp on boxes used around CT spawn.[/p][/*][/list][p]Stronghold[/p][list][*][p]Updated to the latest vers",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770237569",
-    "author": "jo",
-    "published": "1777070708",
-    "summary": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where players can get stuck in a planted-turn state.[/p][/*][*][p]Made foot IK transitions smoother.[/p][/*][*][p]Adjusted the first",
     "source": "Steam News API"
   },
   {
