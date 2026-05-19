@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've addressed the following issues:[/p]  [list] [*] Fixed Meepo being able to create potions (and other stackable, nonshareable items) [*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser [*] Fixed Meepo and Divine Rapier interaction [*] F…
 
 - **Counter-Strike 2 Update**  
+  发布: 1779147368  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760  
+  摘要: [p]\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage ove…
+
+- **Counter-Strike 2 Update**  
   发布: 1778797438  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563524  
   摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/c2e89d3e3ea290a9a7ac0f4ff472b3c51b81dec5.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/2a3251dedbc1d4ffcac5e644280893c52f053b5a.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/fb8e14e6…
-
-- **Counter-Strike 2 Update**  
-  发布: 1777415058  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563523  
-  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Added Cache to Competitive, Casual, Deathmatch, and Retakes modes.[/p][/*][/list][p]Dust II[/p][list][*][p]Uncovered Mid Box (Xbox) to reveal a previously hidden jump spot. On purpose this time.[/p][/*][/list][p]Office[/p][list][*][p]Enable…
 
 - **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
   发布: 1778589051  
