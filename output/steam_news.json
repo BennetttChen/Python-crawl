@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523",
+    "author": "Vitaliy",
+    "published": "1779318374",
+    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted player and grenade collision.[/p][/*][*][p]Adjusted material blending to improve accuracy of footstep sounds.[/p][/*][*][p]Fixed several gaps reported by players.[/p][/*][/list][p]Ancient[/p][list][*][p]Fixed a gap in the wall.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
     "author": "Vitaliy",
     "published": "1779147368",
@@ -132,15 +141,6 @@
     "author": "",
     "published": "1777458337",
     "summary": "A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-a",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "The Return Of Cache",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563524",
-    "author": "Gautam",
-    "published": "1777415065",
-    "summary": "[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/c2e89d3e3ea290a9a7ac0f4ff472b3c51b81dec5.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/2a3251dedbc1d4ffcac5e644280893c52f053b5a.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/fb8e14e605a2594a80077e059692601acefafaae.png\" autoplay=\"true\" controls=\"false\"][/video]\n\nToday's update features the return of a",
     "source": "Steam News API"
   },
   {

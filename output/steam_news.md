@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've addressed the following issues:[/p]  [list] [*] Fixed Meepo being able to create potions (and other stackable, nonshareable items) [*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser [*] Fixed Meepo and Divine Rapier interaction [*] F…
 
 - **Counter-Strike 2 Update**  
+  发布: 1779318374  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523  
+  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted player and grenade collision.[/p][/*][*][p]Adjusted material blending to improve accuracy of footstep sounds.[/p][/*][*][p]Fixed several gaps reported by players.[/p][/*][/list][p]Ancient[/p][list][*][p]Fixed a gap in the wall.[/p]…
+
+- **Counter-Strike 2 Update**  
   发布: 1779147368  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670  
   摘要: A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg" alt /></p><p>Read the full…
-
-- **The Return Of Cache**  
-  发布: 1777415065  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563524  
-  摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/c2e89d3e3ea290a9a7ac0f4ff472b3c51b81dec5.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/2a3251dedbc1d4ffcac5e644280893c52f053b5a.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/fb8e14e6…
 
 - **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
   发布: 1778589051  
