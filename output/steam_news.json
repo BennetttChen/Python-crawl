@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "IEM Cologne 2026",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412",
+    "author": "brianlev",
+    "published": "1779410446",
+    "summary": "The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are now available for purchase!\n\n[h3]The 2026 Cologne Major Shop[/h3]\n[img]https://clan.akamai.steamstatic.com/images/3381077",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570409",
+    "author": "brianlev",
+    "published": "1779410434",
+    "summary": "[p]\\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523",
     "author": "Vitaliy",
@@ -123,24 +141,6 @@
     "author": "jo",
     "published": "1777589209",
     "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354",
-    "author": "jo",
-    "published": "1777499165",
-    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Checkers entrance frame height at B Main.[/p][/*][*][p]Removed AC unit above Sandbags and moved pipes.[/p][/*][*][p]Fixed ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670",
-    "author": "",
-    "published": "1777458337",
-    "summary": "A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-a",
     "source": "Steam News API"
   },
   {

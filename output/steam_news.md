@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815553165  
   摘要: [p]Over the past few days we've addressed the following issues:[/p]  [list] [*] Fixed Meepo being able to create potions (and other stackable, nonshareable items) [*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser [*] Fixed Meepo and Divine Rapier interaction [*] F…
 
+- **IEM Cologne 2026**  
+  发布: 1779410446  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412  
+  摘要: The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are n…
+
+- **Counter-Strike 2 Update**  
+  发布: 1779410434  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570409  
+  摘要: [p]\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can…
+
 - **Counter-Strike 2 Update**  
   发布: 1779318374  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][…
-
-- **Counter-Strike 2 Update**  
-  发布: 1777499165  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354  
-  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Ch…
-
-- **Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2**  
-  发布: 1777458337  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670  
-  摘要: A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg" alt /></p><p>Read the full…
 
 - **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
   发布: 1778589051  
