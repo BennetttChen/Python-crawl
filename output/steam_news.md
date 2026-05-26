@@ -1,5 +1,17 @@
 # Steam News
 
+- **The International 2026 Ticket Sales**  
+  发布: 1779768568  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
+  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
+
+- **The International 2026 Invitations and Qualifiers**  
+  发布: 1779766203  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578465  
+  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/1477d1a3748ef268c4b431dd4af64cf4ad8ffdd7.png[/img]  [p]Throughout the year, Dota teams around the world battle to prove themselves worthy of direct invitation to The International — and a chance to compete for the Aegis of Champions on the world's …
+
 - **Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps**  
   发布: 1778156403  
   来源: Steam News API  
@@ -35,18 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1829528821304191  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/04/dota-2-7-41b-patch-notes-valve-moba-update-meepo-nerf-consecrated-wraps-rework-hero-and-item-changes-900x506.jpg"/><p>Big balance updates can often have long-reaching ramifications, and …
-
-- **7.41b Gameplay Patch**  
-  发布: 1775593486  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815568310  
-  摘要: Patch 7.41b is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41b"]here[/url].
-
-- **Dota 2 Update - 3/31/2026**  
-  发布: 1774997526  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815553165  
-  摘要: [p]Over the past few days we've addressed the following issues:[/p]  [list] [*] Fixed Meepo being able to create potions (and other stackable, nonshareable items) [*] Fixed Meepo clones not benefitting Abyssal Blade or Disperser [*] Fixed Meepo and Divine Rapier interaction [*] F…
 
 - **IEM Cologne 2026**  
   发布: 1779410446  
