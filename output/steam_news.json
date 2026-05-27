@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Skol! Palworld X Valheim Steam Bundle!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070",
+    "author": "pocketpair_dev",
+    "published": "1779840013",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/949aacac0037a9e14a8936a6de59c1e8bf0ffd28.png\"][/img]Whether you're catching Pals, building bases and battling in the world of Palworld,[/p][p]or proving your worth in the brutal, Norse-inspired wilderness of Valheim,[/p][p][/p][p]This bundle will provide endless hours of adventure and exploration![/p][p][/p][p]If you already own one of these games, you can ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "'Palworld Online' has been trademarked, but there's hints of potential AI use",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863",
     "author": "editor@pcgamesn.com",
@@ -204,15 +213,6 @@
     "author": "Elie Gould",
     "published": "1769102405",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/UaqGdRGLoqw7XyTrdhLdVL-1280-80.png\"/><br><br>\n                <a href=\"https://www.pcgamer.com/palworld/\">Palworld's</a> 1.0 release is coming up soon. Well that could be wishful thinking: it'll be available to play sometime this year. But after two years in early access there's nothing but excitement for this next step. And to celebrate the lead up to 1",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v0.7.1: Balance adjustments and bug fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746155818",
-    "author": "pocketpair_admin",
-    "published": "1768964692",
-    "summary": "[p]\\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your base will no longer be destroyed at the end of the raids inside the raid area. [/p][p]・Reduce the recovery time between",
     "source": "Steam News API"
   }
 ]

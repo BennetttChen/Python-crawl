@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][…
 
+- **Skol! Palworld X Valheim Steam Bundle!**  
+  发布: 1779840013  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/949aacac0037a9e14a8936a6de59c1e8bf0ffd28.png"][/img]Whether you're catching Pals, building bases and battling in the world of Palworld,[/p][p]or proving your worth in the brutal, Norse-inspired wilderness of Valheim,[/p][p][/p][p]This bund…
+
 - **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
   发布: 1778589051  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746159649  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/UaqGdRGLoqw7XyTrdhLdVL-1280-80.png"/><br><br>                 <a href="https://www.pcgamer.com/palworld/">Palworld's</a> 1.0 release is coming up soon. Well that could be wishful thinking: it'll be available to play sometime this year. …
-
-- **v0.7.1: Balance adjustments and bug fixes**  
-  发布: 1768964692  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746155818  
-  摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.1 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・In PvP, the on-screen raid log will now continue to be displayed while your base is under attack from other players.[/p][p]・The Summoning Altar at your…
