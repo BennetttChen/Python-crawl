@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
+    "author": "brianlev",
+    "published": "1780013843",
+    "summary": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "IEM Cologne 2026",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412",
     "author": "brianlev",
@@ -132,15 +141,6 @@
     "author": "tomd",
     "published": "1778191777",
     "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak v",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878",
-    "author": "jo",
-    "published": "1777589209",
-    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list",
     "source": "Steam News API"
   },
   {
