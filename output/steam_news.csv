@@ -1,4 +1,11 @@
 appid,author,link,published,source,summary,title
+570,flynnch,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111,1780620314,Steam News API,"[p]Patch 7.41d is out now and you can check out the patch notes [url=""https://www.dota2.com/patches/7.41d""]here[/url].[/p]
+
+In addition, we've recently addressed the following issues:
+[list]
+[*] Fixed Greevils not spawning their equipped effects
+[*] Fixed Earthshaker's Planetfall Arcana not tracking combos and combo damage properly
+[*] Fixed right click on Dota Labs Overlay Map not working when ""A",7.41d Gameplay Patch
 570,kyled,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495,1779768568,Steam News API,"[img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]
 
 In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www.dota2.com/newsentry/655981180194128453]the official team invitations[/url], and now we'd like to extend one to you. If ",The International 2026 Ticket Sales
@@ -23,7 +30,6 @@ In preparation, we've updated the registration process for any teams interested 
 All inter",The International Team Registration
 570,Rich Stanton,https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1831432155572324,1777663832,Steam News API,"<img src=""https://cdn.mos.cms.futurecdn.net/RYEXTskz9rYHJjUSYAitsF-1280-80.jpg""/><br><br>
                 OpenAI is now one of the world's most talked-about companies, and the ongoing legal spat between co-founders Elon Musk and Sam Altman has resulted in some truly juicy revelations around exactly what was going on in the firm's earliest years. One example: it turns out <a href=""https://www.pcgam",Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power
-570,editor@pcgamesn.com,https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1829528821304191,1775651713,Steam News API,"<img width=""900"" height=""507"" src=""https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/04/dota-2-7-41b-patch-notes-valve-moba-update-meepo-nerf-consecrated-wraps-rework-hero-and-item-changes-900x506.jpg""/><p>Big balance updates can often have long-reaching ramifications, and <strong>Dota 2</strong> patch 7.41b is Valve's second follow-up to the massive overhaul that saw the <a href=""https://ww",Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta
 730,brianlev,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736,1780013843,Steam News API,[p]\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\[ MAPS ][/p][p]Ancient[/p][list],Counter-Strike 2 Update
 730,brianlev,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412,1779410446,Steam News API,"The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are now available for purchase!
 

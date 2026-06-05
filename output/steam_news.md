@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.41d Gameplay Patch**  
+  发布: 1780620314  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111  
+  摘要: [p]Patch 7.41d is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41d"]here[/url].[/p]  In addition, we've recently addressed the following issues: [list] [*] Fixed Greevils not spawning their equipped effects [*] Fixed Earthshaker's Planetfall…
+
 - **The International 2026 Ticket Sales**  
   发布: 1779768568  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1831432155572324  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/RYEXTskz9rYHJjUSYAitsF-1280-80.jpg"/><br><br>                 OpenAI is now one of the world's most talked-about companies, and the ongoing legal spat between co-founders Elon Musk and Sam Altman has resulted in some truly juicy revelat…
-
-- **Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta**  
-  发布: 1775651713  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1829528821304191  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/04/dota-2-7-41b-patch-notes-valve-moba-update-meepo-nerf-consecrated-wraps-rework-hero-and-item-changes-900x506.jpg"/><p>Big balance updates can often have long-reaching ramifications, and …
 
 - **Counter-Strike 2 Update**  
   发布: 1780013843  

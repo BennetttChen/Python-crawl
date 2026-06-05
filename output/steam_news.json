@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "7.41d Gameplay Patch",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111",
+    "author": "flynnch",
+    "published": "1780620314",
+    "summary": "[p]Patch 7.41d is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41d\"]here[/url].[/p]\n\nIn addition, we've recently addressed the following issues:\n[list]\n[*] Fixed Greevils not spawning their equipped effects\n[*] Fixed Earthshaker's Planetfall Arcana not tracking combos and combo damage properly\n[*] Fixed right click on Dota Labs Overlay Map not working when \"A",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "The International 2026 Ticket Sales",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495",
     "author": "kyled",
@@ -60,15 +69,6 @@
     "author": "Rich Stanton",
     "published": "1777663832",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/RYEXTskz9rYHJjUSYAitsF-1280-80.jpg\"/><br><br>\n                OpenAI is now one of the world's most talked-about companies, and the ongoing legal spat between co-founders Elon Musk and Sam Altman has resulted in some truly juicy revelations around exactly what was going on in the firm's earliest years. One example: it turns out <a href=\"https://www.pcgam",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Dota 2 patch 7.41b puts a stop to Meepo's reign of terror as Valve locks in its new meta",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1829528821304191",
-    "author": "editor@pcgamesn.com",
-    "published": "1775651713",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/04/dota-2-7-41b-patch-notes-valve-moba-update-meepo-nerf-consecrated-wraps-rework-hero-and-item-changes-900x506.jpg\"/><p>Big balance updates can often have long-reaching ramifications, and <strong>Dota 2</strong> patch 7.41b is Valve's second follow-up to the massive overhaul that saw the <a href=\"https://ww",
     "source": "Steam News API"
   },
   {
