@@ -1,5 +1,11 @@
 # Steam News
 
+- **A new Dota 2 update buffs Nature's Prophet and Arc Warden, but everyone's talking about a mysterious Axe 'change'**  
+  发布: 1780660979  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721190708  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-patch-notes-7-41d-update-axe-sense-of-foreboding-new-hero-tease-event-valve-900x506.jpg"/><p>Fresh Dota 2 patch notes have just dropped, and that means the meta will start to crea…
+
 - **7.41d Gameplay Patch**  
   发布: 1780620314  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]  The International is getting closer. After many years, Dota's ultimate proving ground is returning to China and returning to August, which is now just a few short months away.  In preparation, we'…
-
-- **Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power**  
-  发布: 1777663832  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1831432155572324  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/RYEXTskz9rYHJjUSYAitsF-1280-80.jpg"/><br><br>                 OpenAI is now one of the world's most talked-about companies, and the ongoing legal spat between co-founders Elon Musk and Sam Altman has resulted in some truly juicy revelat…
 
 - **Counter-Strike 2 Update**  
   发布: 1780013843  
@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813482  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/…
 
+- **Palworld 1.0 - July 10! Cinematic Trailer Reveal!**  
+  发布: 1780699356  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331  
+  摘要: [p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we …
+
 - **Skol! Palworld X Valheim Steam Bundle!**  
   发布: 1779840013  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746162475  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 It's not uncommon to sugarcoat things in a job interview. Perhaps you've even told a little white lie about how much you love what the company does—it's not like it ever come…
-
-- **Palworld shows off concept art for new pals as part of its 2-year anniversary celebration as Pocketpair's CEO promises fans 'we will do everything we can to meet your expectations'**  
-  发布: 1769102405  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746159649  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/UaqGdRGLoqw7XyTrdhLdVL-1280-80.png"/><br><br>                 <a href="https://www.pcgamer.com/palworld/">Palworld's</a> 1.0 release is coming up soon. Well that could be wishful thinking: it'll be available to play sometime this year. …
