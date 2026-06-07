@@ -102,6 +102,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331  
   摘要: [p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we …
 
+- **Summer Game Fest 2026 everything announced for PC**  
+  发布: 1780680003  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1834602721191804  
+  摘要: <img src="https://assetsio.gnwcdn.com/summer-games-fest-2026-sgf-header.jpg?width=690&quality=85&format=jpg&auto=webp" />  <p>And with that the Summer Game Fest is over. At least, the official Geoff Keighley showcase - there are still many more streams over the weekend. I wouldn'…
+
 - **Skol! Palworld X Valheim Steam Bundle!**  
   发布: 1779840013  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522844567  
   摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.2 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Added rarity variations for melee weapons (swords, katanas, beam swords, Lily's Spear).[/p][p]・\[Steam] Added a Debug Mod that allows constant updates …
-
-- **Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'**  
-  发布: 1769189427  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746162475  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 It's not uncommon to sugarcoat things in a job interview. Perhaps you've even told a little white lie about how much you love what the company does—it's not like it ever come…

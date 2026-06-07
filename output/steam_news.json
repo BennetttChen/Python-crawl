@@ -154,6 +154,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Summer Game Fest 2026 everything announced for PC",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1834602721191804",
+    "author": "",
+    "published": "1780680003",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/summer-games-fest-2026-sgf-header.jpg?width=690&quality=85&format=jpg&auto=webp\" /> \n<p>And with that the Summer Game Fest is over. At least, the official Geoff Keighley showcase - there are still many more streams over the weekend. I wouldn't say there were many surprises, but it was excellent to get a first look at games like Alien Isolation 2, Fumito Ueda's",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Skol! Palworld X Valheim Steam Bundle!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1771218125",
     "summary": "[p]\\[Patch Notice] [/p][p]Palworld version v0.7.2 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Added rarity variations for melee weapons (swords, katanas, beam swords, Lily's Spear).[/p][p]・\\[Steam] Added a Debug Mod that allows constant updates for mod development. [/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where the display would appear misaligned when placi",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld developer Pocketpair requires job applicants prove their gamer credentials: 'If the number of Steam games played is 0, we basically pass on them'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1822556746162475",
-    "author": "Rory Norris",
-    "published": "1769189427",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                It's not uncommon to sugarcoat things in a job interview. Perhaps you've even told a little white lie about how much you love what the company does—it's not like it ever comes back to bite you in the arse, right?..\n                <a href=\"https://www.pcgamer.com/games/survival-crafting/palwor",
     "source": "Steam News API"
   }
 ]
