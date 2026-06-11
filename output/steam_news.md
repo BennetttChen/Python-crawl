@@ -49,6 +49,12 @@
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]  The International is getting closer. After many years, Dota's ultimate proving ground is returning to China and returning to August, which is now just a few short months away.  In preparation, we'…
 
 - **Counter-Strike 2 Update**  
+  发布: 1781126525  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731  
+  摘要: [p]\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Added multi…
+
+- **Counter-Strike 2 Update**  
   发布: 1780013843  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img] Today we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring: [list] [*] ALRT, DOPAMINE HIT [*] Al…
-
-- **Counter-Strike 2 Update**  
-  发布: 1778191777  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813482  
-  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/…
 
 - **Palworld 1.0 - July 10! Cinematic Trailer Reveal!**  
   发布: 1780699356  

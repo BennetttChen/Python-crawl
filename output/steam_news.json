@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
+    "author": "Vitaliy",
+    "published": "1781126525",
+    "summary": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inv",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
     "author": "brianlev",
     "published": "1780013843",
@@ -132,15 +141,6 @@
     "author": "COMPLEX",
     "published": "1778191843",
     "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813482",
-    "author": "tomd",
-    "published": "1778191777",
-    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak v",
     "source": "Steam News API"
   },
   {
