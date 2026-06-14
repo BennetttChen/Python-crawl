@@ -96,6 +96,24 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img] Today we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring: [list] [*] ALRT, DOPAMINE HIT [*] Al…
 
+- **Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all**  
+  发布: 1781385184  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg"/><br><br>                 Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the …
+
+- **Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered**  
+  发布: 1781366850  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835236783566229  
+  摘要: <img src="https://assetsio.gnwcdn.com/palworld-arena-mode-tease.png?width=690&quality=85&format=jpg&auto=webp" /> <p> As with most suits of this nature, the one Nintendo filed against <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair has …
+
+- **Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss**  
+  发布: 1781355600  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/kcgZfAW7dttr34bYytGorh-1280-80.jpg"/><br><br>                 s announced at this year's Summer Games Fest,<a href="https://www.pcgamer.com/uk/palworld/"> <u>Palworld</u></a> 1.0 arrives in less than a month. The launch version looks li…
+
 - **Palworld 1.0 - July 10! Cinematic Trailer Reveal!**  
   发布: 1780699356  
   来源: Steam News API  
@@ -125,21 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
-
-- **Palworld x Enshrouded bundle available on Steam!**  
-  发布: 1773939649  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432  
-  摘要: [p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p]…
-
-- **Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'**  
-  发布: 1773424915  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1826992588596420  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg"/><br><br>                 Being highly active with the community for a videogame must mean your DMs are a perpetual nightmare of notifications, but that's doubly so if you've ever stared down the barr…
-
-- **v0.7.2: Balance adjustments and bug fixes**  
-  发布: 1771218125  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522844567  
-  摘要: [p]\[Patch Notice] [/p][p]Palworld version v0.7.2 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Added rarity variations for melee weapons (swords, katanas, beam swords, Lily's Spear).[/p][p]・\[Steam] Added a Debug Mod that allows constant updates …

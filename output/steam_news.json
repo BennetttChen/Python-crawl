@@ -145,6 +145,33 @@
   },
   {
     "appid": 1623730,
+    "title": "Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698",
+    "author": "Justin Wagner",
+    "published": "1781385184",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg\"/><br><br>\n                Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the big 'tendo <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-po",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835236783566229",
+    "author": "",
+    "published": "1781366850",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-arena-mode-tease.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>\nAs with most suits of this nature, the one Nintendo filed against <a href=\"https://www.rockpapershotgun.com/games/palworld\">Palworld</a> developer Pocketpair has been going on for a while now. <a href=\"https://www.rockpapershotgun.com/nintendo-and-the-pokemon-company-are-suing-the-",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852",
+    "author": "Rick Lane",
+    "published": "1781355600",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/kcgZfAW7dttr34bYytGorh-1280-80.jpg\"/><br><br>\n                s announced at this year's Summer Games Fest,<a href=\"https://www.pcgamer.com/uk/palworld/\"> <u>Palworld</u></a> 1.0 arrives in less than a month. The launch version looks like it'll introduce a <em>lot </em>of new stuff to Pocketpair's Pokémon-inspired survival-crafting game, and with all tho",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld 1.0 - July 10! Cinematic Trailer Reveal!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331",
     "author": "pocketpair_dev",
@@ -186,33 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1775444933",
     "summary": "[p]\\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation structures such as pillars would cause roofs and other structures to float in mid-air.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]Tha",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld x Enshrouded bundle available on Steam!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432",
-    "author": "pocketpair_dev",
-    "published": "1773939649",
-    "summary": "[p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p][p][dynamiclink href=\"https://store.steampowered.com/bundle/68744/Palworld__Enshrouded/\"][/dynamiclink][/p][p][img src=\"",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld's Bucky got off a plane to find 'about 8,000 Discord messages from Palworld fans' who really wanted him to know about Pickmon: 'God bless their little hearts'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1826992588596420",
-    "author": "Andrea Shearon",
-    "published": "1773424915",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg\"/><br><br>\n                Being highly active with the community for a videogame must mean your DMs are a perpetual nightmare of notifications, but that's doubly so if you've ever stared down the barrel of a particularly litigious industry powerhouse. When we're talking about a game like <a href=\"https://www.pcgamer.co",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v0.7.2: Balance adjustments and bug fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1824644522844567",
-    "author": "pocketpair_dev",
-    "published": "1771218125",
-    "summary": "[p]\\[Patch Notice] [/p][p]Palworld version v0.7.2 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Added rarity variations for melee weapons (swords, katanas, beam swords, Lily's Spear).[/p][p]・\\[Steam] Added a Debug Mod that allows constant updates for mod development. [/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where the display would appear misaligned when placi",
     "source": "Steam News API"
   }
 ]
