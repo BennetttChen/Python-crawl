@@ -120,12 +120,6 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331  
   摘要: [p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we …
 
-- **Summer Game Fest 2026 everything announced for PC**  
-  发布: 1780680003  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1834602721191804  
-  摘要: <img src="https://assetsio.gnwcdn.com/summer-games-fest-2026-sgf-header.jpg?width=690&quality=85&format=jpg&auto=webp" />  <p>And with that the Summer Game Fest is over. At least, the official Geoff Keighley showcase - there are still many more streams over the weekend. I wouldn'…
-
 - **Skol! Palworld X Valheim Steam Bundle!**  
   发布: 1779840013  
   来源: Steam News API  
@@ -143,3 +137,9 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
+
+- **Palworld x Enshrouded bundle available on Steam!**  
+  发布: 1773939649  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432  
+  摘要: [p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p]…
