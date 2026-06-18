@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]  The International is getting closer. After many years, Dota's ultimate proving ground is returning to China and returning to August, which is now just a few short months away.  In preparation, we'…
 
+- **Playoffs at the "Cathedral of Counter-Strike"**  
+  发布: 1781738540  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220  
+  摘要: Playoffs at the IEM Cologne 2026 Major begin tomorrow and the "Cathedral of Counter-Strike" awaits.  [img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]  For the second consecutive Major, FURIA and Team Spirit finished Stage …
+
 - **Counter-Strike 2 Update**  
   发布: 1781126525  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\[ MISC ][/p][list…
-
-- **NIGHTMODE II Music Kits**  
-  发布: 1778191843  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483  
-  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img] Today we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring: [list] [*] ALRT, DOPAMINE HIT [*] Al…
 
 - **Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all**  
   发布: 1781385184  

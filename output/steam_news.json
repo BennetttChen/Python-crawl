@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
+    "author": "COMPLEX",
+    "published": "1781738540",
+    "summary": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
     "author": "Vitaliy",
@@ -132,15 +141,6 @@
     "author": "daVinci1980",
     "published": "1778797438",
     "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "NIGHTMODE II Music Kits",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
-    "author": "COMPLEX",
-    "published": "1778191843",
-    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, ",
     "source": "Steam News API"
   },
   {
