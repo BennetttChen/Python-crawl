@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199307597",
+    "author": "Justin Wagner",
+    "published": "1781884476",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                It's been a big moment for AI disclosures. Games with such labels <a href=\"https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/\">have been flooding Steam</a> as of late, and whenever the parade of summe",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698",
     "author": "Justin Wagner",
@@ -204,15 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1775444933",
     "summary": "[p]\\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation structures such as pillars would cause roofs and other structures to float in mid-air.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]Tha",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld x Enshrouded bundle available on Steam!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432",
-    "author": "pocketpair_dev",
-    "published": "1773939649",
-    "summary": "[p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p][p][dynamiclink href=\"https://store.steampowered.com/bundle/68744/Palworld__Enshrouded/\"][/dynamiclink][/p][p][img src=\"",
     "source": "Steam News API"
   }
 ]

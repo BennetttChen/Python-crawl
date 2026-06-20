@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\[ MISC ][/p][list…
 
+- **Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'**  
+  发布: 1781884476  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199307597  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 It's been a big moment for AI disclosures. Games with such labels <a href="https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-…
+
 - **Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all**  
   发布: 1781385184  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
-
-- **Palworld x Enshrouded bundle available on Steam!**  
-  发布: 1773939649  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365754432  
-  摘要: [p]Pal Tamers, the Flameborn call for aid![/p][p][/p][p]Awaken the ancient Flame, and reclaim the lost beauty of your kingdom in a co-op survival action RPG set in a vast world with diverse biomes![/p][p][/p][p]Now available in a bundle for 10% off![/p][p][/p][p]Check it out![/p]…
