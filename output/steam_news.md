@@ -1,5 +1,11 @@
 # Steam News
 
+- **Valve calls out Dota 2 dataminers desperate for Dark Carnival news: "Why are you guys reading our variable names?"**  
+  发布: 1781969455  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months…
+
 - **A new Dota 2 update buffs Nature's Prophet and Arc Warden, but everyone's talking about a mysterious Axe 'change'**  
   发布: 1780660979  
   来源: Steam News API  
@@ -42,11 +48,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg"/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is …
 
-- **The International Team Registration**  
-  发布: 1777932735  
+- **The IEM Cologne 2026 Grand Finals**  
+  发布: 1781988714  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578766  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/221cbdb6394fb7f0d037aada83d1312b0f59f869.png[/img]  The International is getting closer. After many years, Dota's ultimate proving ground is returning to China and returning to August, which is now just a few short months away.  In preparation, we'…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024  
+  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img] Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.  After losing the op…
 
 - **Playoffs at the "Cathedral of Counter-Strike"**  
   发布: 1781738540  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760  
   摘要: [p]\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage ove…
 
-- **Counter-Strike 2 Update**  
-  发布: 1778797438  
+- **Palworld × LumenTale Steam Bundle Available Now !**  
+  发布: 1781955878  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456  
-  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\[ MISC ][/p][list…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309182  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0a8f2a609b4a82bb3ec93faf0c0fa1a6b7484e53.png"][/img][/p][p]Palworld and the monster-collecting RPG LumenTale: Memories of Track Steam Bundle is out now! [/p][p]Grab this special offer to get both titles at a 10% OFF discount.[/p][p][/p][p]…
 
 - **Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'**  
   发布: 1781884476  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the gam…
-
-- **v0.7.3: Balance adjustments and bug fixes**  
-  发布: 1775444933  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
-  摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
