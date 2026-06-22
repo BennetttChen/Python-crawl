@@ -100,7 +100,7 @@
   发布: 1781955878  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309182  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0a8f2a609b4a82bb3ec93faf0c0fa1a6b7484e53.png"][/img][/p][p]Palworld and the monster-collecting RPG LumenTale: Memories of Track Steam Bundle is out now! [/p][p]Grab this special offer to get both titles at a 10% OFF discount.[/p][p][/p][p]…
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0a8f2a609b4a82bb3ec93faf0c0fa1a6b7484e53.png"][/img][/p][p]Palworld and the monster-collecting RPG LumenTale: Memories of Trey Steam Bundle is out now! [/p][p]Grab this special offer to get both titles at a 10% OFF discount.[/p][p][/p][p]W…
 
 - **Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'**  
   发布: 1781884476  
