@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
-- **神奇数字马戏团**  
-  发布: 20:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss241775  
-  摘要: 20:00
-
-- **神奇数字马戏团 中文配音**  
-  发布: 20:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss241806  
-  摘要: 20:00
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss73971  
   摘要: 11:00
+
+- **非人哉 第三季**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss101854  
+  摘要: 12:00
+
+- **苏东坡与杭州的故事**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss247422  
+  摘要: 10:00
+
+- **盗妖行**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss148433  
+  摘要: 09:00

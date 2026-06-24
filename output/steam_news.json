@@ -172,15 +172,6 @@
   },
   {
     "appid": 1623730,
-    "title": "Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835236783566229",
-    "author": "",
-    "published": "1781366850",
-    "summary": "<img src=\"https://assetsio.gnwcdn.com/palworld-arena-mode-tease.png?width=690&quality=85&format=jpg&auto=webp\" /> <p>\nAs with most suits of this nature, the one Nintendo filed against <a href=\"https://www.rockpapershotgun.com/games/palworld\">Palworld</a> developer Pocketpair has been going on for a while now. <a href=\"https://www.rockpapershotgun.com/nintendo-and-the-pokemon-company-are-suing-the-",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
     "title": "Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852",
     "author": "Rick Lane",
@@ -213,6 +204,15 @@
     "author": "editor@pcgamesn.com",
     "published": "1778589051",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg\"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the game having to <a href=\"https://www.pcgamesn.com/palworld/nintendo-lawsuit-gameplay-changes\">change several of its core fea",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "v0.7.3: Balance adjustments and bug fixes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607",
+    "author": "pocketpair_dev",
+    "published": "1775444933",
+    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation structures such as pillars would cause roofs and other structures to float in mid-air.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]Tha",
     "source": "Steam News API"
   }
 ]

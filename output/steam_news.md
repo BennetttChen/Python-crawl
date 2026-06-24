@@ -114,12 +114,6 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg"/><br><br>                 Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the …
 
-- **Nintendo reportedly look set to net so little from their Palworld lawsuit you'll wonder why they bothered**  
-  发布: 1781366850  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1835236783566229  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-arena-mode-tease.png?width=690&quality=85&format=jpg&auto=webp" /> <p> As with most suits of this nature, the one Nintendo filed against <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> developer Pocketpair has …
-
 - **Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss**  
   发布: 1781355600  
   来源: Steam News API  
@@ -143,3 +137,9 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the gam…
+
+- **v0.7.3: Balance adjustments and bug fixes**  
+  发布: 1775444933  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607  
+  摘要: [p]\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation s…
