@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld × Windrose Steam Bundle is Out Now!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547286",
+    "author": "pocketpair_dev",
+    "published": "1782342046",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/7b167fa1a5bfb9ca0107f5f6faa262231a3d55dc.png\"][/img][/p][p]We are thrilled to announce that the Palworld × Windrose Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft games at a [b]10% OFF[/b] discount![/p][p]If you already own Palworld, you can still use this bundle to purchase Windrose at the di",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld × LumenTale Steam Bundle Available Now !",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309182",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1778589051",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg\"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the game having to <a href=\"https://www.pcgamesn.com/palworld/nintendo-lawsuit-gameplay-changes\">change several of its core fea",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v0.7.3: Balance adjustments and bug fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815564607",
-    "author": "pocketpair_dev",
-    "published": "1775444933",
-    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v0.7.3 has been released! [/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Balance Adjustments[/p][p]・Blueprints stored in chests at the base can now actually be used in crafting.[/p][p][/p][p]▼Bug Fixes[/p][p]・Fixed an issue where using non-foundation structures such as pillars would cause roofs and other structures to float in mid-air.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]Tha",
     "source": "Steam News API"
   }
 ]
