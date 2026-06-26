@@ -1,29 +1,5 @@
 # Bilibili PGC Timeline
 
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
-- **深空彼岸**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss73968  
-  摘要: 11:00
-
-- **开拍啦！怪兽大电影**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45968  
-  摘要: 12:00
-
-- **开心锤锤世界**  
-  发布: 18:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss96881  
-  摘要: 18:00
-
 - **神奇数字马戏团**  
   发布: 06:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +95,27 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss248319  
   摘要: 12:00
+
+- **苏东坡与杭州的故事**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss247422  
+  摘要: 10:00
+
+- **深空彼岸**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss73968  
+  摘要: 11:00
+
+- **开拍啦！怪兽大电影**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45968  
+  摘要: 12:00
+
+- **开心锤锤世界**  
+  发布: 18:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss96881  
+  摘要: 18:00

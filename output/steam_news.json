@@ -1,6 +1,24 @@
 [
   {
     "appid": 570,
+    "title": "The Dark Carnival",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551627",
+    "author": "kyled",
+    "published": "1782417351",
+    "summary": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]\n\nDon't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some dark bargain with an ancient world-conquering evil? We've all been there.\n\nWe're pulling back the curtain on [url=http:",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
+    "title": "After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262",
+    "author": "editor@pcgamesn.com",
+    "published": "1782404865",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg\"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into the Valve MOBA this week, you might have been surprised to find that Axe, one of its longest-standing and most iconic fa",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769",
     "author": "editor@pcgamesn.com",
@@ -51,24 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1778156403",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/dota-2-7-41c-patch-notes-full-breakdown-valve-moba-steam-900x506.jpg\"/><p>New <strong>Dota 2 7.41c</strong> patch notes have arrived to shake up the meta once again, and Valve is bringing some of the most impactful heroes in line with targeted nerfs across the roster. We're still recovering from the grand",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.41c Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810383",
-    "author": "BattleRabbit",
-    "published": "1778105875",
-    "summary": "[p]Patch 7.41c is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41c\"]here[/url].[/p]\n\nIn addition, over the last few days we've addressed the following issues:\n[list]\n[*] Fixed illusions not duplicating the correct level of neutral item enchantment\n[*] Fixed Bloodstone's Bloodpact having a superfluous stack counter\n[*] Fixed Conjurer's Catalyst getting into a ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Beloved Dota 2 esports team Heroic has just disbanded, saying it's a \"tough game to commercialize\"",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907",
-    "author": "editor@pcgamesn.com",
-    "published": "1777982948",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg\"/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is League of Legends - a beast that isn't showing any signs of slowing down. While Dota 2 remains huge in the East, its Wes",
     "source": "Steam News API"
   },
   {
@@ -145,6 +145,24 @@
   },
   {
     "appid": 1623730,
+    "title": "Steam Summer Sale is HERE!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552073",
+    "author": "pocketpair_dev",
+    "published": "1782428410",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/039541f7340c8a9cd2e988c3b18289c412be52d4.png\"][/img][/p][p]In anticipation of the v1.0 official launch on July 10, [b]Palworld[/b] is now available at its biggest [b]30% OFF [/b]discount! There has never been a better time to jump in.[/p][p][/p][p]Don't miss out on discounts across the Pocketpair lineup, including the pirate survival craft Windrose, Craftop",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Super Survival Summer Bundle!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550341",
+    "author": "pocketpair_dev",
+    "published": "1782406854",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/977130e35350491ba8df2ad20c9803384958b108.png\"][/img][/p][p]Summer is here![/p][p]The Super Survival Summer Bundle is available starting TODAY, featuring an incredible 25% discount across the board![/p][p]This is a massive, limited-time collaboration bundle bringing together 10 differnt survival and crafting experiences on Steam.[/p][p]Whether you want to ca",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld × Windrose Steam Bundle is Out Now!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547286",
     "author": "pocketpair_dev",
@@ -195,24 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1780699356",
     "summary": "[p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we revealed our first-ever cinematic trailer. The trailer shows off new Pals, new areas, an ominous new threat and the long",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Skol! Palworld X Valheim Steam Bundle!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070",
-    "author": "pocketpair_dev",
-    "published": "1779840013",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/949aacac0037a9e14a8936a6de59c1e8bf0ffd28.png\"][/img]Whether you're catching Pals, building bases and battling in the world of Palworld,[/p][p]or proving your worth in the brutal, Norse-inspired wilderness of Valheim,[/p][p][/p][p]This bundle will provide endless hours of adventure and exploration![/p][p][/p][p]If you already own one of these games, you can ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "'Palworld Online' has been trademarked, but there's hints of potential AI use",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863",
-    "author": "editor@pcgamesn.com",
-    "published": "1778589051",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg\"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the game having to <a href=\"https://www.pcgamesn.com/palworld/nintendo-lawsuit-gameplay-changes\">change several of its core fea",
     "source": "Steam News API"
   }
 ]

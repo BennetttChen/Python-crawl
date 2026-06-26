@@ -1,5 +1,17 @@
 # Steam News
 
+- **The Dark Carnival**  
+  发布: 1782417351  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551627  
+  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]  Don't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some…
+
+- **After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake**  
+  发布: 1782404865  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into …
+
 - **Valve calls out Dota 2 dataminers desperate for Dark Carnival news: "Why are you guys reading our variable names?"**  
   发布: 1781969455  
   来源: Steam News API  
@@ -35,18 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502811921  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/dota-2-7-41c-patch-notes-full-breakdown-valve-moba-steam-900x506.jpg"/><p>New <strong>Dota 2 7.41c</strong> patch notes have arrived to shake up the meta once again, and Valve is bringin…
-
-- **7.41c Gameplay Patch**  
-  发布: 1778105875  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502810383  
-  摘要: [p]Patch 7.41c is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41c"]here[/url].[/p]  In addition, over the last few days we've addressed the following issues: [list] [*] Fixed illusions not duplicating the correct level of neutral item encha…
-
-- **Beloved Dota 2 esports team Heroic has just disbanded, saying it's a "tough game to commercialize"**  
-  发布: 1777982948  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1831432155579907  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/heroic-dota-2-disband-moba-hard-to-commercialize-900x506.jpg"/><p><strong>Dota 2</strong> esports is in an odd place. Once the premier sphere, it's been overtaken by the mammoth that is …
 
 - **The IEM Cologne 2026 Grand Finals**  
   发布: 1781988714  
@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760  
   摘要: [p]\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage ove…
 
+- **Steam Summer Sale is HERE!**  
+  发布: 1782428410  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552073  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/039541f7340c8a9cd2e988c3b18289c412be52d4.png"][/img][/p][p]In anticipation of the v1.0 official launch on July 10, [b]Palworld[/b] is now available at its biggest [b]30% OFF [/b]discount! There has never been a better time to jump in.[/p][…
+
+- **Super Survival Summer Bundle!**  
+  发布: 1782406854  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550341  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/977130e35350491ba8df2ad20c9803384958b108.png"][/img][/p][p]Summer is here![/p][p]The Super Survival Summer Bundle is available starting TODAY, featuring an incredible 25% discount across the board![/p][p]This is a massive, limited-time col…
+
 - **Palworld × Windrose Steam Bundle is Out Now!**  
   发布: 1782342046  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331  
   摘要: [p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we …
-
-- **Skol! Palworld X Valheim Steam Bundle!**  
-  发布: 1779840013  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884070  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/949aacac0037a9e14a8936a6de59c1e8bf0ffd28.png"][/img]Whether you're catching Pals, building bases and battling in the world of Palworld,[/p][p]or proving your worth in the brutal, Norse-inspired wilderness of Valheim,[/p][p][/p][p]This bund…
-
-- **'Palworld Online' has been trademarked, but there's hints of potential AI use**  
-  发布: 1778589051  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502823863  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/palworld-online-trademark-usa-south-korea-ai-use-900x506.jpg"/><p>A part of me is surprised that <strong>Palworld</strong> still exists. With Nintendo's lawsuit still ongoing and the gam…
