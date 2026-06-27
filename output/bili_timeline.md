@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **神奇数字马戏团**  
-  发布: 06:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss241775  
-  摘要: 06:00
-
-- **神奇数字马戏团 中文配音**  
-  发布: 06:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss241806  
-  摘要: 06:00
-
-- **名侦探柯南**  
-  发布: 19:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss33378  
-  摘要: 19:30
-
 - **假面骑士ZZZ**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss96881  
   摘要: 18:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **假面骑士ZZZ**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss109700  
+  摘要: 10:00

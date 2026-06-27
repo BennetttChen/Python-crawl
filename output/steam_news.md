@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas**  
+  发布: 1782489318  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165554448  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-event-live-now-rewards-900x506.jpg"/><p>At last, weeks of speculation and mystery can finally be put to bed: the Dota 2 Dark Carnival has begun. Valve's latest big e…
+
 - **The Dark Carnival**  
   发布: 1782417351  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578465  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/1477d1a3748ef268c4b431dd4af64cf4ad8ffdd7.png[/img]  [p]Throughout the year, Dota teams around the world battle to prove themselves worthy of direct invitation to The International — and a chance to compete for the Aegis of Champions on the world's …
-
-- **Dota 2 patch 7.41c is awful news for Batrider and Puck, and keeps Roshan under wraps**  
-  发布: 1778156403  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1832065502811921  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/dota-2-7-41c-patch-notes-full-breakdown-valve-moba-steam-900x506.jpg"/><p>New <strong>Dota 2 7.41c</strong> patch notes have arrived to shake up the meta once again, and Valve is bringin…
 
 - **The IEM Cologne 2026 Grand Finals**  
   发布: 1781988714  
