@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165557043",
+    "author": "Justin Wagner",
+    "published": "1782585914",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg\"/><br><br>\n                Palworld just keeps moving. It's postured to more or less shrug off its <a href=\"https://www.pcgamer.com/games/survival-crafting/nintendos-legal-battle-with-palworld-looks-shakier-than-ever-it-may-only-get-usd30-000-chump-change-if-it-wins-at-all/\">prominent legal battle with Nintendo</a>, and",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Steam Summer Sale is HERE!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552073",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "Rick Lane",
     "published": "1781355600",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/kcgZfAW7dttr34bYytGorh-1280-80.jpg\"/><br><br>\n                s announced at this year's Summer Games Fest,<a href=\"https://www.pcgamer.com/uk/palworld/\"> <u>Palworld</u></a> 1.0 arrives in less than a month. The launch version looks like it'll introduce a <em>lot </em>of new stuff to Pocketpair's Pokémon-inspired survival-crafting game, and with all tho",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld 1.0 - July 10! Cinematic Trailer Reveal!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331",
-    "author": "pocketpair_dev",
-    "published": "1780699356",
-    "summary": "[p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we revealed our first-ever cinematic trailer. The trailer shows off new Pals, new areas, an ominous new threat and the long",
     "source": "Steam News API"
   }
 ]

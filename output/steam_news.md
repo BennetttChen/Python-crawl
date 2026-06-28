@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760  
   摘要: [p]\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage ove…
 
+- **Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead**  
+  发布: 1782585914  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165557043  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg"/><br><br>                 Palworld just keeps moving. It's postured to more or less shrug off its <a href="https://www.pcgamer.com/games/survival-crafting/nintendos-legal-battle-with-palworld-looks-sh…
+
 - **Steam Summer Sale is HERE!**  
   发布: 1782428410  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/kcgZfAW7dttr34bYytGorh-1280-80.jpg"/><br><br>                 s announced at this year's Summer Games Fest,<a href="https://www.pcgamer.com/uk/palworld/"> <u>Palworld</u></a> 1.0 arrives in less than a month. The launch version looks li…
-
-- **Palworld 1.0 - July 10! Cinematic Trailer Reveal!**  
-  发布: 1780699356  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721192331  
-  摘要: [p]Pal Tamers, the time has finally come![/p][p]Since our Early Access launch in 2024, thanks to the incredible support of millions of players worldwide, Palworld is officially exiting Early Access and releasing Version 1.0 on July 10th![/p][p]Today, at Summer Game Fest 2026, we …
