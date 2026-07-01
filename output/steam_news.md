@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578465  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/1477d1a3748ef268c4b431dd4af64cf4ad8ffdd7.png[/img]  [p]Throughout the year, Dota teams around the world battle to prove themselves worthy of direct invitation to The International — and a chance to compete for the Aegis of Champions on the world's …
 
+- **Team Falcons' Finale**  
+  发布: 1782874684  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136  
+  摘要: [p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.  Facing the defending Major Champions in th…
+
+- **Counter-Strike 2 Update**  
+  发布: 1782874677  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135  
+  摘要: [p]\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of th…
+
 - **The IEM Cologne 2026 Grand Finals**  
   发布: 1781988714  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570409  
   摘要: [p]\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can…
-
-- **Counter-Strike 2 Update**  
-  发布: 1779318374  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523  
-  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted player and grenade collision.[/p][/*][*][p]Adjusted material blending to improve accuracy of footstep sounds.[/p][/*][*][p]Fixed several gaps reported by players.[/p][/*][/list][p]Ancient[/p][list][*][p]Fixed a gap in the wall.[/p]…
-
-- **Counter-Strike 2 Update**  
-  发布: 1779147368  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760  
-  摘要: [p]\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage ove…
 
 - **Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead**  
   发布: 1782585914  

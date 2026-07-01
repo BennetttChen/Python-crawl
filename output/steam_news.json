@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Team Falcons' Finale",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136",
+    "author": "COMPLEX",
+    "published": "1782874684",
+    "summary": "[p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.\n\nFacing the defending Major Champions in the Quarterfinals, Falcons defeated Vitality 2-1, with each map taking 24 rounds to determine a winner. The Semifinals wer",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135",
+    "author": "brianlev",
+    "published": "1782874677",
+    "summary": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "The IEM Cologne 2026 Grand Finals",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024",
     "author": "COMPLEX",
@@ -123,24 +141,6 @@
     "author": "brianlev",
     "published": "1779410434",
     "summary": "[p]\\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318567523",
-    "author": "Vitaliy",
-    "published": "1779318374",
-    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted player and grenade collision.[/p][/*][*][p]Adjusted material blending to improve accuracy of footstep sounds.[/p][/*][*][p]Fixed several gaps reported by players.[/p][/*][/list][p]Ancient[/p][list][*][p]Fixed a gap in the wall.[/p][/*][/list]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
-    "author": "Vitaliy",
-    "published": "1779147368",
-    "summary": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\"",
     "source": "Steam News API"
   },
   {
