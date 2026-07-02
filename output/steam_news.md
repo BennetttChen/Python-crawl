@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2 Update - 7/1/2026**  
+  发布: 1782948361  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626  
+  摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
+
 - **Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas**  
   发布: 1782489318  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
-
-- **The International 2026 Invitations and Qualifiers**  
-  发布: 1779766203  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578465  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/1477d1a3748ef268c4b431dd4af64cf4ad8ffdd7.png[/img]  [p]Throughout the year, Dota teams around the world battle to prove themselves worthy of direct invitation to The International — and a chance to compete for the Aegis of Champions on the world's …
 
 - **Team Falcons' Finale**  
   发布: 1782874684  
