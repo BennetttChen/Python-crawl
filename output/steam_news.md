@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
+- **The Jackass Sticker Capsule**  
+  发布: 1783108086  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358  
+  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img] Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem. …
+
 - **Team Falcons' Finale**  
   发布: 1782874684  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412  
   摘要: The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are n…
-
-- **Counter-Strike 2 Update**  
-  发布: 1779410434  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570409  
-  摘要: [p]\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can…
 
 - **Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead**  
   发布: 1782585914  

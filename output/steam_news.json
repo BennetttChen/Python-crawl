@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "The Jackass Sticker Capsule",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358",
+    "author": "COMPLEX",
+    "published": "1783108086",
+    "summary": "[img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img]\nToday we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem.\n\nCelebrating the release of [i]jackass: best and last[/i], the Jackass Sticker Capsule contains 39 stickers referencing ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Team Falcons' Finale",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136",
     "author": "COMPLEX",
@@ -132,15 +141,6 @@
     "author": "brianlev",
     "published": "1779410446",
     "summary": "The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are now available for purchase!\n\n[h3]The 2026 Cologne Major Shop[/h3]\n[img]https://clan.akamai.steamstatic.com/images/3381077",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570409",
-    "author": "brianlev",
-    "published": "1779410434",
-    "summary": "[p]\\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass ",
     "source": "Steam News API"
   },
   {
