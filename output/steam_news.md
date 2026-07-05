@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
+- **Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again**  
+  发布: 1783183401  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg"/><br><br>                 nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it ha…
+
 - **The Jackass Sticker Capsule**  
   发布: 1783108086  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736  
   摘要: [p]\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectator…
-
-- **IEM Cologne 2026**  
-  发布: 1779410446  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412  
-  摘要: The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are n…
 
 - **Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead**  
   发布: 1782585914  

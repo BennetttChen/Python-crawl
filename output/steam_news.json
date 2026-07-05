@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678",
+    "author": "Justin Wagner",
+    "published": "1783183401",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg\"/><br><br>\n                nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it has <a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">well over a million concurrent players</a> as I write t",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "The Jackass Sticker Capsule",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358",
     "author": "COMPLEX",
@@ -132,15 +141,6 @@
     "author": "brianlev",
     "published": "1780013843",
     "summary": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "IEM Cologne 2026",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412",
-    "author": "brianlev",
-    "published": "1779410446",
-    "summary": "The IEM Cologne 2026 Major is fast approaching. Teams are making final adjustments, fine-tuning their strats, and crossing their fingers that they won't face Vitality until the Grand Final. That can only mean one thing: Tournament Items featuring Teams and Player Autographs are now available for purchase!\n\n[h3]The 2026 Cologne Major Shop[/h3]\n[img]https://clan.akamai.steamstatic.com/images/3381077",
     "source": "Steam News API"
   },
   {
