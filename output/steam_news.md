@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736  
   摘要: [p]\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectator…
 
+- **Palworld Surpasses 40 Million Players!**  
+  发布: 1783486642  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579541  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/b2410c860f0bfadb18edb0d03b6e8073ca514184.png"][/img][/p][h1][b]40 million players have now played Palworld![/b][/h1][p]Over the last 2.5 years, Palworld has grown alongside our community.[/p][p]Thank you all so much for your incredible sup…
+
 - **Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead**  
   发布: 1782585914  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg"/><br><br>                 Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the …
-
-- **Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss**  
-  发布: 1781355600  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/kcgZfAW7dttr34bYytGorh-1280-80.jpg"/><br><br>                 s announced at this year's Summer Games Fest,<a href="https://www.pcgamer.com/uk/palworld/"> <u>Palworld</u></a> 1.0 arrives in less than a month. The launch version looks li…

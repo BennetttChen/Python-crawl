@@ -1,11 +1,5 @@
 # Bilibili PGC Timeline
 
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +112,10 @@
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss247422  
+  摘要: 10:00
+
+- **我的朋友小鼠波波**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss256469  
   摘要: 10:00

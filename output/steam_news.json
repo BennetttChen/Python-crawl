@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld Surpasses 40 Million Players!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579541",
+    "author": "pocketpair_admin",
+    "published": "1783486642",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/b2410c860f0bfadb18edb0d03b6e8073ca514184.png\"][/img][/p][h1][b]40 million players have now played Palworld![/b][/h1][p]Over the last 2.5 years, Palworld has grown alongside our community.[/p][p]Thank you all so much for your incredible support![/p][p]Today, Bucky is taking a look back on all the updates the game has had so far![/p][p]We hope you're all exci",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165557043",
     "author": "Justin Wagner",
@@ -204,15 +213,6 @@
     "author": "Justin Wagner",
     "published": "1781385184",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg\"/><br><br>\n                Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the big 'tendo <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-po",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld 1.0 won't wipe your data, 'but you should' says Pocketpair's publishing boss",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783565852",
-    "author": "Rick Lane",
-    "published": "1781355600",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/kcgZfAW7dttr34bYytGorh-1280-80.jpg\"/><br><br>\n                s announced at this year's Summer Games Fest,<a href=\"https://www.pcgamer.com/uk/palworld/\"> <u>Palworld</u></a> 1.0 arrives in less than a month. The launch version looks like it'll introduce a <em>lot </em>of new stuff to Pocketpair's Pokémon-inspired survival-crafting game, and with all tho",
     "source": "Steam News API"
   }
 ]
