@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
+- **Counter-Strike 2 Update**  
+  发布: 1783551091  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827  
+  摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosio…
+
+- **Season 5, Armory, and More**  
+  发布: 1783551043  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825  
+  摘要: [h3]Reporting for Active Duty[/h3]  [img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img] Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through…
+
 - **Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again**  
   发布: 1783183401  
   来源: Steam News API  
@@ -84,17 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220  
   摘要: Playoffs at the IEM Cologne 2026 Major begin tomorrow and the "Cathedral of Counter-Strike" awaits.  [img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]  For the second consecutive Major, FURIA and Team Spirit finished Stage …
 
-- **Counter-Strike 2 Update**  
-  发布: 1781126525  
+- **Important: About MODs and 1.0!**  
+  发布: 1783558844  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731  
-  摘要: [p]\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Added multi…
-
-- **Counter-Strike 2 Update**  
-  发布: 1780013843  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736  
-  摘要: [p]\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectator…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582004  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/8055c9ae84c1094001811fa9572d067af5dbbdeb.png"][/img][/p][p]Palworld and Pocketpair support modding, and we're grateful to all our fans who have dedicated time into modding the game up now. We look forward to seeing all the amazing MODs tha…
 
 - **Palworld Surpasses 40 Million Players!**  
   发布: 1783486642  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199307597  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 It's been a big moment for AI disclosures. Games with such labels <a href="https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-…
-
-- **Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all**  
-  发布: 1781385184  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg"/><br><br>                 Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the …

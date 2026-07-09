@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827",
+    "author": "brianlev",
+    "published": "1783551091",
+    "summary": "[p]\\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.[/p][list][*][p]Damage is now applied according to precomputed simulation val",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Season 5, Armory, and More",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825",
+    "author": "brianlev",
+    "published": "1783551043",
+    "summary": "[h3]Reporting for Active Duty[/h3]\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img]\nCache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through the Premier ranks in CS2's newest battlefield.\n\n[h3]Get out of there, it's gonna blow![/h3]\n\n[img]https://clan.fastly.s",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678",
     "author": "Justin Wagner",
@@ -126,21 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
-    "author": "Vitaliy",
-    "published": "1781126525",
-    "summary": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inv",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
-    "author": "brianlev",
-    "published": "1780013843",
-    "summary": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list]",
+    "appid": 1623730,
+    "title": "Important: About MODs and 1.0!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582004",
+    "author": "pocketpair_dev",
+    "published": "1783558844",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/8055c9ae84c1094001811fa9572d067af5dbbdeb.png\"][/img][/p][p]Palworld and Pocketpair support modding, and we're grateful to all our fans who have dedicated time into modding the game up now. We look forward to seeing all the amazing MODs that will be made after 1.0.[/p][p]However, if you haven't played the game in a long time then it is possible you may have ",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "Justin Wagner",
     "published": "1781884476",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                It's been a big moment for AI disclosures. Games with such labels <a href=\"https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/\">have been flooding Steam</a> as of late, and whenever the parade of summe",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Nintendo's legal battle with Palworld looks shakier than ever: It may only get '$30,000 chump change' if it wins at all",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835236783566698",
-    "author": "Justin Wagner",
-    "published": "1781385184",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/5did7qUnYVRaAg578k5iZA-1280-80.jpg\"/><br><br>\n                Palworld's irreverent 'Pokémon with guns' conceit won it all sorts of buzz, but also attention from Nintendo's infamous lawyers—Palworld developer Pocketpair was sued by the big 'tendo <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-po",
     "source": "Steam News API"
   }
 ]

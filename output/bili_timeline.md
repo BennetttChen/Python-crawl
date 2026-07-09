@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **盗妖行**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss148433  
-  摘要: 09:00
-
-- **将夜**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45962  
-  摘要: 11:00
-
 - **苏东坡与杭州的故事**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +107,15 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss256469  
   摘要: 10:00
+
+- **我的朋友小鼠波波 中文配音**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss256470  
+  摘要: 10:00
+
+- **胶囊计划 奇迹**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss118963  
+  摘要: 11:00
