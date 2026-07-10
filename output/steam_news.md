@@ -49,6 +49,12 @@
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
 - **Counter-Strike 2 Update**  
+  发布: 1783633576  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons…
+
+- **Counter-Strike 2 Update**  
   发布: 1783551091  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827  
@@ -90,11 +96,35 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img] Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.  After losing the op…
 
-- **Playoffs at the "Cathedral of Counter-Strike"**  
-  发布: 1781738540  
+- **Palworld v1.0 - Official Release Changelog**  
+  发布: 1783652950  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220  
-  摘要: Playoffs at the IEM Cologne 2026 Major begin tomorrow and the "Cathedral of Counter-Strike" awaits.  [img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]  For the second consecutive Major, FURIA and Team Spirit finished Stage …
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658  
+  摘要: [h1][b]Palworld 1.0 - Changelog[/b][/h1][p][img src="{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png"][/img][/p][previewyoutube="1fpGg9wNM9A;full"][/previewyoutube][p]Pal Tamers, the time has come.[/p][p]Today, Palworld exits early access. Palworld 1.0 is…
+
+- **Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'**  
+  发布: 1783621410  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584329  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/pqaMAMqJoEsFDjJ9EobqG5-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/palworld/page/9/" target="_blank">Palworld</a>After two-and-a-half years of early access, <a href="https://www.pcgamer.com/palworld/page/9/">…
+
+- **Palworld won't raise its price for 1.0 as 'a small way of saying thank you'**  
+  发布: 1783612086  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165583827  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/pMwe89CAykJMFJyYrfJjmS-1280-80.jpg"/><br><br>                 We're just a day away from <a href="https://www.pcgamer.com/uk/palworld/">Palworld's</a> much anticipated 1.0 release, and to celebrate Pocketpair both released all <a href="…
+
+- **Palworld 1.0 Official Launch Trailer is OUT!**  
+  发布: 1783602127  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583337  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png"][/img][/p][p]It's almost here! Palworld will officially enter 1.0 on July 10, 2026. Our new launch trailer is packed with exciting highlights, offering a glimpse of brand-new Pals, uncharted re…
+
+- **Palworld dev delivers "important" 1.0 mod warning - just turning them off "is not enough"**  
+  发布: 1783592042  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165583020  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-1-0-mods-warning-delete-and-remove-dont-just-uninstall-pocketpair-creature-survival-game.jpg"/><p>As the Palworld 1.0 launch arrives, developer Pocketpair says you need to manua…
 
 - **Important: About MODs and 1.0!**  
   发布: 1783558844  
@@ -113,33 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165557043  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg"/><br><br>                 Palworld just keeps moving. It's postured to more or less shrug off its <a href="https://www.pcgamer.com/games/survival-crafting/nintendos-legal-battle-with-palworld-looks-sh…
-
-- **Steam Summer Sale is HERE!**  
-  发布: 1782428410  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552073  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/039541f7340c8a9cd2e988c3b18289c412be52d4.png"][/img][/p][p]In anticipation of the v1.0 official launch on July 10, [b]Palworld[/b] is now available at its biggest [b]30% OFF [/b]discount! There has never been a better time to jump in.[/p][…
-
-- **Super Survival Summer Bundle!**  
-  发布: 1782406854  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550341  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/977130e35350491ba8df2ad20c9803384958b108.png"][/img][/p][p]Summer is here![/p][p]The Super Survival Summer Bundle is available starting TODAY, featuring an incredible 25% discount across the board![/p][p]This is a massive, limited-time col…
-
-- **Palworld × Windrose Steam Bundle is Out Now!**  
-  发布: 1782342046  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547286  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/7b167fa1a5bfb9ca0107f5f6faa262231a3d55dc.png"][/img][/p][p]We are thrilled to announce that the Palworld × Windrose Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft games at a …
-
-- **Palworld × LumenTale Steam Bundle Available Now !**  
-  发布: 1781955878  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309182  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0a8f2a609b4a82bb3ec93faf0c0fa1a6b7484e53.png"][/img][/p][p]Palworld and the monster-collecting RPG LumenTale: Memories of Trey Steam Bundle is out now! [/p][p]Grab this special offer to get both titles at a 10% OFF discount.[/p][p][/p][p]W…
-
-- **Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'**  
-  发布: 1781884476  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199307597  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg"/><br><br>                 It's been a big moment for AI disclosures. Games with such labels <a href="https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-…

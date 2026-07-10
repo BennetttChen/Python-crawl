@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
+    "author": "jo",
+    "published": "1783633576",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827",
     "author": "brianlev",
     "published": "1783551091",
@@ -135,12 +144,48 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
-    "author": "COMPLEX",
-    "published": "1781738540",
-    "summary": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced ",
+    "appid": 1623730,
+    "title": "Palworld v1.0 - Official Release Changelog",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658",
+    "author": "pocketpair_dev",
+    "published": "1783652950",
+    "summary": "[h1][b]Palworld 1.0 - Changelog[/b][/h1][p][img src=\"{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png\"][/img][/p][previewyoutube=\"1fpGg9wNM9A;full\"][/previewyoutube][p]Pal Tamers, the time has come.[/p][p]Today, Palworld exits early access. Palworld 1.0 is here![/p][p][/p][p]Sunreach, a mysterious new island floating in the sky…The World Tree, the heart of the Palworld stor",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584329",
+    "author": "Andy Chalk",
+    "published": "1783621410",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/pqaMAMqJoEsFDjJ9EobqG5-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/palworld/page/9/\" target=\"_blank\">Palworld</a>After two-and-a-half years of early access, <a href=\"https://www.pcgamer.com/palworld/page/9/\">Palworld</a> is launching into full release tomorrow, July 10. It's a moment that brings both good news and some potenti",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld won't raise its price for 1.0 as 'a small way of saying thank you'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165583827",
+    "author": "Elie Gould",
+    "published": "1783612086",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/pMwe89CAykJMFJyYrfJjmS-1280-80.jpg\"/><br><br>\n                We're just a day away from <a href=\"https://www.pcgamer.com/uk/palworld/\">Palworld's</a> much anticipated 1.0 release, and to celebrate Pocketpair both released all <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-1-0-update-has-27-pdf-pages-of-changes-and-additions-says-publi",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld 1.0 Official Launch Trailer is OUT!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583337",
+    "author": "pocketpair_admin",
+    "published": "1783602127",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png\"][/img][/p][p]It's almost here! Palworld will officially enter 1.0 on July 10, 2026. Our new launch trailer is packed with exciting highlights, offering a glimpse of brand-new Pals, uncharted regions, and advanced technologies.[/p][p]Check it out now for a sneak peek at the epic new adventures waiting in Palworld",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld dev delivers \"important\" 1.0 mod warning - just turning them off \"is not enough\"",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165583020",
+    "author": "editor@pcgamesn.com",
+    "published": "1783592042",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-1-0-mods-warning-delete-and-remove-dont-just-uninstall-pocketpair-creature-survival-game.jpg\"/><p>As the Palworld 1.0 launch arrives, developer Pocketpair says you need to manually clear out your install file to avoid potential crashes.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www",
     "source": "Steam News API"
   },
   {
@@ -168,51 +213,6 @@
     "author": "Justin Wagner",
     "published": "1782585914",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg\"/><br><br>\n                Palworld just keeps moving. It's postured to more or less shrug off its <a href=\"https://www.pcgamer.com/games/survival-crafting/nintendos-legal-battle-with-palworld-looks-shakier-than-ever-it-may-only-get-usd30-000-chump-change-if-it-wins-at-all/\">prominent legal battle with Nintendo</a>, and",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Steam Summer Sale is HERE!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552073",
-    "author": "pocketpair_dev",
-    "published": "1782428410",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/039541f7340c8a9cd2e988c3b18289c412be52d4.png\"][/img][/p][p]In anticipation of the v1.0 official launch on July 10, [b]Palworld[/b] is now available at its biggest [b]30% OFF [/b]discount! There has never been a better time to jump in.[/p][p][/p][p]Don't miss out on discounts across the Pocketpair lineup, including the pirate survival craft Windrose, Craftop",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Super Survival Summer Bundle!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165550341",
-    "author": "pocketpair_dev",
-    "published": "1782406854",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/977130e35350491ba8df2ad20c9803384958b108.png\"][/img][/p][p]Summer is here![/p][p]The Super Survival Summer Bundle is available starting TODAY, featuring an incredible 25% discount across the board![/p][p]This is a massive, limited-time collaboration bundle bringing together 10 differnt survival and crafting experiences on Steam.[/p][p]Whether you want to ca",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld × Windrose Steam Bundle is Out Now!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165547286",
-    "author": "pocketpair_dev",
-    "published": "1782342046",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/7b167fa1a5bfb9ca0107f5f6faa262231a3d55dc.png\"][/img][/p][p]We are thrilled to announce that the Palworld × Windrose Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft games at a [b]10% OFF[/b] discount![/p][p]If you already own Palworld, you can still use this bundle to purchase Windrose at the di",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld × LumenTale Steam Bundle Available Now !",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199309182",
-    "author": "pocketpair_dev",
-    "published": "1781955878",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/0a8f2a609b4a82bb3ec93faf0c0fa1a6b7484e53.png\"][/img][/p][p]Palworld and the monster-collecting RPG LumenTale: Memories of Trey Steam Bundle is out now! [/p][p]Grab this special offer to get both titles at a 10% OFF discount.[/p][p][/p][p]We're big fans of cool and cute creatures, and the Animon in LumenTale are no exception! If you enjoy Palworld, then we d",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld studio says 'gamers don't want' AI in their games: 'It feels like everyone who is super gung-ho about it isn't from the industry'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1835871199307597",
-    "author": "Justin Wagner",
-    "published": "1781884476",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/9BJtDMEsKfVyjMRqWLBBjA-1280-80.jpg\"/><br><br>\n                It's been a big moment for AI disclosures. Games with such labels <a href=\"https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/\">have been flooding Steam</a> as of late, and whenever the parade of summe",
     "source": "Steam News API"
   }
 ]
