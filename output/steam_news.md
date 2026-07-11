@@ -96,11 +96,35 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img] Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.  After losing the op…
 
+- **How to get hardwood in Palworld**  
+  发布: 1783720654  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055358137  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/bHLPoDUwN3XqNSwim54WUg-1280-80.jpg"/><br><br>                 The Palworld 1.0 update sure is a big one, and with all of the new pals, weapons, and zones to track it's easy to miss the little things—like new resources for crafting. As I…
+
+- **Palworld revises some of its most egregious creature designs for its 1.0 release**  
+  发布: 1783713198  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055357906  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/jE3wCZ5Y4ixdHP737edxrS-1280-80.jpg"/><br><br>                 Today, Palworld left early access with a massive 1.0 patch that brought an avalanche of changes and has drawn <a href="https://steamdb.info/app/1623730/charts/" target="_blan…
+
+- **Palworld 1.0 is here with lots of new content**  
+  发布: 1783673106  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055356137  
+  摘要: While developer Pocketpair are still fighting off Nintendo, they've pushed out a huge upgrade for Palworld to bring it out of Early Access for the 1.0.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/957875941id29362gol.webp" alt /></p><p>Read the full a…
+
 - **Palworld v1.0 - Official Release Changelog**  
   发布: 1783652950  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658  
   摘要: [h1][b]Palworld 1.0 - Changelog[/b][/h1][p][img src="{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png"][/img][/p][previewyoutube="1fpGg9wNM9A;full"][/previewyoutube][p]Pal Tamers, the time has come.[/p][p]Today, Palworld exits early access. Palworld 1.0 is…
+
+- **After years of Nintendo lawsuits and many millions of sales, Pokémon baiter Palworld is out in 1.0 today**  
+  发布: 1783652400  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1837955055355693  
+  摘要: <img src="https://assetsio.gnwcdn.com/Palwrodl.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Creature-catching game <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> - the cheerfully macabre survival game that came out of nowhere in 2024 and has sold 4…
 
 - **Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'**  
   发布: 1783621410  
@@ -108,38 +132,14 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584329  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/pqaMAMqJoEsFDjJ9EobqG5-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/palworld/page/9/" target="_blank">Palworld</a>After two-and-a-half years of early access, <a href="https://www.pcgamer.com/palworld/page/9/">…
 
+- **Palworld PSA: you might want to uninstall your mods if you've not played in a while ahead of its 1.0 launch**  
+  发布: 1783614600  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165584200  
+  摘要: <img src="https://assetsio.gnwcdn.com/palworld-mod-psa.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Well, would you look at that. <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> is launching into 1.0 tomorrow! Somehow an entire two years and then s…
+
 - **Palworld won't raise its price for 1.0 as 'a small way of saying thank you'**  
   发布: 1783612086  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165583827  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/pMwe89CAykJMFJyYrfJjmS-1280-80.jpg"/><br><br>                 We're just a day away from <a href="https://www.pcgamer.com/uk/palworld/">Palworld's</a> much anticipated 1.0 release, and to celebrate Pocketpair both released all <a href="…
-
-- **Palworld 1.0 Official Launch Trailer is OUT!**  
-  发布: 1783602127  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583337  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png"][/img][/p][p]It's almost here! Palworld will officially enter 1.0 on July 10, 2026. Our new launch trailer is packed with exciting highlights, offering a glimpse of brand-new Pals, uncharted re…
-
-- **Palworld dev delivers "important" 1.0 mod warning - just turning them off "is not enough"**  
-  发布: 1783592042  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165583020  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-1-0-mods-warning-delete-and-remove-dont-just-uninstall-pocketpair-creature-survival-game.jpg"/><p>As the Palworld 1.0 launch arrives, developer Pocketpair says you need to manua…
-
-- **Important: About MODs and 1.0!**  
-  发布: 1783558844  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165582004  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/8055c9ae84c1094001811fa9572d067af5dbbdeb.png"][/img][/p][p]Palworld and Pocketpair support modding, and we're grateful to all our fans who have dedicated time into modding the game up now. We look forward to seeing all the amazing MODs tha…
-
-- **Palworld Surpasses 40 Million Players!**  
-  发布: 1783486642  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165579541  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/b2410c860f0bfadb18edb0d03b6e8073ca514184.png"][/img][/p][h1][b]40 million players have now played Palworld![/b][/h1][p]Over the last 2.5 years, Palworld has grown alongside our community.[/p][p]Thank you all so much for your incredible sup…
-
-- **Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead**  
-  发布: 1782585914  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165557043  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/Wm5J7zVNWYiJyyAL7pv7wi-1280-80.jpg"/><br><br>                 Palworld just keeps moving. It's postured to more or less shrug off its <a href="https://www.pcgamer.com/games/survival-crafting/nintendos-legal-battle-with-palworld-looks-sh…
