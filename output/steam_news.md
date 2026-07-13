@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img] Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.  After losing the op…
 
+- **Palworld dev celebrates "staggering" Steam response to 1.0, proving lightning can strike twice**  
+  发布: 1783868346  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055361413  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-1-0-launch-player-count-steam-pocketpair-survival-game-open-world-creature-collecting-sandbox.jpg"/><p>The Palworld player count on Steam for its 1.0 update is nearing a million…
+
 - **How to get hardwood in Palworld**  
   发布: 1783720654  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165584200  
   摘要: <img src="https://assetsio.gnwcdn.com/palworld-mod-psa.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Well, would you look at that. <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> is launching into 1.0 tomorrow! Somehow an entire two years and then s…
-
-- **Palworld won't raise its price for 1.0 as 'a small way of saying thank you'**  
-  发布: 1783612086  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165583827  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/pMwe89CAykJMFJyYrfJjmS-1280-80.jpg"/><br><br>                 We're just a day away from <a href="https://www.pcgamer.com/uk/palworld/">Palworld's</a> much anticipated 1.0 release, and to celebrate Pocketpair both released all <a href="…
