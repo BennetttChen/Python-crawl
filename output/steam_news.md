@@ -96,6 +96,24 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024  
   摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img] Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.  After losing the op…
 
+- **Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious**  
+  发布: 1783973382  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055364390  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg"/><br><br>                 If Palworld's 1.0 launch has brought you back for a fresh round of legally distinct Pokemon—as it's done for <a href="https://www.pcgamer.com/games/survival-crafting/palworld…
+
+- **Palworld pulled in almost 900,000 players over the weekend, its second-highest peak ever**  
+  发布: 1783945301  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363329  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/mKK9z8qawuJGR3gfS33Znj-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/">Palworld</a> recently celebrated <a href="https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egr…
+
+- **How to get Panthalus in Palworld**  
+  发布: 1783940718  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363158  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/KGMKT6dKFDBH8wHD38Y8MT-1280-80.jpg"/><br><br>                 Catching <strong>Panthalus</strong> isn't something you'll be able to do early on in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a>. As with most ot…
+
 - **Palworld dev celebrates "staggering" Steam response to 1.0, proving lightning can strike twice**  
   发布: 1783868346  
   来源: Steam News API  
@@ -125,21 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658  
   摘要: [h1][b]Palworld 1.0 - Changelog[/b][/h1][p][img src="{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png"][/img][/p][previewyoutube="1fpGg9wNM9A;full"][/previewyoutube][p]Pal Tamers, the time has come.[/p][p]Today, Palworld exits early access. Palworld 1.0 is…
-
-- **After years of Nintendo lawsuits and many millions of sales, Pokémon baiter Palworld is out in 1.0 today**  
-  发布: 1783652400  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1837955055355693  
-  摘要: <img src="https://assetsio.gnwcdn.com/Palwrodl.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>Creature-catching game <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> - the cheerfully macabre survival game that came out of nowhere in 2024 and has sold 4…
-
-- **Palworld studio says delete your old mods before the 1.0 release: 'Disabling them is not enough'**  
-  发布: 1783621410  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165584329  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/pqaMAMqJoEsFDjJ9EobqG5-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/palworld/page/9/" target="_blank">Palworld</a>After two-and-a-half years of early access, <a href="https://www.pcgamer.com/palworld/page/9/">…
-
-- **Palworld PSA: you might want to uninstall your mods if you've not played in a while ahead of its 1.0 launch**  
-  发布: 1783614600  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1836506165584200  
-  摘要: <img src="https://assetsio.gnwcdn.com/palworld-mod-psa.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p> Well, would you look at that. <a href="https://www.rockpapershotgun.com/games/palworld">Palworld</a> is launching into 1.0 tomorrow! Somehow an entire two years and then s…
