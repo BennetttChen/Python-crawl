@@ -49,6 +49,12 @@
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
 - **Counter-Strike 2 Update**  
+  发布: 1784076120  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903  
+  摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the…
+
+- **Counter-Strike 2 Update**  
   发布: 1783633576  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645  
@@ -90,11 +96,41 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135  
   摘要: [p]\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of th…
 
-- **The IEM Cologne 2026 Grand Finals**  
-  发布: 1781988714  
+- **How to get Nightstar Sand in Palworld**  
+  发布: 1784078798  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024  
-  摘要: [img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img] Following one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.  After losing the op…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329252981  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/6SrSxt3P3j7wgb6A7YED3Q-1280-80.jpg"/><br><br>                 I was hoping to find a vendor selling <strong>Nightstar Sand</strong> after starting a new save for the <a href="https://www.pcgamer.com/palworld/">Palworld</a> 1.0 release, …
+
+- **The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens**  
+  发布: 1784064917  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055367140  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/wQFMzuogCvTeCWWXMcE4PW-1280-80.jpg"/><br><br>                 Between playing with friends and maintaining my own save file, I've spent far too much time scouting the<strong> best base locations in </strong><a href="https://www.pcgamer.…
+
+- **Where to find hardwood in Palworld**  
+  发布: 1784043616  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-hardwood-feat.jpg"/><p>This mid-game ingredient is vital for base upgrades and making sure your equipment is up to scratch; here's how to find hardwood in Palworld.</p> <p>Read …
+
+- **How to get Ancient Bone in Palworld**  
+  发布: 1784040605  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366355  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/QkD6yVgSZ7z2uGFnXtUasT-1280-80.jpg"/><br><br>                 Finding <strong>Ancient Bone</strong> in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> is rather tricky if you haven't clocked that each of the thr…
+
+- **How to get Cryogenic Coolant in Palworld**  
+  发布: 1784026243  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055365775  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/oL5XJjmsGnWJLZ2gPzNgPo-1280-80.jpg"/><br><br>                 cquiring <strong>Cryogenic Coolant</strong> in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> lets you craft a bunch of different items, from a sadd…
+
+- **Steam Global Top Sellers for week of 7 Jul — 14 July 2026**  
+  发布: 1784019600  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147  
+  摘要: <a href="https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W29.png"></a><ol><li><a href="https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
 
 - **Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious**  
   发布: 1783973382  
@@ -107,39 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363329  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/mKK9z8qawuJGR3gfS33Znj-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/">Palworld</a> recently celebrated <a href="https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egr…
-
-- **How to get Panthalus in Palworld**  
-  发布: 1783940718  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363158  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/KGMKT6dKFDBH8wHD38Y8MT-1280-80.jpg"/><br><br>                 Catching <strong>Panthalus</strong> isn't something you'll be able to do early on in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a>. As with most ot…
-
-- **Palworld dev celebrates "staggering" Steam response to 1.0, proving lightning can strike twice**  
-  发布: 1783868346  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055361413  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-1-0-launch-player-count-steam-pocketpair-survival-game-open-world-creature-collecting-sandbox.jpg"/><p>The Palworld player count on Steam for its 1.0 update is nearing a million…
-
-- **How to get hardwood in Palworld**  
-  发布: 1783720654  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055358137  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/bHLPoDUwN3XqNSwim54WUg-1280-80.jpg"/><br><br>                 The Palworld 1.0 update sure is a big one, and with all of the new pals, weapons, and zones to track it's easy to miss the little things—like new resources for crafting. As I…
-
-- **Palworld revises some of its most egregious creature designs for its 1.0 release**  
-  发布: 1783713198  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055357906  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/jE3wCZ5Y4ixdHP737edxrS-1280-80.jpg"/><br><br>                 Today, Palworld left early access with a massive 1.0 patch that brought an avalanche of changes and has drawn <a href="https://steamdb.info/app/1623730/charts/" target="_blan…
-
-- **Palworld 1.0 is here with lots of new content**  
-  发布: 1783673106  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055356137  
-  摘要: While developer Pocketpair are still fighting off Nintendo, they've pushed out a huge upgrade for Palworld to bring it out of Early Access for the 1.0.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/957875941id29362gol.webp" alt /></p><p>Read the full a…
-
-- **Palworld v1.0 - Official Release Changelog**  
-  发布: 1783652950  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658  
-  摘要: [h1][b]Palworld 1.0 - Changelog[/b][/h1][p][img src="{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png"][/img][/p][previewyoutube="1fpGg9wNM9A;full"][/previewyoutube][p]Pal Tamers, the time has come.[/p][p]Today, Palworld exits early access. Palworld 1.0 is…

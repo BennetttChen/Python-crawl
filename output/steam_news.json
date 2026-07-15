@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
+    "author": "mcjohn",
+    "published": "1784076120",
+    "summary": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
     "author": "jo",
     "published": "1783633576",
@@ -135,12 +144,57 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "The IEM Cologne 2026 Grand Finals",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024",
-    "author": "COMPLEX",
-    "published": "1781988714",
-    "summary": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\nFollowing one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.\n\nAfter losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and",
+    "appid": 1623730,
+    "title": "How to get Nightstar Sand in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329252981",
+    "author": "Andrea Shearon",
+    "published": "1784078798",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/6SrSxt3P3j7wgb6A7YED3Q-1280-80.jpg\"/><br><br>\n                I was hoping to find a vendor selling <strong>Nightstar Sand</strong> after starting a new save for the <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a> 1.0 release, but it seems the mid-game crafting ingredient is still only available through good ol' fashioned gathering. You'll have ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055367140",
+    "author": "Andrea Shearon",
+    "published": "1784064917",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/wQFMzuogCvTeCWWXMcE4PW-1280-80.jpg\"/><br><br>\n                Between playing with friends and maintaining my own save file, I've spent far too much time scouting the<strong> best base locations in </strong><a href=\"https://www.pcgamer.com/palworld/\"><strong>Palworld</strong></a><strong> </strong>1.0. I'm practically a Palpagos real estate agent now, and",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Where to find hardwood in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537",
+    "author": "editor@pcgamesn.com",
+    "published": "1784043616",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-hardwood-feat.jpg\"/><p>This mid-game ingredient is vital for base upgrades and making sure your equipment is up to scratch; here's how to find hardwood in Palworld.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/hardwood\">Where to find hardwood in Palworld</a><",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "How to get Ancient Bone in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366355",
+    "author": "Sean Martin",
+    "published": "1784040605",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/QkD6yVgSZ7z2uGFnXtUasT-1280-80.jpg\"/><br><br>\n                Finding <strong>Ancient Bone</strong> in <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> is rather tricky if you haven't clocked that each of the three ancient materials come from the wildlife sanctuaries dotted around the islands. These areas are easy to recognise bec",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "How to get Cryogenic Coolant in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055365775",
+    "author": "Sean Martin",
+    "published": "1784026243",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/oL5XJjmsGnWJLZ2gPzNgPo-1280-80.jpg\"/><br><br>\n                cquiring <strong>Cryogenic Coolant</strong> in <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> lets you craft a bunch of different items, from a saddle for Jormuntide, to more advanced coolers, to the refined cold resistant metal armour. Chances are at some stage you'l",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
+    "author": "SteamDB",
+    "published": "1784019600",
+    "summary": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W29.png\"></a><ol><li><a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Assassin's Creed Black Flag Resynced</a></li><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm",
     "source": "Steam News API"
   },
   {
@@ -159,60 +213,6 @@
     "author": "Elie Gould",
     "published": "1783945301",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/mKK9z8qawuJGR3gfS33Znj-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/uk/palworld/\">Palworld</a> recently celebrated <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egregious-creature-designs-for-its-1-0-release/\">its launch into 1.0</a> and out of early access with <a href=\"https://www.",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "How to get Panthalus in Palworld",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363158",
-    "author": "Sean Martin",
-    "published": "1783940718",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/KGMKT6dKFDBH8wHD38Y8MT-1280-80.jpg\"/><br><br>\n                Catching <strong>Panthalus</strong> isn't something you'll be able to do early on in <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a>. As with most other legendary pals, this newly-added giant whale is a tricky fight, and what's more, you'll have to complete a quest bef",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld dev celebrates \"staggering\" Steam response to 1.0, proving lightning can strike twice",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055361413",
-    "author": "editor@pcgamesn.com",
-    "published": "1783868346",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-1-0-launch-player-count-steam-pocketpair-survival-game-open-world-creature-collecting-sandbox.jpg\"/><p>The Palworld player count on Steam for its 1.0 update is nearing a million concurrents for the second time since it arrived in early access.</p>\n<p>Read the full story on PCGamesN: <a href=\"http",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "How to get hardwood in Palworld",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055358137",
-    "author": "Andrea Shearon",
-    "published": "1783720654",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/bHLPoDUwN3XqNSwim54WUg-1280-80.jpg\"/><br><br>\n                The Palworld 1.0 update sure is a big one, and with all of the new pals, weapons, and zones to track it's easy to miss the little things—like new resources for crafting. As I climbed the revamped tech tree again, I breezed through most recipes until I ran into hardwood. It's a new tier of the ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld revises some of its most egregious creature designs for its 1.0 release",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055357906",
-    "author": "Lincoln Carpenter",
-    "published": "1783713198",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/jE3wCZ5Y4ixdHP737edxrS-1280-80.jpg\"/><br><br>\n                Today, Palworld left early access with a massive 1.0 patch that brought an avalanche of changes and has drawn <a href=\"https://steamdb.info/app/1623730/charts/\" target=\"_blank\">hundreds of thousands of new and returning players</a> with the seductive allure of making creatures work in conditio",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld 1.0 is here with lots of new content",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1837955055356137",
-    "author": "",
-    "published": "1783673106",
-    "summary": "While developer Pocketpair are still fighting off Nintendo, they've pushed out a huge upgrade for Palworld to bring it out of Early Access for the 1.0.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/957875941id29362gol.webp\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/07/palworld-1-0-is-here-with-lots-of-new-content/</p>",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld v1.0 - Official Release Changelog",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055355658",
-    "author": "pocketpair_dev",
-    "published": "1783652950",
-    "summary": "[h1][b]Palworld 1.0 - Changelog[/b][/h1][p][img src=\"{STEAM_CLAN_IMAGE}/40671762/0d13d928bdf7c67c58331f47d5176d44a35373b5.png\"][/img][/p][previewyoutube=\"1fpGg9wNM9A;full\"][/previewyoutube][p]Pal Tamers, the time has come.[/p][p]Today, Palworld exits early access. Palworld 1.0 is here![/p][p][/p][p]Sunreach, a mysterious new island floating in the sky…The World Tree, the heart of the Palworld stor",
     "source": "Steam News API"
   }
 ]
