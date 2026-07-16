@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135  
   摘要: [p]\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of th…
 
+- **Where to find Ancient Bark in Palworld**  
+  发布: 1784115574  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254075  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/ancient-bark-palworld-feat.jpg"/><p>This ultra-rare resource is used for speciality equipment and base items; here's the best place to get Ancient Bark in Palworld.</p> <p>Read the full …
+
+- **v1.0.1: Bug fixes**  
+  发布: 1784092663  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253279  
+  摘要: [p]Palworld version v1.0.1 has been released![/p][p]＝＝＝[/p][p]・Fixed an issue where save data could be unintentionally discarded after certain operations.[/p][p]・Fixed an issue where the burning status could continue after touching a campfire.[/p][p]＝＝＝[/p][p]Thank you for your c…
+
 - **How to get Nightstar Sand in Palworld**  
   发布: 1784078798  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147  
   摘要: <a href="https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W29.png"></a><ol><li><a href="https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
-
-- **Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious**  
-  发布: 1783973382  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055364390  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg"/><br><br>                 If Palworld's 1.0 launch has brought you back for a fresh round of legally distinct Pokemon—as it's done for <a href="https://www.pcgamer.com/games/survival-crafting/palworld…
-
-- **Palworld pulled in almost 900,000 players over the weekend, its second-highest peak ever**  
-  发布: 1783945301  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363329  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/mKK9z8qawuJGR3gfS33Znj-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/">Palworld</a> recently celebrated <a href="https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egr…

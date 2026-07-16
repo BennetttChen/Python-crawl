@@ -145,6 +145,24 @@
   },
   {
     "appid": 1623730,
+    "title": "Where to find Ancient Bark in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254075",
+    "author": "editor@pcgamesn.com",
+    "published": "1784115574",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/ancient-bark-palworld-feat.jpg\"/><p>This ultra-rare resource is used for speciality equipment and base items; here's the best place to get Ancient Bark in Palworld.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/ancient-bark\">Where to find Ancient Bark in Palworld</a></",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "v1.0.1: Bug fixes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253279",
+    "author": "pocketpair_dev",
+    "published": "1784092663",
+    "summary": "[p]Palworld version v1.0.1 has been released![/p][p]＝＝＝[/p][p]・Fixed an issue where save data could be unintentionally discarded after certain operations.[/p][p]・Fixed an issue where the burning status could continue after touching a campfire.[/p][p]＝＝＝[/p][p]Thank you for your continued support of Palworld.[/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "How to get Nightstar Sand in Palworld",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329252981",
     "author": "Andrea Shearon",
@@ -195,24 +213,6 @@
     "author": "SteamDB",
     "published": "1784019600",
     "summary": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W29.png\"></a><ol><li><a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Assassin's Creed Black Flag Resynced</a></li><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055364390",
-    "author": "Lincoln Carpenter",
-    "published": "1783973382",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg\"/><br><br>\n                If Palworld's 1.0 launch has brought you back for a fresh round of legally distinct Pokemon—as it's done for <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-pulled-in-almost-900-000-players-over-the-weekend-its-second-highest-peak-ever/\">millions of other players</a>—you're g",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld pulled in almost 900,000 players over the weekend, its second-highest peak ever",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055363329",
-    "author": "Elie Gould",
-    "published": "1783945301",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/mKK9z8qawuJGR3gfS33Znj-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/uk/palworld/\">Palworld</a> recently celebrated <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egregious-creature-designs-for-its-1-0-release/\">its launch into 1.0</a> and out of early access with <a href=\"https://www.",
     "source": "Steam News API"
   }
 ]
