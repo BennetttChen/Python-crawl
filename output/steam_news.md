@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
+- **Call II Arms-ory**  
+  发布: 1784245194  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098  
+  摘要: Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!  Now that these items are available, we're look…
+
 - **Counter-Strike 2 Update**  
   发布: 1784076120  
   来源: Steam News API  
@@ -90,11 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136  
   摘要: [p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.  Facing the defending Major Champions in th…
 
-- **Counter-Strike 2 Update**  
-  发布: 1782874677  
+- **Where to find Ancient Bone in Palworld**  
+  发布: 1784218259  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135  
-  摘要: [p]\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of th…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257532  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-ancient-bone.jpg"/><p>Ancient Bone is used in a lot of end-game armor in Palworld, but it's pretty difficult to get hold of - here's where to find it.</p> <p>Read the full story…
+
+- **Where to get Ancient Civilization Cores in Palworld**  
+  发布: 1784211191  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257137  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-quivern.jpg"/><p>Ancient Civilization Cores are a key ingredient for many high-level pieces of equipment - here's where to find them in Palworld.</p> <p>Read the full story on P…
 
 - **Where to find Ancient Bark in Palworld**  
   发布: 1784115574  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366355  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/QkD6yVgSZ7z2uGFnXtUasT-1280-80.jpg"/><br><br>                 Finding <strong>Ancient Bone</strong> in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> is rather tricky if you haven't clocked that each of the thr…
-
-- **How to get Cryogenic Coolant in Palworld**  
-  发布: 1784026243  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055365775  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/oL5XJjmsGnWJLZ2gPzNgPo-1280-80.jpg"/><br><br>                 cquiring <strong>Cryogenic Coolant</strong> in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> lets you craft a bunch of different items, from a sadd…
-
-- **Steam Global Top Sellers for week of 7 Jul — 14 July 2026**  
-  发布: 1784019600  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147  
-  摘要: <a href="https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W29.png"></a><ol><li><a href="https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…

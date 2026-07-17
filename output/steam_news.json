@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Call II Arms-ory",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098",
+    "author": "COMPLEX",
+    "published": "1784245194",
+    "summary": "Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!\n\nNow that these items are available, we're looking for new items for one new weapon collection:\n    \n - Fairy Tales\n    \nAnd two new sticker collections:\n\n- Cryptids\n-",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
     "author": "mcjohn",
@@ -135,12 +144,21 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135",
-    "author": "brianlev",
-    "published": "1782874677",
-    "summary": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.[/p][/*][/list]",
+    "appid": 1623730,
+    "title": "Where to find Ancient Bone in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257532",
+    "author": "editor@pcgamesn.com",
+    "published": "1784218259",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-ancient-bone.jpg\"/><p>Ancient Bone is used in a lot of end-game armor in Palworld, but it's pretty difficult to get hold of - here's where to find it.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/ancient-bone\">Where to find Ancient Bone in Palworld</a></p>",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Where to get Ancient Civilization Cores in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257137",
+    "author": "editor@pcgamesn.com",
+    "published": "1784211191",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-quivern.jpg\"/><p>Ancient Civilization Cores are a key ingredient for many high-level pieces of equipment - here's where to find them in Palworld.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/ancient-civilization-cores\">Where to get Ancient Civilization Cores ",
     "source": "Steam News API"
   },
   {
@@ -195,24 +213,6 @@
     "author": "Sean Martin",
     "published": "1784040605",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/QkD6yVgSZ7z2uGFnXtUasT-1280-80.jpg\"/><br><br>\n                Finding <strong>Ancient Bone</strong> in <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> is rather tricky if you haven't clocked that each of the three ancient materials come from the wildlife sanctuaries dotted around the islands. These areas are easy to recognise bec",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "How to get Cryogenic Coolant in Palworld",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055365775",
-    "author": "Sean Martin",
-    "published": "1784026243",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/oL5XJjmsGnWJLZ2gPzNgPo-1280-80.jpg\"/><br><br>\n                cquiring <strong>Cryogenic Coolant</strong> in <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> lets you craft a bunch of different items, from a saddle for Jormuntide, to more advanced coolers, to the refined cold resistant metal armour. Chances are at some stage you'l",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Steam Global Top Sellers for week of 7 Jul — 14 July 2026",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1837955055366147",
-    "author": "SteamDB",
-    "published": "1784019600",
-    "summary": "<a href=\"https://steamdb.info/topsellers/2026W29/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W29.png\"></a><ol><li><a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Assassin's Creed Black Flag Resynced</a></li><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm",
     "source": "Steam News API"
   }
 ]
