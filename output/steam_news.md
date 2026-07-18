@@ -132,7 +132,7 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055367140  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/wQFMzuogCvTeCWWXMcE4PW-1280-80.jpg"/><br><br>                 Between playing with friends and maintaining my own save file, I've spent far too much time scouting the<strong> best base locations in </strong><a href="https://www.pcgamer.…
 
-- **Where to find hardwood in Palworld**  
+- **Best locations to find hardwood in Palworld 1.0**  
   发布: 1784043616  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537  
