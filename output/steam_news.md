@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136  
   摘要: [p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.  Facing the defending Major Champions in th…
 
+- **For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong**  
+  发布: 1784383200  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261997  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/yFJmXCdDGdoUGZ28jS9yuE-1280-80.png"/><br><br>                 Survival games are obsessed with the grind. Need a better axe? You've got to spend an hour collecting stone. Want to build a bigger base? Time to manually ferry hundreds of l…
+
 - **Where to find Ancient Bone in Palworld**  
   发布: 1784218259  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-hardwood-feat.jpg"/><p>This mid-game ingredient is vital for base upgrades and making sure your equipment is up to scratch; here's how to find hardwood in Palworld.</p> <p>Read …
-
-- **How to get Ancient Bone in Palworld**  
-  发布: 1784040605  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055366355  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/QkD6yVgSZ7z2uGFnXtUasT-1280-80.jpg"/><br><br>                 Finding <strong>Ancient Bone</strong> in <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> is rather tricky if you haven't clocked that each of the thr…
