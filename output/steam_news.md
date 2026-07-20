@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136  
   摘要: [p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.  Facing the defending Major Champions in th…
 
+- **Every new Pal in Palworld 1.0 and where to catch them**  
+  发布: 1784449804  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329263271  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/KufqizBwbX9ajMcBZBdMzH-1280-80.jpg"/><br><br>                 The <a href="https://www.pcgamer.com/palworld/">Palworld</a> 1.0 update adds 72 new pals—most of which you can catch, while the remainder at least adds an updated entry to yo…
+
 - **For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong**  
   发布: 1784383200  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055367140  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/wQFMzuogCvTeCWWXMcE4PW-1280-80.jpg"/><br><br>                 Between playing with friends and maintaining my own save file, I've spent far too much time scouting the<strong> best base locations in </strong><a href="https://www.pcgamer.…
-
-- **Best locations to find hardwood in Palworld 1.0**  
-  发布: 1784043616  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1837955055366537  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-hardwood-feat.jpg"/><p>This mid-game ingredient is vital for base upgrades and making sure your equipment is up to scratch; here's how to find hardwood in Palworld.</p> <p>Read …
