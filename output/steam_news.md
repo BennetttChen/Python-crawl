@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
+- **Counter-Strike 2 Update**  
+  发布: 1784589216  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. [/p][/*][/list][p] \[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to…
+
 - **Call II Arms-ory**  
   发布: 1784245194  
   来源: Steam News API  
@@ -90,11 +96,35 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img] Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem. …
 
-- **Team Falcons' Finale**  
-  发布: 1782874684  
+- **Where to find Coralum Ore in Palworld 1.0**  
+  发布: 1784564082  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136  
-  摘要: [p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.  Facing the defending Major Champions in th…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329266093  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-coralum-ore.jpg"/><p>Coralum Ore is used for a ton of late-game items, and finding it isn't as straightforward as most other resources in Palworld 1.0.</p> <p>Read the full stor…
+
+- **Palworld is only growing more powerful, hitting nearly a million concurrents in its second weekend**  
+  发布: 1784560418  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329265785  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/58sALHhSqE4qNsRGnFwg7P-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/" target="_blank">Palworld</a> continues to prove that it's more than a flash-in-the-pan novelty. The survival-crafting romp with…
+
+- **Palworld's official TCG hits 3.5 million pack sales worldwide, and it hasn't even launched yet**  
+  发布: 1784559006  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265751  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-dawn-palpagos-trial-set.jpg"/><p>Palworld's franchise seems like it's no way near slowing down after a successful 3.5 million sales of its card game before it even releases</p> …
+
+- **Where to find Nightstar Sand in Palworld 1.0**  
+  发布: 1784557280  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265752  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/nightstar-sand-palworld.jpg"/><p>Nightstar Sand is needed for several mid-game Palworld items, including the Beam Sword and the Metal Detector; here's how to find it.</p> <p>Read the ful…
+
+- **Where to find Holy Water in Palworld 1.0**  
+  发布: 1784545264  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265275  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-holy-water.jpg"/><p>A true endgame item, you need Holy Water to harvest World Tree resources and build some of the most powerful base items in the game.</p> <p>Read the full sto…
 
 - **Every new Pal in Palworld 1.0 and where to catch them**  
   发布: 1784449804  
@@ -113,33 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257532  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-ancient-bone.jpg"/><p>Ancient Bone is used in a lot of end-game armor in Palworld, but it's pretty difficult to get hold of - here's where to find it.</p> <p>Read the full story…
-
-- **Where to get Ancient Civilization Cores in Palworld**  
-  发布: 1784211191  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257137  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-quivern.jpg"/><p>Ancient Civilization Cores are a key ingredient for many high-level pieces of equipment - here's where to find them in Palworld.</p> <p>Read the full story on P…
-
-- **Where to find Ancient Bark in Palworld**  
-  发布: 1784115574  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329254075  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/ancient-bark-palworld-feat.jpg"/><p>This ultra-rare resource is used for speciality equipment and base items; here's the best place to get Ancient Bark in Palworld.</p> <p>Read the full …
-
-- **v1.0.1: Bug fixes**  
-  发布: 1784092663  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329253279  
-  摘要: [p]Palworld version v1.0.1 has been released![/p][p]＝＝＝[/p][p]・Fixed an issue where save data could be unintentionally discarded after certain operations.[/p][p]・Fixed an issue where the burning status could continue after touching a campfire.[/p][p]＝＝＝[/p][p]Thank you for your c…
-
-- **How to get Nightstar Sand in Palworld**  
-  发布: 1784078798  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329252981  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/6SrSxt3P3j7wgb6A7YED3Q-1280-80.jpg"/><br><br>                 I was hoping to find a vendor selling <strong>Nightstar Sand</strong> after starting a new save for the <a href="https://www.pcgamer.com/palworld/">Palworld</a> 1.0 release, …
-
-- **The best Palworld 1.0 base locations for early game builds, resource-rich farms, or raid safe havens**  
-  发布: 1784064917  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1837955055367140  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/wQFMzuogCvTeCWWXMcE4PW-1280-80.jpg"/><br><br>                 Between playing with friends and maintaining my own save file, I've spent far too much time scouting the<strong> best base locations in </strong><a href="https://www.pcgamer.…
