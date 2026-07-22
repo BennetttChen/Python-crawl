@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img] Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem. …
 
+- **Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever**  
+  发布: 1784658928  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329269747  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/5Z2NXt7smkXxVWDzXCbXgP-1280-80.jpg"/><br><br>                 Palworld, as our <a href="https://www.pcgamer.com/palworld-breeding-guide-combinations/" target="_blank">breeding guide</a> shows, lets you accomplish some wild things by pla…
+
+- **Steam Global Top Sellers for week of 14 Jul — 21 July 2026**  
+  发布: 1784624400  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011  
+  摘要: <a href="https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W30.png"></a><ol><li><a href="https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
+
 - **Where to find Coralum Ore in Palworld 1.0**  
   发布: 1784564082  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329263271  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/KufqizBwbX9ajMcBZBdMzH-1280-80.jpg"/><br><br>                 The <a href="https://www.pcgamer.com/palworld/">Palworld</a> 1.0 update adds 72 new pals—most of which you can catch, while the remainder at least adds an updated entry to yo…
-
-- **For years, survival games have convinced us that chopping down 400 trees is somehow part of the fantasy—Palworld proves them wrong**  
-  发布: 1784383200  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329261997  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/yFJmXCdDGdoUGZ28jS9yuE-1280-80.png"/><br><br>                 Survival games are obsessed with the grind. Need a better axe? You've got to spend an hour collecting stone. Want to build a bigger base? Time to manually ferry hundreds of l…
-
-- **Where to find Ancient Bone in Palworld**  
-  发布: 1784218259  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329257532  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-ancient-bone.jpg"/><p>Ancient Bone is used in a lot of end-game armor in Palworld, but it's pretty difficult to get hold of - here's where to find it.</p> <p>Read the full story…
