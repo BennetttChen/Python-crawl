@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img] Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem. …
 
+- **"Ultra" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads**  
+  发布: 1784715618  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-mod-ultra-graphics.png"/><p>Palworld modder 'Fr4nsson' has uploaded an "Ultra Graphics" mod to Nexus Mods, which adds ray-traced Lumen global illumination to the game.</p> <p>Re…
+
 - **Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever**  
   发布: 1784658928  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265275  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-holy-water.jpg"/><p>A true endgame item, you need Holy Water to harvest World Tree resources and build some of the most powerful base items in the game.</p> <p>Read the full sto…
-
-- **Every new Pal in Palworld 1.0 and where to catch them**  
-  发布: 1784449804  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329263271  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/KufqizBwbX9ajMcBZBdMzH-1280-80.jpg"/><br><br>                 The <a href="https://www.pcgamer.com/palworld/">Palworld</a> 1.0 update adds 72 new pals—most of which you can catch, while the remainder at least adds an updated entry to yo…

@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "\"Ultra\" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795",
+    "author": "editor@pcgamesn.com",
+    "published": "1784715618",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-mod-ultra-graphics.png\"/><p>Palworld modder 'Fr4nsson' has uploaded an \"Ultra Graphics\" mod to Nexus Mods, which adds ray-traced Lumen global illumination to the game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/mod-ultra-graphics\">\"Ultra\" Palworld 1.0 mod a",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329269747",
     "author": "Lincoln Carpenter",
@@ -204,15 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1784545264",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-holy-water.jpg\"/><p>A true endgame item, you need Holy Water to harvest World Tree resources and build some of the most powerful base items in the game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/holy-water\">Where to find Holy Water in Palworld 1.0</a></p>",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Every new Pal in Palworld 1.0 and where to catch them",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329263271",
-    "author": "Andrea Shearon",
-    "published": "1784449804",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/KufqizBwbX9ajMcBZBdMzH-1280-80.jpg\"/><br><br>\n                The <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a> 1.0 update adds 72 new pals—most of which you can catch, while the remainder at least adds an updated entry to your Palpedia. That's a big undertaking with the expanded Palpagos map and the new World Tree region to explore, and refer",
     "source": "Steam News API"
   }
 ]
