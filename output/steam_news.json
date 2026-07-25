@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "The best Palworld 1.0 pals for running your base like a well-oiled machine",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357028726",
+    "author": "Andrea Shearon",
+    "published": "1784876410",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/LpNmoPLE7KvP2z3YThXEQi-1280-80.jpg\"/><br><br>\n                We all have our favorites, but my strategy of 'use the cutest little guys' doesn't guarantee I've always got the best <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a> pals in 1.0. After my adventures in early access, I think I've learned my lesson, and finally have some <em>actual </em",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "\"Ultra\" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795",
     "author": "editor@pcgamesn.com",
@@ -204,15 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1784557280",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/nightstar-sand-palworld.jpg\"/><p>Nightstar Sand is needed for several mid-game Palworld items, including the Beam Sword and the Metal Detector; here's how to find it.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/nightstar-sand\">Where to find Nightstar Sand in Palworld",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Where to find Holy Water in Palworld 1.0",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265275",
-    "author": "editor@pcgamesn.com",
-    "published": "1784545264",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-holy-water.jpg\"/><p>A true endgame item, you need Holy Water to harvest World Tree resources and build some of the most powerful base items in the game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/holy-water\">Where to find Holy Water in Palworld 1.0</a></p>",
     "source": "Steam News API"
   }
 ]
