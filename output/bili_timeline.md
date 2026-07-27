@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **万古至尊：李云霄传**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss119017  
-  摘要: 09:00
-
-- **奔跑的木头**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss235975  
-  摘要: 12:00
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +107,15 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss263605  
   摘要: 10:00
+
+- **小P优优 第二季 中文配音**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss264856  
+  摘要: 11:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
