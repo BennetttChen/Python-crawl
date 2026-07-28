@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **盗妖行**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss148433  
-  摘要: 09:00
-
-- **气运世界杯，我能复制所有球星技能**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss263605  
-  摘要: 10:00
-
-- **百日成王**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss118920  
-  摘要: 12:00
-
 - **苏东坡与杭州的故事**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss33378  
   摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **搜神记**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss262354  
+  摘要: 09:00
+
+- **假面骑士ZZZ**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss109700  
+  摘要: 10:00
