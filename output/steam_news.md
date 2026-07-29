@@ -49,6 +49,18 @@
   摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
 - **Counter-Strike 2 Update**  
+  发布: 1785285504  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227  
+  摘要: [p]\[ COLOGNE 2026 MAJOR ][/p][list][*][p]The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.[/p][/*][*][p]Items in the the Cologne 2026 Shop will be available for purchase until September 29th.…
+
+- **Cologne 2026: Ranked Series**  
+  发布: 1785285490  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881226  
+  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png[/img]  Today we're shipping the Ranked Series of Cologne 2026 Major stickers--new stickers that indicate a team's final standing in the design. As with all items in the Cologne 20…
+
+- **Counter-Strike 2 Update**  
   发布: 1784589216  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700  
@@ -84,17 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825  
   摘要: [h3]Reporting for Active Duty[/h3]  [img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img] Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through…
 
-- **Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again**  
-  发布: 1783183401  
+- **v1.0.2: Bug fixes**  
+  发布: 1785294504  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1836506165572678  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg"/><br><br>                 nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it ha…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423  
+  摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.2 has been released! [/p][p]This update includes improvements to gameplay stability and fixes for various issues.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Crashes and Disconnections[/p][p]・Fixed an issue where all players could be disconnecte…
 
-- **The Jackass Sticker Capsule**  
-  发布: 1783108086  
+- **Steam Global Top Sellers for week of 21 Jul — 28 July 2026**  
+  发布: 1785229200  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571358  
-  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png[/img] Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem. …
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839041357038321  
+  摘要: <a href="https://steamdb.info/topsellers/2026W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W31.png"></a><ol><li><a href="https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
 
 - **The best Palworld 1.0 pals for running your base like a well-oiled machine**  
   发布: 1784876410  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329265785  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/58sALHhSqE4qNsRGnFwg7P-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/" target="_blank">Palworld</a> continues to prove that it's more than a flash-in-the-pan novelty. The survival-crafting romp with…
-
-- **Palworld's official TCG hits 3.5 million pack sales worldwide, and it hasn't even launched yet**  
-  发布: 1784559006  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265751  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-dawn-palpagos-trial-set.jpg"/><p>Palworld's franchise seems like it's no way near slowing down after a successful 3.5 million sales of its card game before it even releases</p> …
-
-- **Where to find Nightstar Sand in Palworld 1.0**  
-  发布: 1784557280  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329265752  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/nightstar-sand-palworld.jpg"/><p>Nightstar Sand is needed for several mid-game Palworld items, including the Beam Sword and the Metal Detector; here's how to find it.</p> <p>Read the ful…
