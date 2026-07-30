@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825  
   摘要: [h3]Reporting for Active Duty[/h3]  [img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img] Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through…
 
+- **Mod Support Improvement**  
+  发布: 1785380721  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093  
+  摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.2.100993 has been released! [/p][p]＝＝＝ [/p][p]・Made adjustments related to processing in order to improve stability when playing with MODs.[/p][p]Note: This patch is applied to the PC version only, but will not negatively affect cros…
+
+- **Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything**  
+  发布: 1785355457  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055883473  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/8KTnaYeNbTuQMaeg8psjbU-1280-80.jpg"/><br><br>                 While its 1.0 launch has delivered impressive and continued success to the tune of <a href="https://alineaanalytics.substack.com/p/palworld-10-pushes-the-hit-over-30m" target…
+
 - **v1.0.2: Bug fixes**  
   发布: 1785294504  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011  
   摘要: <a href="https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W30.png"></a><ol><li><a href="https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
-
-- **Where to find Coralum Ore in Palworld 1.0**  
-  发布: 1784564082  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329266093  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-coralum-ore.jpg"/><p>Coralum Ore is used for a ton of late-game items, and finding it isn't as straightforward as most other resources in Palworld 1.0.</p> <p>Read the full stor…
-
-- **Palworld is only growing more powerful, hitting nearly a million concurrents in its second weekend**  
-  发布: 1784560418  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329265785  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/58sALHhSqE4qNsRGnFwg7P-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/uk/palworld/" target="_blank">Palworld</a> continues to prove that it's more than a flash-in-the-pan novelty. The survival-crafting romp with…

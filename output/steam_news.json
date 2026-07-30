@@ -145,6 +145,24 @@
   },
   {
     "appid": 1623730,
+    "title": "Mod Support Improvement",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093",
+    "author": "pocketpair_dev",
+    "published": "1785380721",
+    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.2.100993 has been released! [/p][p]＝＝＝ [/p][p]・Made adjustments related to processing in order to improve stability when playing with MODs.[/p][p]Note: This patch is applied to the PC version only, but will not negatively affect crossplay with other versions of the game.[/p][p]＝＝＝[/p][p]Thank you for your continued support of Palworld.[/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055883473",
+    "author": "Lincoln Carpenter",
+    "published": "1785355457",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/8KTnaYeNbTuQMaeg8psjbU-1280-80.jpg\"/><br><br>\n                While its 1.0 launch has delivered impressive and continued success to the tune of <a href=\"https://alineaanalytics.substack.com/p/palworld-10-pushes-the-hit-over-30m\" target=\"_blank\">a few million additional players</a>, Palworld is still a bit squirrelly—particularly when it comes to bosses,",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "v1.0.2: Bug fixes",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423",
     "author": "pocketpair_dev",
@@ -195,24 +213,6 @@
     "author": "SteamDB",
     "published": "1784624400",
     "summary": "<a href=\"https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W30.png\"></a><ol><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Palworld</a></li><li><a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=S",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Where to find Coralum Ore in Palworld 1.0",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1838407329266093",
-    "author": "editor@pcgamesn.com",
-    "published": "1784564082",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-coralum-ore.jpg\"/><p>Coralum Ore is used for a ton of late-game items, and finding it isn't as straightforward as most other resources in Palworld 1.0.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/coralum-ore\">Where to find Coralum Ore in Palworld 1.0</a></p>",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld is only growing more powerful, hitting nearly a million concurrents in its second weekend",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329265785",
-    "author": "Fraser Brown",
-    "published": "1784560418",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/58sALHhSqE4qNsRGnFwg7P-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/uk/palworld/\" target=\"_blank\">Palworld</a> continues to prove that it's more than a flash-in-the-pan novelty. The survival-crafting romp with legally distinct pokémon just had its second weekend since it hit 1.0, following a couple of years in early access, and",
     "source": "Steam News API"
   }
 ]
