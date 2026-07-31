@@ -1,5 +1,17 @@
 # Steam News
 
+- **Gameplay Patch 7.41e and Summer Scrub**  
+  发布: 1785455895  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
+  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
+
+- **The International: Predictions, Fantasy, and Supporter Bundles**  
+  发布: 1785455868  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886685  
+  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5c825b3d35627bfc4276c013745aa6fd4de935ea.png[/img]  Nearly a year has passed since Team Falcons hoisted the Aegis of Champions as the final team standing in Hamburg. But that was last year's story, and the time has come to turn our thoughts to …
+
 - **Dota 2 Update - 7/1/2026**  
   发布: 1782948361  
   来源: Steam News API  
@@ -35,18 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721190708  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-patch-notes-7-41d-update-axe-sense-of-foreboding-new-hero-tease-event-valve-900x506.jpg"/><p>Fresh Dota 2 patch notes have just dropped, and that means the meta will start to crea…
-
-- **7.41d Gameplay Patch**  
-  发布: 1780620314  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111  
-  摘要: [p]Patch 7.41d is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41d"]here[/url].[/p]  In addition, we've recently addressed the following issues: [list] [*] Fixed Greevils not spawning their equipped effects [*] Fixed Earthshaker's Planetfall…
-
-- **The International 2026 Ticket Sales**  
-  发布: 1779768568  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495  
-  摘要: [img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]  In just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www…
 
 - **Counter-Strike 2 Update**  
   发布: 1785285504  
@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825  
   摘要: [h3]Reporting for Active Duty[/h3]  [img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img] Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through…
 
+- **Why the Palworld OCG is worth picking up at launch**  
+  发布: 1785419376  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055885413  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/1000012149-1-scaled.jpg"/><p>The all-new Palworld Official Card Game shows plenty of promise, with interesting combos and stunning cards galore based on the hit game.</p> <p>Read the ful…
+
+- **v1.0.2.101103:Bug fixes**  
+  发布: 1785413794  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885050  
+  摘要: [p]・Fixed an issue where an infinite loading screen would occur after defeating the World Tree boss in some cases.[/p][p]*Crossplay with other platforms will not be affected.[/p]
+
 - **Mod Support Improvement**  
   发布: 1785380721  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-mod-ultra-graphics.png"/><p>Palworld modder 'Fr4nsson' has uploaded an "Ultra Graphics" mod to Nexus Mods, which adds ray-traced Lumen global illumination to the game.</p> <p>Re…
-
-- **Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever**  
-  发布: 1784658928  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329269747  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/5Z2NXt7smkXxVWDzXCbXgP-1280-80.jpg"/><br><br>                 Palworld, as our <a href="https://www.pcgamer.com/palworld-breeding-guide-combinations/" target="_blank">breeding guide</a> shows, lets you accomplish some wild things by pla…
-
-- **Steam Global Top Sellers for week of 14 Jul — 21 July 2026**  
-  发布: 1784624400  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011  
-  摘要: <a href="https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W30.png"></a><ol><li><a href="https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…

@@ -1,6 +1,24 @@
 [
   {
     "appid": 570,
+    "title": "Gameplay Patch 7.41e and Summer Scrub",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
+    "author": "kyled",
+    "published": "1785455895",
+    "summary": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]\n\nThe International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance to prove your skills and win new Immortals and unlock terrains.\n\nBut that's not all. Today we're also releasing [url=ht",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
+    "title": "The International: Predictions, Fantasy, and Supporter Bundles",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886685",
+    "author": "kyled",
+    "published": "1785455868",
+    "summary": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/5c825b3d35627bfc4276c013745aa6fd4de935ea.png[/img]\n\nNearly a year has passed since Team Falcons hoisted the Aegis of Champions as the final team standing in Hamburg. But that was last year's story, and the time has come to turn our thoughts to Shanghai and the crop of competitors who vie to write the tale of [i]this[/i] year. All of their battles have brought th",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Dota 2 Update - 7/1/2026",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626",
     "author": "flynnch",
@@ -51,24 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1780660979",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-patch-notes-7-41d-update-axe-sense-of-foreboding-new-hero-tease-event-valve-900x506.jpg\"/><p>Fresh Dota 2 patch notes have just dropped, and that means the meta will start to creak and shift under the weight of Valve's latest balance adjustments. There are some welcome changes in Dota 2 update 7.41",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "7.41d Gameplay Patch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721189111",
-    "author": "flynnch",
-    "published": "1780620314",
-    "summary": "[p]Patch 7.41d is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.41d\"]here[/url].[/p]\n\nIn addition, we've recently addressed the following issues:\n[list]\n[*] Fixed Greevils not spawning their equipped effects\n[*] Fixed Earthshaker's Planetfall Arcana not tracking combos and combo damage properly\n[*] Fixed right click on Dota Labs Overlay Map not working when \"A",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "The International 2026 Ticket Sales",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318578495",
-    "author": "kyled",
-    "published": "1779768568",
-    "summary": "[img]{STEAM_CLAN_IMAGE}/3703047/882f6398bbe0c283cb33d57a3c18160c5d5a9f00.png[/img]\n\nIn just a few short months, the finest Dota teams in the world will gather in Shanghai to battle for the Aegis of Champions in front of thousands of cheering fans. We've announced [url=https://www.dota2.com/newsentry/655981180194128453]the official team invitations[/url], and now we'd like to extend one to you. If ",
     "source": "Steam News API"
   },
   {
@@ -145,6 +145,24 @@
   },
   {
     "appid": 1623730,
+    "title": "Why the Palworld OCG is worth picking up at launch",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055885413",
+    "author": "editor@pcgamesn.com",
+    "published": "1785419376",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/1000012149-1-scaled.jpg\"/><p>The all-new Palworld Official Card Game shows plenty of promise, with interesting combos and stunning cards galore based on the hit game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/why-the-palworld-ocg-is-worth-picking-up-at-launch\">Why the Palwo",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "v1.0.2.101103:Bug fixes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885050",
+    "author": "pocketpair_dev",
+    "published": "1785413794",
+    "summary": "[p]・Fixed an issue where an infinite loading screen would occur after defeating the World Tree boss in some cases.[/p][p]*Crossplay with other platforms will not be affected.[/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Mod Support Improvement",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093",
     "author": "pocketpair_dev",
@@ -195,24 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1784715618",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-mod-ultra-graphics.png\"/><p>Palworld modder 'Fr4nsson' has uploaded an \"Ultra Graphics\" mod to Nexus Mods, which adds ray-traced Lumen global illumination to the game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/mod-ultra-graphics\">\"Ultra\" Palworld 1.0 mod a",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld players have harnessed the power of selective breeding to create 'infinite bomb' Pals that can blow themselves up, repeatedly, forever",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1838407329269747",
-    "author": "Lincoln Carpenter",
-    "published": "1784658928",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/5Z2NXt7smkXxVWDzXCbXgP-1280-80.jpg\"/><br><br>\n                Palworld, as our <a href=\"https://www.pcgamer.com/palworld-breeding-guide-combinations/\" target=\"_blank\">breeding guide</a> shows, lets you accomplish some wild things by playing matchmaker for your creatures. You can gain early access to late-game Pals, spawn variant subspecies, and—as player",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Steam Global Top Sellers for week of 14 Jul — 21 July 2026",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1838407329269011",
-    "author": "SteamDB",
-    "published": "1784624400",
-    "summary": "<a href=\"https://steamdb.info/topsellers/2026W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W30.png\"></a><ol><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Palworld</a></li><li><a href=\"https://steamdb.info/app/3751950/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=S",
     "source": "Steam News API"
   }
 ]
