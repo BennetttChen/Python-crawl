@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825  
   摘要: [h3]Reporting for Active Duty[/h3]  [img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img] Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through…
 
+- **Palworld 1.0 review: A solid creature collector with a mild identity crisis**  
+  发布: 1785546059  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/SMrGHyDxt2vgD2pB3NMhuP-1280-80.jpg"/><br><br>                 s a child of the '90s-era pocket monster craze, I had what I suspect historians will call Monster-Taming Madness. A not-so-terrible, but sort of annoying affliction that mean…
+
 - **Why the Palworld OCG is worth picking up at launch**  
   发布: 1785419376  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357028726  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/LpNmoPLE7KvP2z3YThXEQi-1280-80.jpg"/><br><br>                 We all have our favorites, but my strategy of 'use the cutest little guys' doesn't guarantee I've always got the best <a href="https://www.pcgamer.com/palworld/">Palworld</a>…
-
-- **"Ultra" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads**  
-  发布: 1784715618  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-mod-ultra-graphics.png"/><p>Palworld modder 'Fr4nsson' has uploaded an "Ultra Graphics" mod to Nexus Mods, which adds ray-traced Lumen global illumination to the game.</p> <p>Re…

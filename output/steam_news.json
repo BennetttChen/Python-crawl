@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld 1.0 review: A solid creature collector with a mild identity crisis",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695",
+    "author": "Andrea Shearon",
+    "published": "1785546059",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/SMrGHyDxt2vgD2pB3NMhuP-1280-80.jpg\"/><br><br>\n                s a child of the '90s-era pocket monster craze, I had what I suspect historians will call Monster-Taming Madness. A not-so-terrible, but sort of annoying affliction that meant I always had a Tamagotchi in my pocket, a handful of Pokémon cards, and the entire Spice Girls discography on standby ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Why the Palworld OCG is worth picking up at launch",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055885413",
     "author": "editor@pcgamesn.com",
@@ -204,15 +213,6 @@
     "author": "Andrea Shearon",
     "published": "1784876410",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/LpNmoPLE7KvP2z3YThXEQi-1280-80.jpg\"/><br><br>\n                We all have our favorites, but my strategy of 'use the cutest little guys' doesn't guarantee I've always got the best <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a> pals in 1.0. After my adventures in early access, I think I've learned my lesson, and finally have some <em>actual </em",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "\"Ultra\" Palworld 1.0 mod adds ray-traced lighting, and it's already got 18,000 downloads",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839041357023795",
-    "author": "editor@pcgamesn.com",
-    "published": "1784715618",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/palworld-mod-ultra-graphics.png\"/><p>Palworld modder 'Fr4nsson' has uploaded an \"Ultra Graphics\" mod to Nexus Mods, which adds ray-traced Lumen global illumination to the game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/mod-ultra-graphics\">\"Ultra\" Palworld 1.0 mod a",
     "source": "Steam News API"
   }
 ]
