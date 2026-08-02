@@ -145,7 +145,16 @@
   },
   {
     "appid": 1623730,
-    "title": "Palworld 1.0 review: A solid creature collector with a mild identity crisis",
+    "title": "Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029",
+    "author": "editor@pcgamesn.com",
+    "published": "1785600798",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/steam-player-counts-palworld-vs-halo-innovation-versus-tradition.jpg\"/><p>Looking at the year's big Steam successes, there's a continuing trend of favoring more ambitious projects on PC over triple-A and remakes.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/steam/innovation-ve",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld 1.0 review",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695",
     "author": "Andrea Shearon",
     "published": "1785546059",
@@ -204,15 +213,6 @@
     "author": "SteamDB",
     "published": "1785229200",
     "summary": "<a href=\"https://steamdb.info/topsellers/2026W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W31.png\"></a><ol><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Palworld</a></li><li><a href=\"https://steamdb.info/app/2806050/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=S",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "The best Palworld 1.0 pals for running your base like a well-oiled machine",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839041357028726",
-    "author": "Andrea Shearon",
-    "published": "1784876410",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/LpNmoPLE7KvP2z3YThXEQi-1280-80.jpg\"/><br><br>\n                We all have our favorites, but my strategy of 'use the cutest little guys' doesn't guarantee I've always got the best <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a> pals in 1.0. After my adventures in early access, I think I've learned my lesson, and finally have some <em>actual </em",
     "source": "Steam News API"
   }
 ]
