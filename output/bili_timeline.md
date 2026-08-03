@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **万古至尊：李云霄传**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss119017  
-  摘要: 09:00
-
-- **奔跑的木头**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss235975  
-  摘要: 12:00
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +107,15 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss264996  
   摘要: 18:00
+
+- **非凡的公主:希拉 中文配音**  
+  发布: 18:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss264997  
+  摘要: 18:00
+
+- **万古至尊：李云霄传**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss119017  
+  摘要: 09:00
