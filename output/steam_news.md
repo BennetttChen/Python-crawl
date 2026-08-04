@@ -49,6 +49,12 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-patch-notes-7-41d-update-axe-sense-of-foreboding-new-hero-tease-event-valve-900x506.jpg"/><p>Fresh Dota 2 patch notes have just dropped, and that means the meta will start to crea…
 
 - **Counter-Strike 2 Update**  
+  发布: 1785791934  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Fixed a case where grenades could be thrown through level geometry[/p][/*][/list][p][/p][p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map[/p][/*][*][p]Fixed collision in various spots across map[/p][/*][*][p]Fixed flickering on some…
+
+- **Counter-Strike 2 Update**  
   发布: 1785285504  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827  
   摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosio…
-
-- **Season 5, Armory, and More**  
-  发布: 1783551043  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581825  
-  摘要: [h3]Reporting for Active Duty[/h3]  [img]https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png[/img] Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through…
 
 - **Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold**  
   发布: 1785600798  
