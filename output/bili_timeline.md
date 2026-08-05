@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **李熊猫**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss262397  
-  摘要: 09:00
-
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
-- **胶囊计划 奇迹**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss118963  
-  摘要: 11:00
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss265985  
   摘要: 10:00
+
+- **布鲁伊迷你剧 第二季 中文配音**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss265987  
+  摘要: 10:00
+
+- **千金归来：我清算了枕边人**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss269798  
+  摘要: 10:00
+
+- **小P优优 第三季 中文配音**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss269209  
+  摘要: 11:00

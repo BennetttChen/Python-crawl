@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Steam Global Top Sellers for week of 28 Jul — 4 August 2026",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393",
+    "author": "SteamDB",
+    "published": "1785834000",
+    "summary": "<a href=\"https://steamdb.info/topsellers/2026W32/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W32.png\"></a><ol><li><a href=\"https://steamdb.info/app/3282300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Mistfall Hunter</a></li><li><a href=\"https://steamdb.info/app/1091500/charts/?utm_source=Steam&utm_medium=Steam&utm_cam",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029",
     "author": "editor@pcgamesn.com",
@@ -204,15 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1785294504",
     "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.2 has been released! [/p][p]This update includes improvements to gameplay stability and fixes for various issues.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Crashes and Disconnections[/p][p]・Fixed an issue where all players could be disconnected during the Panthalus battle on dedicated servers.[/p][p]・Fixed an issue where players could crash during the Panthalus",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Steam Global Top Sellers for week of 21 Jul — 28 July 2026",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839041357038321",
-    "author": "SteamDB",
-    "published": "1785229200",
-    "summary": "<a href=\"https://steamdb.info/topsellers/2026W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W31.png\"></a><ol><li><a href=\"https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Palworld</a></li><li><a href=\"https://steamdb.info/app/2806050/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=S",
     "source": "Steam News API"
   }
 ]

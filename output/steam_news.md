@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827  
   摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosio…
 
+- **Steam Global Top Sellers for week of 28 Jul — 4 August 2026**  
+  发布: 1785834000  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393  
+  摘要: <a href="https://steamdb.info/topsellers/2026W32/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W32.png"></a><ol><li><a href="https://steamdb.info/app/3282300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
+
 - **Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold**  
   发布: 1785600798  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.2 has been released! [/p][p]This update includes improvements to gameplay stability and fixes for various issues.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Crashes and Disconnections[/p][p]・Fixed an issue where all players could be disconnecte…
-
-- **Steam Global Top Sellers for week of 21 Jul — 28 July 2026**  
-  发布: 1785229200  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839041357038321  
-  摘要: <a href="https://steamdb.info/topsellers/2026W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W31.png"></a><ol><li><a href="https://steamdb.info/app/1623730/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
