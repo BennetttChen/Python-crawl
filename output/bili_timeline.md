@@ -1,35 +1,5 @@
 # Bilibili PGC Timeline
 
-- **李熊猫**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss262397  
-  摘要: 09:00
-
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
-- **胶囊计划 奇迹**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss118963  
-  摘要: 11:00
-
-- **奇趣真相 短片 第一季**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss272355  
-  摘要: 11:00
-
-- **奇趣真相 短片 第一季**  
-  发布: 11:09  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss272355  
-  摘要: 11:09
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -47,6 +17,12 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss45962  
   摘要: 11:00
+
+- **霸王龙雷奇之雷奇知多少**  
+  发布: 17:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss270683  
+  摘要: 17:30
 
 - **掌门低调点**  
   发布: 09:00  
@@ -96,6 +72,12 @@
   链接: https://www.bilibili.com/bangumi/play/ss274627  
   摘要: 14:12
 
+- **霸王龙雷奇之雷奇知多少**  
+  发布: 17:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss270683  
+  摘要: 17:30
+
 - **开心锤锤世界**  
   发布: 18:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +100,22 @@
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss252364  
+  摘要: 10:00
+
+- **气运世界杯，我能复制所有球星技能**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss263605  
+  摘要: 10:00
+
+- **小猪佩奇 第十二季 英文版**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss270430  
+  摘要: 10:00
+
+- **小猪佩奇 第十二季 中文配音**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss270433  
   摘要: 10:00

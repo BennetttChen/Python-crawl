@@ -1,5 +1,11 @@
 # Steam News
 
+- **The International: Streams, Secret Shop, and More**  
+  发布: 1786494519  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772671  
+  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/aa83bcaaafe7cd4d11a841ec381ec28ccb039d41.png"][/img]It's the final countdown: Players and talent have landed, and all of the pieces are falling into place to make Shanghai the center of the Dota universe for the next two weeks. It's tim…
+
 - **Gameplay Patch 7.41e and Summer Scrub**  
   发布: 1785455895  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months…
-
-- **A new Dota 2 update buffs Nature's Prophet and Arc Warden, but everyone's talking about a mysterious Axe 'change'**  
-  发布: 1780660979  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721190708  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-patch-notes-7-41d-update-axe-sense-of-foreboding-new-hero-tease-event-valve-900x506.jpg"/><p>Fresh Dota 2 patch notes have just dropped, and that means the meta will start to crea…
 
 - **Counter-Strike 2 Update**  
   发布: 1785791934  
@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827  
   摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosio…
 
+- **v1.0.3: Balance Adjustments & Bug Fixes**  
+  发布: 1786504403  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772872  
+  摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.3 has been released![/p][p][/p][p] ＝＝＝[/p][p][/p][h3]\[Game Balance and System Adjustments][/h3][p][/p][p]▼Items and Equipment ・Changed the unlock level of some Jetragon-related technologies from 79 to 70, and reduced the materials r…
+
+- **Steam Global Top Sellers for week of 4 Aug — 11 August 2026**  
+  发布: 1786438800  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123  
+  摘要: <a href="https://steamdb.info/topsellers/2026W33/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W33.png"></a><ol><li><a href="https://steamdb.info/app/1478500/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
+
 - **Steam Global Top Sellers for week of 28 Jul — 4 August 2026**  
   发布: 1785834000  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.2.100993 has been released! [/p][p]＝＝＝ [/p][p]・Made adjustments related to processing in order to improve stability when playing with MODs.[/p][p]Note: This patch is applied to the PC version only, but will not negatively affect cros…
-
-- **Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything**  
-  发布: 1785355457  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055883473  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/8KTnaYeNbTuQMaeg8psjbU-1280-80.jpg"/><br><br>                 While its 1.0 launch has delivered impressive and continued success to the tune of <a href="https://alineaanalytics.substack.com/p/palworld-10-pushes-the-hit-over-30m" target…
-
-- **v1.0.2: Bug fixes**  
-  发布: 1785294504  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423  
-  摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.2 has been released! [/p][p]This update includes improvements to gameplay stability and fixes for various issues.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Crashes and Disconnections[/p][p]・Fixed an issue where all players could be disconnecte…

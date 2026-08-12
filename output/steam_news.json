@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "The International: Streams, Secret Shop, and More",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772671",
+    "author": "krAnk0r",
+    "published": "1786494519",
+    "summary": "[p][img src=\"{STEAM_CLAN_LOC_IMAGE}/3703047/aa83bcaaafe7cd4d11a841ec381ec28ccb039d41.png\"][/img]It's the final countdown: Players and talent have landed, and all of the pieces are falling into place to make Shanghai the center of the Dota universe for the next two weeks. It's time to finish crafting your fantasy rosters, lock in your first round of predictions, and get ready to tune in because The",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "Gameplay Patch 7.41e and Summer Scrub",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
     "author": "kyled",
@@ -60,15 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1781969455",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg\"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months, with the leading speculation being that Valve is preparing a new, large-scale feature in the vein of 2024's Crownfall.",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "A new Dota 2 update buffs Nature's Prophet and Arc Warden, but everyone's talking about a mysterious Axe 'change'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1834602721190708",
-    "author": "editor@pcgamesn.com",
-    "published": "1780660979",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-patch-notes-7-41d-update-axe-sense-of-foreboding-new-hero-tease-event-valve-900x506.jpg\"/><p>Fresh Dota 2 patch notes have just dropped, and that means the meta will start to creak and shift under the weight of Valve's latest balance adjustments. There are some welcome changes in Dota 2 update 7.41",
     "source": "Steam News API"
   },
   {
@@ -145,6 +145,24 @@
   },
   {
     "appid": 1623730,
+    "title": "v1.0.3: Balance Adjustments & Bug Fixes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772872",
+    "author": "pocketpair_dev",
+    "published": "1786504403",
+    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.3 has been released![/p][p][/p][p]\n＝＝＝[/p][p][/p][h3]\\[Game Balance and System Adjustments][/h3][p][/p][p]▼Items and Equipment\n・Changed the unlock level of some Jetragon-related technologies from 79 to 70, and reduced the materials required for the Pal Gear used to ride Jetragon.[/p][p]・Changed the technology unlock level of the Aquatic Construction K",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Steam Global Top Sellers for week of 4 Aug — 11 August 2026",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123",
+    "author": "SteamDB",
+    "published": "1786438800",
+    "summary": "<a href=\"https://steamdb.info/topsellers/2026W33/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W33.png\"></a><ol><li><a href=\"https://steamdb.info/app/1478500/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Big Walk</a></li><li><a href=\"https://steamdb.info/app/3787240/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=S",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Steam Global Top Sellers for week of 28 Jul — 4 August 2026",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393",
     "author": "SteamDB",
@@ -195,24 +213,6 @@
     "author": "pocketpair_dev",
     "published": "1785380721",
     "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.2.100993 has been released! [/p][p]＝＝＝ [/p][p]・Made adjustments related to processing in order to improve stability when playing with MODs.[/p][p]Note: This patch is applied to the PC version only, but will not negatively affect crossplay with other versions of the game.[/p][p]＝＝＝[/p][p]Thank you for your continued support of Palworld.[/p]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055883473",
-    "author": "Lincoln Carpenter",
-    "published": "1785355457",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/8KTnaYeNbTuQMaeg8psjbU-1280-80.jpg\"/><br><br>\n                While its 1.0 launch has delivered impressive and continued success to the tune of <a href=\"https://alineaanalytics.substack.com/p/palworld-10-pushes-the-hit-over-30m\" target=\"_blank\">a few million additional players</a>, Palworld is still a bit squirrelly—particularly when it comes to bosses,",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v1.0.2: Bug fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881423",
-    "author": "pocketpair_dev",
-    "published": "1785294504",
-    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.2 has been released! [/p][p]This update includes improvements to gameplay stability and fixes for various issues.[/p][p][/p][p]＝＝＝ [/p][p][/p][p]▼Crashes and Disconnections[/p][p]・Fixed an issue where all players could be disconnected during the Panthalus battle on dedicated servers.[/p][p]・Fixed an issue where players could crash during the Panthalus",
     "source": "Steam News API"
   }
 ]
