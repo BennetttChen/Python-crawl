@@ -1,29 +1,5 @@
 # Bilibili PGC Timeline
 
-- **盗妖行**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss148433  
-  摘要: 09:00
-
-- **是王者啊？稷下篇**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss105565  
-  摘要: 10:00
-
-- **将夜**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss45962  
-  摘要: 11:00
-
-- **霸王龙雷奇之雷奇知多少**  
-  发布: 17:30  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss270683  
-  摘要: 17:30
-
 - **掌门低调点**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +95,27 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss270433  
   摘要: 10:00
+
+- **小P优优 第五季 中文配音**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss269198  
+  摘要: 11:00
+
+- **1999！神秘学对策部 中配版**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss259837  
+  摘要: 12:00
+
+- **1999！神秘学对策部 英配版**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss259875  
+  摘要: 12:00
+
+- **霸王龙雷奇之雷奇知多少**  
+  发布: 17:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss270683  
+  摘要: 17:30

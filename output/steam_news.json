@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194",
+    "author": "tomd",
+    "published": "1786575047",
+    "summary": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877",
     "author": "jo",
     "published": "1785791934",
@@ -132,15 +141,6 @@
     "author": "jo",
     "published": "1783633576",
     "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827",
-    "author": "brianlev",
-    "published": "1783551091",
-    "summary": "[p]\\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.[/p][list][*][p]Damage is now applied according to precomputed simulation val",
     "source": "Steam News API"
   },
   {

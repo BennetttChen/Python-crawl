@@ -49,6 +49,12 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months…
 
 - **Counter-Strike 2 Update**  
+  发布: 1786575047  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194  
+  摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the …
+
+- **Counter-Strike 2 Update**  
   发布: 1785791934  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons…
-
-- **Counter-Strike 2 Update**  
-  发布: 1783551091  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827  
-  摘要: [p]\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosio…
 
 - **v1.0.3: Balance Adjustments & Bug Fixes**  
   发布: 1786504403  
