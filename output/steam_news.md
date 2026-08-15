@@ -96,6 +96,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons…
 
+- **Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1**  
+  发布: 1786738111  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/d6wJDVDpYZ8Sjdq9tfTh79-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> went into full release in July after more than two years of early access, and it's going pretty well:…
+
+- **Palworld fans 'do not realize the sheer number of collabs we've rejected' even with the survival game's 'fun-first approach'**  
+  发布: 1786715247  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183779702  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/Ww6x8QxV7CpfTFKfzCksed-1280-80.jpg"/><br><br>                 The crowning achievement of a game is no longer player count or Metacritic score, it's actually the number of collabs it can squeeze into its lifecycle—soon every game will c…
+
 - **v1.0.3: Balance Adjustments & Bug Fixes**  
   发布: 1786504403  
   来源: Steam News API  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055885413  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/1000012149-1-scaled.jpg"/><p>The all-new Palworld Official Card Game shows plenty of promise, with interesting combos and stunning cards galore based on the hit game.</p> <p>Read the ful…
-
-- **v1.0.2.101103:Bug fixes**  
-  发布: 1785413794  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885050  
-  摘要: [p]・Fixed an issue where an infinite loading screen would occur after defeating the World Tree boss in some cases.[/p][p]*Crossplay with other platforms will not be affected.[/p]
-
-- **Mod Support Improvement**  
-  发布: 1785380721  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093  
-  摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.2.100993 has been released! [/p][p]＝＝＝ [/p][p]・Made adjustments related to processing in order to improve stability when playing with MODs.[/p][p]Note: This patch is applied to the PC version only, but will not negatively affect cros…

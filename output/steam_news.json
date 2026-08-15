@@ -145,6 +145,24 @@
   },
   {
     "appid": 1623730,
+    "title": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705",
+    "author": "Andy Chalk",
+    "published": "1786738111",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/d6wJDVDpYZ8Sjdq9tfTh79-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> went into full release in July after more than two years of early access, and it's going pretty well: A massive surge in concurrent players on Steam is slowly settling back down to Earth, but more than a month after that ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld fans 'do not realize the sheer number of collabs we've rejected' even with the survival game's 'fun-first approach'",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183779702",
+    "author": "Elie Gould",
+    "published": "1786715247",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/Ww6x8QxV7CpfTFKfzCksed-1280-80.jpg\"/><br><br>\n                The crowning achievement of a game is no longer player count or Metacritic score, it's actually the number of collabs it can squeeze into its lifecycle—soon every game will collab with each other to make one giant game. I can see it coming...\n                <a href=\"https://www.pcgamer.com/ga",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "v1.0.3: Balance Adjustments & Bug Fixes",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772872",
     "author": "pocketpair_dev",
@@ -195,24 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1785419376",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/1000012149-1-scaled.jpg\"/><p>The all-new Palworld Official Card Game shows plenty of promise, with interesting combos and stunning cards galore based on the hit game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/why-the-palworld-ocg-is-worth-picking-up-at-launch\">Why the Palwo",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v1.0.2.101103:Bug fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885050",
-    "author": "pocketpair_dev",
-    "published": "1785413794",
-    "summary": "[p]・Fixed an issue where an infinite loading screen would occur after defeating the World Tree boss in some cases.[/p][p]*Crossplay with other platforms will not be affected.[/p]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Mod Support Improvement",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055884093",
-    "author": "pocketpair_dev",
-    "published": "1785380721",
-    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.2.100993 has been released! [/p][p]＝＝＝ [/p][p]・Made adjustments related to processing in order to improve stability when playing with MODs.[/p][p]Note: This patch is applied to the PC version only, but will not negatively affect crossplay with other versions of the game.[/p][p]＝＝＝[/p][p]Thank you for your continued support of Palworld.[/p]",
     "source": "Steam News API"
   }
 ]
