@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "The International Main Event",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427",
+    "author": "krAnk0r",
+    "published": "1787107564",
+    "summary": "[p][img src=\"{STEAM_CLAN_LOC_IMAGE}/3703047/a7ab9b6d4c788583a689e0519021a93a76c17f30.png\"][/img][/p][p]The sixteen best Dota teams in the world spent the last week battling through an intense Group Stage, and now only eight contenders remain. In a matter of hours Team Vision, Team Liquid, Nigma Galaxy, Team Falcons, BoomBoys, Team Spirit, Iron Wing, and Team Yandex will begin the final push to cla",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "The International: Streams, Secret Shop, and More",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772671",
     "author": "krAnk0r",
@@ -60,15 +69,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1782404865",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg\"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into the Valve MOBA this week, you might have been surprised to find that Axe, one of its longest-standing and most iconic fa",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Valve calls out Dota 2 dataminers desperate for Dark Carnival news: \"Why are you guys reading our variable names?\"",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769",
-    "author": "editor@pcgamesn.com",
-    "published": "1781969455",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg\"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months, with the leading speculation being that Valve is preparing a new, large-scale feature in the vein of 2024's Crownfall.",
     "source": "Steam News API"
   },
   {
@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "How to get Chromite in Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606",
+    "author": "Andrea Shearon",
+    "published": "1787076883",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/saGivmkiJMoSaffvHPYVCG-1280-80.jpg\"/><br><br>\n                Chromite isn't actually rare in <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a>, but you've got to have a specific tool (or pal) to mine it, which is different from most other resources. To save you from the guesswork, I'll show you how to use a metal detector to get Chromite initiall",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705",
     "author": "Andy Chalk",
@@ -204,15 +213,6 @@
     "author": "Andrea Shearon",
     "published": "1785546059",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/SMrGHyDxt2vgD2pB3NMhuP-1280-80.jpg\"/><br><br>\n                s a child of the '90s-era pocket monster craze, I had what I suspect historians will call Monster-Taming Madness. A not-so-terrible, but sort of annoying affliction that meant I always had a Tamagotchi in my pocket, a handful of Pokémon cards, and the entire Spice Girls discography on standby ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Why the Palworld OCG is worth picking up at launch",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055885413",
-    "author": "editor@pcgamesn.com",
-    "published": "1785419376",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/1000012149-1-scaled.jpg\"/><p>The all-new Palworld Official Card Game shows plenty of promise, with interesting combos and stunning cards galore based on the hit game.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/why-the-palworld-ocg-is-worth-picking-up-at-launch\">Why the Palwo",
     "source": "Steam News API"
   }
 ]

@@ -1,5 +1,11 @@
 # Steam News
 
+- **The International Main Event**  
+  发布: 1787107564  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427  
+  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/a7ab9b6d4c788583a689e0519021a93a76c17f30.png"][/img][/p][p]The sixteen best Dota teams in the world spent the last week battling through an intense Group Stage, and now only eight contenders remain. In a matter of hours Team Vision, Tea…
+
 - **The International: Streams, Secret Shop, and More**  
   发布: 1786494519  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into …
-
-- **Valve calls out Dota 2 dataminers desperate for Dark Carnival news: "Why are you guys reading our variable names?"**  
-  发布: 1781969455  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1835871199309769  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-rumors-valve-variable-name-change-900x506.jpg"/><p>Rumors of a new Dota 2 event called Dark Carnival have been swirling among the MOBA's community for several months…
 
 - **Counter-Strike 2 Update**  
   发布: 1786575047  
@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons…
 
+- **How to get Chromite in Palworld**  
+  发布: 1787076883  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/saGivmkiJMoSaffvHPYVCG-1280-80.jpg"/><br><br>                 Chromite isn't actually rare in <a href="https://www.pcgamer.com/palworld/">Palworld</a>, but you've got to have a specific tool (or pal) to mine it, which is different from …
+
 - **Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1**  
   发布: 1786738111  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/SMrGHyDxt2vgD2pB3NMhuP-1280-80.jpg"/><br><br>                 s a child of the '90s-era pocket monster craze, I had what I suspect historians will call Monster-Taming Madness. A not-so-terrible, but sort of annoying affliction that mean…
-
-- **Why the Palworld OCG is worth picking up at launch**  
-  发布: 1785419376  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055885413  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/07/1000012149-1-scaled.jpg"/><p>The all-new Palworld Official Card Game shows plenty of promise, with interesting combos and stunning cards galore based on the hit game.</p> <p>Read the ful…
