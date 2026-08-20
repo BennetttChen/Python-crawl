@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932",
+    "author": "tomd",
+    "published": "1787182593",
+    "summary": "[p]\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194",
     "author": "tomd",
     "published": "1786575047",
@@ -132,15 +141,6 @@
     "author": "mcjohn",
     "published": "1784076120",
     "summary": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
-    "author": "jo",
-    "published": "1783633576",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*",
     "source": "Steam News API"
   },
   {

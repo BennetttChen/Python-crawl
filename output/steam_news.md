@@ -49,6 +49,12 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into …
 
 - **Counter-Strike 2 Update**  
+  发布: 1787182593  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932  
+  摘要: [p]\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the …
+
+- **Counter-Strike 2 Update**  
   发布: 1786575047  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903  
   摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the…
-
-- **Counter-Strike 2 Update**  
-  发布: 1783633576  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons…
 
 - **How to get Chromite in Palworld**  
   发布: 1787076883  
