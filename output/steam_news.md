@@ -1,5 +1,11 @@
 # Steam News
 
+- **'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International**  
+  发布: 1787257316  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666735  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1280-80.jpg"/><br><br>                 Valve honcho Gabe Newell recorded a video to kick off The International 2026, the latest edition of Valve's annual <a href="https://www.pcgamer.com/dota-2/" target="_blank">D…
+
 - **The International Main Event**  
   发布: 1787107564  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551627  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]  Don't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some…
-
-- **After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake**  
-  发布: 1782404865  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into …
 
 - **Counter-Strike 2 Update**  
   发布: 1787182593  
@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903  
   摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the…
 
+- **Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind**  
+  发布: 1787243387  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/WcPbmC27ysL8xi4Gam6Kcf-1280-80.jpg"/><br><br>                 Last week, Pocketpair head of publishing and communications John "Bucky" Buckley addressed a bubbling conversation about <a href="https://www.pcgamer.com/games/survival-craft…
+
 - **How to get Chromite in Palworld**  
   发布: 1787076883  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/steam-player-counts-palworld-vs-halo-innovation-versus-tradition.jpg"/><p>Looking at the year's big Steam successes, there's a continuing trend of favoring more ambitious projects on PC …
-
-- **Palworld 1.0 review**  
-  发布: 1785546059  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/SMrGHyDxt2vgD2pB3NMhuP-1280-80.jpg"/><br><br>                 s a child of the '90s-era pocket monster craze, I had what I suspect historians will call Monster-Taming Madness. A not-so-terrible, but sort of annoying affliction that mean…

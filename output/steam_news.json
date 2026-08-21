@@ -1,6 +1,15 @@
 [
   {
     "appid": 570,
+    "title": "'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666735",
+    "author": "Andy Chalk",
+    "published": "1787257316",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1280-80.jpg\"/><br><br>\n                Valve honcho Gabe Newell recorded a video to kick off The International 2026, the latest edition of Valve's annual <a href=\"https://www.pcgamer.com/dota-2/\" target=\"_blank\">Dota 2</a> championship tournament, and as noticed by <a href=\"https://www.gamesradar.com/games/valve-chief-gabe-newell-m",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "The International Main Event",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427",
     "author": "krAnk0r",
@@ -60,15 +69,6 @@
     "author": "kyled",
     "published": "1782417351",
     "summary": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]\n\nDon't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some dark bargain with an ancient world-conquering evil? We've all been there.\n\nWe're pulling back the curtain on [url=http:",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "After mysteriously vanishing from the game, Dota 2's Axe has been 'replaced' by a fake",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165551262",
-    "author": "editor@pcgamesn.com",
-    "published": "1782404865",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-axe-replaced-new-hero-puppetmaster-event-dark-carnival-valve-moba-900x506.jpg\"/><p>Dota 2 has a new hero - or should that be an old one? It's tough to be sure. If you logged into the Valve MOBA this week, you might have been surprised to find that Axe, one of its longest-standing and most iconic fa",
     "source": "Steam News API"
   },
   {
@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180",
+    "author": "Lincoln Carpenter",
+    "published": "1787243387",
+    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/WcPbmC27ysL8xi4Gam6Kcf-1280-80.jpg\"/><br><br>\n                Last week, Pocketpair head of publishing and communications John \"Bucky\" Buckley addressed a bubbling conversation about <a href=\"https://www.pcgamer.com/games/survival-crafting/palworld-fans-do-not-realize-the-sheer-number-of-collabs-weve-rejected-even-with-the-survival-games-fun-first-approa",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "How to get Chromite in Palworld",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606",
     "author": "Andrea Shearon",
@@ -204,15 +213,6 @@
     "author": "editor@pcgamesn.com",
     "published": "1785600798",
     "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/steam-player-counts-palworld-vs-halo-innovation-versus-tradition.jpg\"/><p>Looking at the year's big Steam successes, there's a continuing trend of favoring more ambitious projects on PC over triple-A and remakes.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/steam/innovation-ve",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld 1.0 review",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1839676055889695",
-    "author": "Andrea Shearon",
-    "published": "1785546059",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/SMrGHyDxt2vgD2pB3NMhuP-1280-80.jpg\"/><br><br>\n                s a child of the '90s-era pocket monster craze, I had what I suspect historians will call Monster-Taming Madness. A not-so-terrible, but sort of annoying affliction that meant I always had a Tamagotchi in my pocket, a handful of Pokémon cards, and the entire Spice Girls discography on standby ",
     "source": "Steam News API"
   }
 ]
