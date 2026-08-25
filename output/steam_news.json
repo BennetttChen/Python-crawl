@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851",
+    "author": "tomd",
+    "published": "1787614760",
+    "summary": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/p][/*][*][p]Events and client side scripting are not supported.[/p][/*][*][p]Maintains state during tools mode reloads.[",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932",
     "author": "tomd",
     "published": "1787182593",
@@ -132,15 +141,6 @@
     "author": "COMPLEX",
     "published": "1784245194",
     "summary": "Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!\n\nNow that these items are available, we're looking for new items for one new weapon collection:\n    \n - Fairy Tales\n    \nAnd two new sticker collections:\n\n- Cryptids\n-",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
-    "author": "mcjohn",
-    "published": "1784076120",
-    "summary": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).",
     "source": "Steam News API"
   },
   {

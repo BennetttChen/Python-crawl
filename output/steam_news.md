@@ -49,6 +49,12 @@
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]  Don't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some…
 
 - **Counter-Strike 2 Update**  
+  发布: 1787614760  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851  
+  摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/…
+
+- **Counter-Strike 2 Update**  
   发布: 1787182593  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098  
   摘要: Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!  Now that these items are available, we're look…
-
-- **Counter-Strike 2 Update**  
-  发布: 1784076120  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903  
-  摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the…
 
 - **Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind**  
   发布: 1787243387  
