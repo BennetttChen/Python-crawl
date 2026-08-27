@@ -1,5 +1,11 @@
 # Steam News
 
+- **The International 2026 Grand Champions**  
+  发布: 1787792862  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298513  
+  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/bab4343d906943ef2117ae553347d8f8991ebca3.png"][/img]Congratulations to Team Spirit, Grand Champions at The International 2026. After enduring a challenging year, Team Spirit regained their ultimate form just in time to take a five-game …
+
 - **'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International**  
   发布: 1787257316  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165554448  
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-event-live-now-rewards-900x506.jpg"/><p>At last, weeks of speculation and mystery can finally be put to bed: the Dota 2 Dark Carnival has begun. Valve's latest big e…
-
-- **The Dark Carnival**  
-  发布: 1782417351  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165551627  
-  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/7942925df6ae43659acf60f2d2ff827461c02485.png[/img]  Don't you hate it when you wake up in a prison car with no memory of how you got there and, worse, no way to escape, only to discover you've been captured by an evil puppet-man as part of some…
 
 - **Counter-Strike 2 Update**  
   发布: 1787614760  
