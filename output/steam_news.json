@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld Global Popularity Poll 2026 is LIVE!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335",
+    "author": "pocketpair_dev",
+    "published": "1788267638",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/142b22c0d4f3e9a4a735e6fe6ab36750d35d2599.png\"][/img][/p][p]Pal Tamers！[/p][p]The time has come to decide who stands at the top of the Palpagos Islands. Voting for the [b]Palworld Global Popularity Poll 2026[/b] is officially open![/p][p]With the launch of version 1.0, our roster has expanded to [b]over 280+ Pals, [/b]and every single one of them (plus some ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180",
     "author": "Lincoln Carpenter",
@@ -204,15 +213,6 @@
     "author": "SteamDB",
     "published": "1785834000",
     "summary": "<a href=\"https://steamdb.info/topsellers/2026W32/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W32.png\"></a><ol><li><a href=\"https://steamdb.info/app/3282300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Mistfall Hunter</a></li><li><a href=\"https://steamdb.info/app/1091500/charts/?utm_source=Steam&utm_medium=Steam&utm_cam",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029",
-    "author": "editor@pcgamesn.com",
-    "published": "1785600798",
-    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/steam-player-counts-palworld-vs-halo-innovation-versus-tradition.jpg\"/><p>Looking at the year's big Steam successes, there's a continuing trend of favoring more ambitious projects on PC over triple-A and remakes.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/steam/innovation-ve",
     "source": "Steam News API"
   }
 ]

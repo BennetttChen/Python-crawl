@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098  
   摘要: Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!  Now that these items are available, we're look…
 
+- **Palworld Global Popularity Poll 2026 is LIVE!**  
+  发布: 1788267638  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/142b22c0d4f3e9a4a735e6fe6ab36750d35d2599.png"][/img][/p][p]Pal Tamers！[/p][p]The time has come to decide who stands at the top of the Palpagos Islands. Voting for the [b]Palworld Global Popularity Poll 2026[/b] is officially open![/p][p]Wi…
+
 - **Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind**  
   发布: 1787243387  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393  
   摘要: <a href="https://steamdb.info/topsellers/2026W32/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W32.png"></a><ol><li><a href="https://steamdb.info/app/3282300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
-
-- **Steam gamers have spoken: innovative indies like Palworld continue to thrive while traditional triple-A flounders for a foothold**  
-  发布: 1785600798  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1839676055891029  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/08/steam-player-counts-palworld-vs-halo-innovation-versus-tradition.jpg"/><p>Looking at the year's big Steam successes, there's a continuing trend of favoring more ambitious projects on PC …
