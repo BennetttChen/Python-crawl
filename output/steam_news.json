@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "v1.0.4: Balance Adjustments & Bug Fixes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062",
+    "author": "pocketpair_dev",
+    "published": "1788750285",
+    "summary": "[p]Palworld version v1.0.4 has been released!\n\n＝＝＝\n\n▼New Missions\n・Added the sub-missions “Beyond Dimensions” and “From the Far Side of the Moon.”\n“Beyond Dimensions” can be accepted from an NPC at Fisherman’s Point in Mount Obsidian.\n“From the Far Side of the Moon” can be progressed after clearing “Beyond Dimensions.”\n\n▼Pals and Skills\n・Adjusted summoned Pals and Base Pals to prioritize skills ex",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld Global Popularity Poll 2026 is LIVE!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "SteamDB",
     "published": "1786438800",
     "summary": "<a href=\"https://steamdb.info/topsellers/2026W33/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W33.png\"></a><ol><li><a href=\"https://steamdb.info/app/1478500/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Big Walk</a></li><li><a href=\"https://steamdb.info/app/3787240/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=S",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Steam Global Top Sellers for week of 28 Jul — 4 August 2026",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393",
-    "author": "SteamDB",
-    "published": "1785834000",
-    "summary": "<a href=\"https://steamdb.info/topsellers/2026W32/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"><img src=\"https://steamdb.info/topsellers/2026W32.png\"></a><ol><li><a href=\"https://steamdb.info/app/3282300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Mistfall Hunter</a></li><li><a href=\"https://steamdb.info/app/1091500/charts/?utm_source=Steam&utm_medium=Steam&utm_cam",
     "source": "Steam News API"
   }
 ]

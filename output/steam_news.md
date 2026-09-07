@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098  
   摘要: Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!  Now that these items are available, we're look…
 
+- **v1.0.4: Balance Adjustments & Bug Fixes**  
+  发布: 1788750285  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062  
+  摘要: [p]Palworld version v1.0.4 has been released!  ＝＝＝  ▼New Missions ・Added the sub-missions “Beyond Dimensions” and “From the Far Side of the Moon.” “Beyond Dimensions” can be accepted from an NPC at Fisherman’s Point in Mount Obsidian. “From the Far Side of the Moon” can be progre…
+
 - **Palworld Global Popularity Poll 2026 is LIVE!**  
   发布: 1788267638  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123  
   摘要: <a href="https://steamdb.info/topsellers/2026W33/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W33.png"></a><ol><li><a href="https://steamdb.info/app/1478500/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
-
-- **Steam Global Top Sellers for week of 28 Jul — 4 August 2026**  
-  发布: 1785834000  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1839676055897393  
-  摘要: <a href="https://steamdb.info/topsellers/2026W32/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W32.png"></a><ol><li><a href="https://steamdb.info/app/3282300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…

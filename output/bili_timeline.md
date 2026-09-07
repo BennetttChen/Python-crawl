@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **万古至尊：李云霄传**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss119017  
-  摘要: 09:00
-
-- **成也萧河**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss264634  
-  摘要: 09:00
-
 - **盗妖行**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +107,15 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss263605  
   摘要: 10:00
+
+- **1999！神秘学对策部 中配版**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss259837  
+  摘要: 12:00
+
+- **1999！神秘学对策部 英配版**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss259875  
+  摘要: 12:00
