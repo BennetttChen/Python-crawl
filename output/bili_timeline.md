@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **盗妖行**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss148433  
-  摘要: 09:00
-
-- **掌门低调点**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss272443  
-  摘要: 09:00
-
-- **百日成王**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss118920  
-  摘要: 12:00
-
 - **李熊猫**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss259875  
   摘要: 12:00
+
+- **无良系统变向导，我被四个哨兵拿捏了**  
+  发布: 12:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss285345  
+  摘要: 12:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
