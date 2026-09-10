@@ -19,6 +19,7 @@ Nearly a year has passed since Team Falcons hoisted the Aegis of Champions as th
 [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is rewarded regardless of winning or losing.
 [*] Seeing Stones can now be earned by playing Co-op Bot Matches on Hard and Un",Dota 2 Update - 7/1/2026
 570,editor@pcgamesn.com,https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165554448,1782489318,Steam News API,"<img width=""900"" height=""507"" src=""https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-event-live-now-rewards-900x506.jpg""/><p>At last, weeks of speculation and mystery can finally be put to bed: the Dota 2 Dark Carnival has begun. Valve's latest big event is here, and as many were hoping (myself included), it's a full-scale story campaign in a similar format to 2024's ","Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas"
+730,tomd,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556,1788994268,Steam News API,"[p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPlayerCamera:[/p][list][*][p]Renamed it to CustomPlayerCamera.[/p][/*][*][p]Added GetPlayer, GetMode, SetMode, and SetFoll",Counter-Strike 2 Update
 730,tomd,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851,1787614760,Steam News API,"[p]\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/p][/*][*][p]Events and client side scripting are not supported.[/p][/*][*][p]Maintains state during tools mode reloads.[",Counter-Strike 2 Update
 730,tomd,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932,1787182593,Steam News API,"[p]\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=""https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989""]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=""https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043""]Update Notes[/url])[/",Counter-Strike 2 Update
 730,tomd,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194,1786575047,Steam News API,"[p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=""https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035""]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=""https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295""]Update Notes[/url])[/",Counter-Strike 2 Update
@@ -31,16 +32,6 @@ Today we're shipping the Ranked Series of Cologne 2026 Major stickers--new stick
 The original dynamic pricing system ",Cologne 2026: Ranked Series
 730,jo,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700,1784589216,Steam News API,"[p]\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. [/p][/*][/list][p]
 \[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=""https://steamcommunity.com/sharedfiles/filedetails/changelog/3442",Counter-Strike 2 Update
-730,COMPLEX,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098,1784245194,Steam News API,"Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!
-
-Now that these items are available, we're looking for new items for one new weapon collection:
-    
- - Fairy Tales
-    
-And two new sticker collections:
-
-- Cryptids
--",Call II Arms-ory
 1623730,pocketpair_dev,https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062,1788750285,Steam News API,"[p]Palworld version v1.0.4 has been released!
 
 ＝＝＝

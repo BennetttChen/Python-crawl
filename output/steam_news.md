@@ -49,6 +49,12 @@
   摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-event-live-now-rewards-900x506.jpg"/><p>At last, weeks of speculation and mystery can finally be put to bed: the Dota 2 Dark Carnival has begun. Valve's latest big e…
 
 - **Counter-Strike 2 Update**  
+  发布: 1788994268  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556  
+  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPl…
+
+- **Counter-Strike 2 Update**  
   发布: 1787614760  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. [/p][/*][/list][p] \[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to…
-
-- **Call II Arms-ory**  
-  发布: 1784245194  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098  
-  摘要: Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!  Now that these items are available, we're look…
 
 - **v1.0.4: Balance Adjustments & Bug Fixes**  
   发布: 1788750285  
