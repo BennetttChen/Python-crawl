@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. [/p][/*][/list][p] \[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to…
 
+- **Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into**  
+  发布: 1789060979  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262693002  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/bNP4EUfLJbdaWgX7N2NvUQ-1280-80.jpg"/><br><br>                 Early access on Steam is a simple concept. You buy a game before it's finished, provide bug reports and feedback to developers, and help shape a project's direction and ambit…
+
 - **v1.0.4: Balance Adjustments & Bug Fixes**  
   发布: 1788750285  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772872  
   摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.3 has been released![/p][p][/p][p] ＝＝＝[/p][p][/p][h3]\[Game Balance and System Adjustments][/h3][p][/p][p]▼Items and Equipment ・Changed the unlock level of some Jetragon-related technologies from 79 to 70, and reduced the materials r…
-
-- **Steam Global Top Sellers for week of 4 Aug — 11 August 2026**  
-  发布: 1786438800  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/1840310314354123  
-  摘要: <a href="https://steamdb.info/topsellers/2026W33/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"><img src="https://steamdb.info/topsellers/2026W33.png"></a><ol><li><a href="https://steamdb.info/app/1478500/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS"…
