@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. [/p][/*][/list][p] \[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to…
 
+- **v1.0.5: Bug fixes**  
+  发布: 1789441427  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703464  
+  摘要: [p]▼Bug Fixes[/p][p]・Fixed an issue where terrain, building, and other textures could load at significantly reduced resolution for some players[/p][p]・Fixed an issue where some map icon filters could unintentionally be turned off after the player respawned[/p]
+
 - **Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into**  
   发布: 1789060979  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183779702  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/Ww6x8QxV7CpfTFKfzCksed-1280-80.jpg"/><br><br>                 The crowning achievement of a game is no longer player count or Metacritic score, it's actually the number of collabs it can squeeze into its lifecycle—soon every game will c…
-
-- **v1.0.3: Balance Adjustments & Bug Fixes**  
-  发布: 1786504403  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772872  
-  摘要: [p]\[Patch Notice][/p][p]Palworld version v1.0.3 has been released![/p][p][/p][p] ＝＝＝[/p][p][/p][h3]\[Game Balance and System Adjustments][/h3][p][/p][p]▼Items and Equipment ・Changed the unlock level of some Jetragon-related technologies from 79 to 70, and reduced the materials r…

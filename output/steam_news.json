@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "v1.0.5: Bug fixes",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703464",
+    "author": "pocketpair_dev",
+    "published": "1789441427",
+    "summary": "[p]▼Bug Fixes[/p][p]・Fixed an issue where terrain, building, and other textures could load at significantly reduced resolution for some players[/p][p]・Fixed an issue where some map icon filters could unintentionally be turned off after the player respawned[/p]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262693002",
     "author": "Andy Chalk",
@@ -204,15 +213,6 @@
     "author": "Elie Gould",
     "published": "1786715247",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/Ww6x8QxV7CpfTFKfzCksed-1280-80.jpg\"/><br><br>\n                The crowning achievement of a game is no longer player count or Metacritic score, it's actually the number of collabs it can squeeze into its lifecycle—soon every game will collab with each other to make one giant game. I can see it coming...\n                <a href=\"https://www.pcgamer.com/ga",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v1.0.3: Balance Adjustments & Bug Fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772872",
-    "author": "pocketpair_dev",
-    "published": "1786504403",
-    "summary": "[p]\\[Patch Notice][/p][p]Palworld version v1.0.3 has been released![/p][p][/p][p]\n＝＝＝[/p][p][/p][h3]\\[Game Balance and System Adjustments][/h3][p][/p][p]▼Items and Equipment\n・Changed the unlock level of some Jetragon-related technologies from 79 to 70, and reduced the materials required for the Pal Gear used to ride Jetragon.[/p][p]・Changed the technology unlock level of the Aquatic Construction K",
     "source": "Steam News API"
   }
 ]
