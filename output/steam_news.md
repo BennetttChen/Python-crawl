@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.41f Gameplay Patch**  
+  发布: 1789497865  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705400  
+  摘要: [p]Patch 7.41f is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41f"]here[/url].[/p]  In addition, we've recently addressed the following issues: [list] [*] Fixed spot on map near the top Roshan Pit where a hero could hide within the geometry…
+
 - **The International 2026 Grand Champions**  
   发布: 1787792862  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626  
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
-
-- **Dota 2's Dark Carnival has begun, with a huge story chapter and five automaton hero personas**  
-  发布: 1782489318  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1836506165554448  
-  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/dota-2-dark-carnival-event-live-now-rewards-900x506.jpg"/><p>At last, weeks of speculation and mystery can finally be put to bed: the Dota 2 Dark Carnival has begun. Valve's latest big e…
 
 - **Counter-Strike 2 Update**  
   发布: 1788994268  
