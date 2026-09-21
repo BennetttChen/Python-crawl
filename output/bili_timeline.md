@@ -1,17 +1,5 @@
 # Bilibili PGC Timeline
 
-- **万古至尊：李云霄传**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss119017  
-  摘要: 09:00
-
-- **成也萧河**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss264634  
-  摘要: 09:00
-
 - **掌门低调点**  
   发布: 09:00  
   来源: Bilibili Timeline (legacy)  
@@ -118,4 +106,16 @@
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss263198  
+  摘要: 10:00
+
+- **罗拉航海日记**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss302883  
+  摘要: 10:00
+
+- **罗拉航海日记 中文配音**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss302887  
   摘要: 10:00

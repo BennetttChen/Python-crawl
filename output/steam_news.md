@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626  
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
+- **Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта**  
+  发布: 1789841729  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298  
+  摘要: <img src="https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png"/>               <br />                                                                                 <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со сп…
+
 - **Counter-Strike 2 Update**  
   发布: 1788994268  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881226  
   摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png[/img]  Today we're shipping the Ranked Series of Cologne 2026 Major stickers--new stickers that indicate a team's final standing in the design. As with all items in the Cologne 20…
-
-- **Counter-Strike 2 Update**  
-  发布: 1784589216  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329267700  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. [/p][/*][/list][p] \[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to…
 
 - **v1.0.5: Bug fixes**  
   发布: 1789441427  
