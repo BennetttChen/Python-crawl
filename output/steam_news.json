@@ -73,6 +73,33 @@
   },
   {
     "appid": 730,
+    "title": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397",
+    "author": "",
+    "published": "1790139805",
+    "summary": "<img src=\"https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png\"/>\n              <br />\n                                                      <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Rush Hour",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
+    "author": "brianlev",
+    "published": "1790120317",
+    "summary": "[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png\" autoplay=\"true\" controls=\"false\"][/video]\nPut your foot on the gas and floor it. W",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924",
+    "author": "brianlev",
+    "published": "1790120256",
+    "summary": "[p]\\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map. [/p][/*][*][p]One of the four maps will be randomly selected and the match will begin.[/p][/*][/list][/*][/list][p][/p",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298",
     "author": "",
@@ -114,33 +141,6 @@
     "author": "tomd",
     "published": "1786575047",
     "summary": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877",
-    "author": "jo",
-    "published": "1785791934",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where grenades could be thrown through level geometry[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map[/p][/*][*][p]Fixed collision in various spots across map[/p][/*][*][p]Fixed flickering on some assets[/p][/*][*][p]Removed boost spot in Outside A[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest versi",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227",
-    "author": "jo",
-    "published": "1785285504",
-    "summary": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.[/p][/*][*][p]Items in the the Cologne 2026 Shop will be available for purchase until September 29th.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed a bug where scripts would fail to load in tools mode un",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Cologne 2026: Ranked Series",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881226",
-    "author": "brianlev",
-    "published": "1785285490",
-    "summary": "[img]https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png[/img]\n\nToday we're shipping the Ranked Series of Cologne 2026 Major stickers--new stickers that indicate a team's final standing in the design. As with all items in the Cologne 2026 Shop, 50% of the royalties support the teams, players and tournament organizer.\n\nThe original dynamic pricing system ",
     "source": "Steam News API"
   },
   {

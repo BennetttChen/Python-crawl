@@ -48,6 +48,24 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626  
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
+- **Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца**  
+  发布: 1790139805  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397  
+  摘要: <img src="https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png"/>               <br />                                                       <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve …
+
+- **Rush Hour**  
+  发布: 1790120317  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926  
+  摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/f020505d…
+
+- **Counter-Strike 2 Update**  
+  发布: 1790120256  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924  
+  摘要: [p]\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map…
+
 - **Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта**  
   发布: 1789841729  
   来源: Steam News API  
@@ -77,24 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194  
   摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the …
-
-- **Counter-Strike 2 Update**  
-  发布: 1785791934  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055895877  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Fixed a case where grenades could be thrown through level geometry[/p][/*][/list][p][/p][p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map[/p][/*][*][p]Fixed collision in various spots across map[/p][/*][*][p]Fixed flickering on some…
-
-- **Counter-Strike 2 Update**  
-  发布: 1785285504  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881227  
-  摘要: [p]\[ COLOGNE 2026 MAJOR ][/p][list][*][p]The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.[/p][/*][*][p]Items in the the Cologne 2026 Shop will be available for purchase until September 29th.…
-
-- **Cologne 2026: Ranked Series**  
-  发布: 1785285490  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055881226  
-  摘要: [img]https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png[/img]  Today we're shipping the Ranked Series of Cologne 2026 Major stickers--new stickers that indicate a team's final standing in the design. As with all items in the Cologne 20…
 
 - **v1.0.5: Bug fixes**  
   发布: 1789441427  
