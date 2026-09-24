@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626  
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
+- **Counter-Strike 2 Update**  
+  发布: 1790204844  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795  
+  摘要: [p]\[ RUSH ][/p][list][*][p]Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.[/p][/*][*][p]The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconne…
+
+- **Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode**  
+  发布: 1790159109  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029  
+  摘要: This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp" alt /></p><p>Read the full article here: https://w…
+
 - **Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца**  
   发布: 1790139805  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851  
   摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/…
-
-- **Counter-Strike 2 Update**  
-  发布: 1787182593  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932  
-  摘要: [p]\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the …
-
-- **Counter-Strike 2 Update**  
-  发布: 1786575047  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194  
-  摘要: [p]\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the …
 
 - **v1.0.5: Bug fixes**  
   发布: 1789441427  

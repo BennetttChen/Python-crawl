@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795",
+    "author": "jo",
+    "published": "1790204844",
+    "summary": "[p]\\[ RUSH ][/p][list][*][p]Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.[/p][/*][*][p]The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.[/p][/*][*][p]Warmup time once all players have connected, freeze time, and technical timeout time are all reduced.[",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029",
+    "author": "",
+    "published": "1790159109",
+    "summary": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/</p>",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397",
     "author": "",
@@ -123,24 +141,6 @@
     "author": "tomd",
     "published": "1787614760",
     "summary": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/p][/*][*][p]Events and client side scripting are not supported.[/p][/*][*][p]Maintains state during tools mode reloads.[",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228663932",
-    "author": "tomd",
-    "published": "1787182593",
-    "summary": "[p]\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775194",
-    "author": "tomd",
-    "published": "1786575047",
-    "summary": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/",
     "source": "Steam News API"
   },
   {
