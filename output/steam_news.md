@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
 - **Counter-Strike 2 Update**  
+  发布: 1790286698  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773  
+  摘要: [p]\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Fixed a …
+
+- **Counter-Strike 2 Update**  
   发布: 1790204844  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556  
   摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPl…
-
-- **Counter-Strike 2 Update**  
-  发布: 1787614760  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851  
-  摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/…
 
 - **v1.0.5: Bug fixes**  
   发布: 1789441427  
