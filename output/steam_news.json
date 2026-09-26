@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015",
+    "author": "jo",
+    "published": "1790373294",
+    "summary": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now r",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
     "author": "jo",
     "published": "1790286698",
@@ -135,12 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556",
-    "author": "tomd",
-    "published": "1788994268",
-    "summary": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPlayerCamera:[/p][list][*][p]Renamed it to CustomPlayerCamera.[/p][/*][*][p]Added GetPlayer, GetMode, SetMode, and SetFoll",
+    "appid": 1623730,
+    "title": "Palworld × Windrose Steam Bundle is Out Now!",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251",
+    "author": "pocketpair_dev",
+    "published": "1790336478",
+    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/d00e6f732b618399d7a4738802b4ffe65b3a56ba.png\"][/img]We are thrilled to announce that the Palworld × RuneScape: Dragonwilds Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft games at a [b]10% OFF[/b] discount![/p][p]If you already own Palworld, you can still use this bundle to purchase RuneScape: ",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "Andy Chalk",
     "published": "1786738111",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/d6wJDVDpYZ8Sjdq9tfTh79-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> went into full release in July after more than two years of early access, and it's going pretty well: A massive surge in concurrent players on Steam is slowly settling back down to Earth, but more than a month after that ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld fans 'do not realize the sheer number of collabs we've rejected' even with the survival game's 'fun-first approach'",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183779702",
-    "author": "Elie Gould",
-    "published": "1786715247",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/Ww6x8QxV7CpfTFKfzCksed-1280-80.jpg\"/><br><br>\n                The crowning achievement of a game is no longer player count or Metacritic score, it's actually the number of collabs it can squeeze into its lifecycle—soon every game will collab with each other to make one giant game. I can see it coming...\n                <a href=\"https://www.pcgamer.com/ga",
     "source": "Steam News API"
   }
 ]

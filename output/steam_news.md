@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
 - **Counter-Strike 2 Update**  
+  发布: 1790373294  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015  
+  摘要: [p]\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Added sv_clantags_enable…
+
+- **Counter-Strike 2 Update**  
   发布: 1790286698  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298  
   摘要: <img src="https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png"/>               <br />                                                                                 <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со сп…
 
-- **Counter-Strike 2 Update**  
-  发布: 1788994268  
+- **Palworld × Windrose Steam Bundle is Out Now!**  
+  发布: 1790336478  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556  
-  摘要: [p]\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPl…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/d00e6f732b618399d7a4738802b4ffe65b3a56ba.png"][/img]We are thrilled to announce that the Palworld × RuneScape: Dragonwilds Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft game…
 
 - **v1.0.5: Bug fixes**  
   发布: 1789441427  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/d6wJDVDpYZ8Sjdq9tfTh79-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> went into full release in July after more than two years of early access, and it's going pretty well:…
-
-- **Palworld fans 'do not realize the sheer number of collabs we've rejected' even with the survival game's 'fun-first approach'**  
-  发布: 1786715247  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183779702  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/Ww6x8QxV7CpfTFKfzCksed-1280-80.jpg"/><br><br>                 The crowning achievement of a game is no longer player count or Metacritic score, it's actually the number of collabs it can squeeze into its lifecycle—soon every game will c…
