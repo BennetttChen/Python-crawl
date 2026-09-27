@@ -96,7 +96,7 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298  
   摘要: <img src="https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png"/>               <br />                                                                                 <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со сп…
 
-- **Palworld × Windrose Steam Bundle is Out Now!**  
+- **Palworld × RuneScape: Dragonwilds Steam Bundle is Out Now!**  
   发布: 1790336478  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251  
