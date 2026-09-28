@@ -145,6 +145,15 @@
   },
   {
     "appid": 1623730,
+    "title": "Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596",
+    "author": "",
+    "published": "1790573895",
+    "summary": "<img src=\"https://i.playground.ru/e/ODcS2jTPJqxe43UqYs-hvQ.jpeg\"/>\n              <br />\n                                                                                <p>Palworld неожиданно для самой Pocketpair стала самым высоко оценённым релизом 2026 года в Steam по данным Steam250. Руководитель издательского направления и коммуникаций компании Джон «Бакки» Бакли назвал этот результат «ничем ин",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
     "title": "Palworld × RuneScape: Dragonwilds Steam Bundle is Out Now!",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251",
     "author": "pocketpair_dev",
@@ -204,15 +213,6 @@
     "author": "Andrea Shearon",
     "published": "1787076883",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/saGivmkiJMoSaffvHPYVCG-1280-80.jpg\"/><br><br>\n                Chromite isn't actually rare in <a href=\"https://www.pcgamer.com/palworld/\">Palworld</a>, but you've got to have a specific tool (or pal) to mine it, which is different from most other resources. To save you from the guesswork, I'll show you how to use a metal detector to get Chromite initiall",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705",
-    "author": "Andy Chalk",
-    "published": "1786738111",
-    "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/d6wJDVDpYZ8Sjdq9tfTh79-1280-80.jpg\"/><br><br>\n                <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\">Palworld</a> went into full release in July after more than two years of early access, and it's going pretty well: A massive surge in concurrent players on Steam is slowly settling back down to Earth, but more than a month after that ",
     "source": "Steam News API"
   }
 ]

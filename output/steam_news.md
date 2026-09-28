@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298  
   摘要: <img src="https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png"/>               <br />                                                                                 <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со сп…
 
+- **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
+  发布: 1790573895  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596  
+  摘要: <img src="https://i.playground.ru/e/ODcS2jTPJqxe43UqYs-hvQ.jpeg"/>               <br />                                                                                 <p>Palworld неожиданно для самой Pocketpair стала самым высоко оценённым релизом 2026 года в Steam по данным Ste…
+
 - **Palworld × RuneScape: Dragonwilds Steam Bundle is Out Now!**  
   发布: 1790336478  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/saGivmkiJMoSaffvHPYVCG-1280-80.jpg"/><br><br>                 Chromite isn't actually rare in <a href="https://www.pcgamer.com/palworld/">Palworld</a>, but you've got to have a specific tool (or pal) to mine it, which is different from …
-
-- **Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1**  
-  发布: 1786738111  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183780705  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/d6wJDVDpYZ8Sjdq9tfTh79-1280-80.jpg"/><br><br>                 <a href="https://www.pcgamer.com/palworld/" target="_blank">Palworld</a> went into full release in July after more than two years of early access, and it's going pretty well:…
