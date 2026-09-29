@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642",
+    "author": "Vitaliy",
+    "published": "1790635105",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015",
     "author": "jo",
     "published": "1790373294",
@@ -132,15 +141,6 @@
     "author": "brianlev",
     "published": "1790120256",
     "summary": "[p]\\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map. [/p][/*][*][p]One of the four maps will be randomly selected and the match will begin.[/p][/*][/list][/*][/list][p][/p",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298",
-    "author": "",
-    "published": "1789841729",
-    "summary": "<img src=\"https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png\"/>\n              <br />\n                                                                                <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со спасением заложников, который стоял у истоков культовой франшизы. В рамках интервью независимому блогеру разработчик отмет",
     "source": "Steam News API"
   },
   {

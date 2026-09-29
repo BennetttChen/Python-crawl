@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
 - **Counter-Strike 2 Update**  
+  发布: 1790635105  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642  
+  摘要: [p]\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]
+
+- **Counter-Strike 2 Update**  
   发布: 1790373294  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924  
   摘要: [p]\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map…
-
-- **Создатель Counter-Strike объяснил исчезновение классического режима со спасением заложников из-за киберспорта**  
-  发布: 1789841729  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844115010499298  
-  摘要: <img src="https://i.playground.ru/e/QjoU8pvWU6yD1hp9c0Hp5A.png"/>               <br />                                                                                 <p>Соавтор оригинальной Counter-Strike Мин Ли рассказал о причинах постепенного заката классического режима со сп…
 
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  
