@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
 - **Counter-Strike 2 Update**  
+  发布: 1790808379  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136  
+  摘要: [p]\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style "Static Quadrant"[/p][/*][*][p]Enabled…
+
+- **Counter-Strike 2 Update**  
   发布: 1790635105  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926  
   摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/f020505d…
-
-- **Counter-Strike 2 Update**  
-  发布: 1790120256  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924  
-  摘要: [p]\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map…
 
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  

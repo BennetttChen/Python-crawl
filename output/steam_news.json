@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
+    "author": "Vitaliy",
+    "published": "1790808379",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style \"Static Quadrant\"[/p][/*][*][p]Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)[/p][/*][*][p]Allowed negative ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642",
     "author": "Vitaliy",
     "published": "1790635105",
@@ -132,15 +141,6 @@
     "author": "brianlev",
     "published": "1790120317",
     "summary": "[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png\" autoplay=\"true\" controls=\"false\"][/video]\nPut your foot on the gas and floor it. W",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924",
-    "author": "brianlev",
-    "published": "1790120256",
-    "summary": "[p]\\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map. [/p][/*][*][p]One of the four maps will be randomly selected and the match will begin.[/p][/*][/list][/*][/list][p][/p",
     "source": "Steam News API"
   },
   {
