@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
 - **Counter-Strike 2 Update**  
+  发布: 1790979853  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875  
+  摘要: [p]\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report di…
+
+- **Counter-Strike 2 Update**  
   发布: 1790808379  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397  
   摘要: <img src="https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png"/>               <br />                                                       <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve …
-
-- **Rush Hour**  
-  发布: 1790120317  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926  
-  摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/f020505d…
 
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  

@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875",
+    "author": "Vitaliy",
+    "published": "1790979853",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report dialogs[/p][/*][*][p]Improved lighting in the Warehouse map[/p][/*][*][p]Updated workshop convars whitelist with the new c",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
     "author": "Vitaliy",
     "published": "1790808379",
@@ -132,15 +141,6 @@
     "author": "",
     "published": "1790139805",
     "summary": "<img src=\"https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png\"/>\n              <br />\n                                                      <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Rush Hour",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216926",
-    "author": "brianlev",
-    "published": "1790120317",
-    "summary": "[video webm=\"https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png\" autoplay=\"true\" controls=\"false\"][/video]\nPut your foot on the gas and floor it. W",
     "source": "Steam News API"
   },
   {
