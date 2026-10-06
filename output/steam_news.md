@@ -49,6 +49,12 @@
   摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
 
 - **Counter-Strike 2 Update**  
+  发布: 1791243583  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875  
+  摘要: [p]\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]
+
+- **Counter-Strike 2 Update**  
   发布: 1790979853  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029  
   摘要: This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp" alt /></p><p>Read the full article here: https://w…
-
-- **Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца**  
-  发布: 1790139805  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397  
-  摘要: <img src="https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png"/>               <br />                                                       <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve …
 
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  

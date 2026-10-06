@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875",
+    "author": "Vitaliy",
+    "published": "1791243583",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875",
     "author": "Vitaliy",
     "published": "1790979853",
@@ -132,15 +141,6 @@
     "author": "",
     "published": "1790159109",
     "summary": "This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/09/counter-strike-2-adds-an-intense-fast-paced-3v3-rush-game-mode/</p>",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Большое обновление для Counter-Strike 2 принесло в игру новый режим, бесшумную перезарядку и яйца",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498217397",
-    "author": "",
-    "published": "1790139805",
-    "summary": "<img src=\"https://i.playground.ru/e/fjWNcZHyjWFPvbzrT18CeA.png\"/>\n              <br />\n                                                      <p>Тактический шутер Counter-Strike 2 получил очередной апдейт. В отличие от предыдущих балансных патчей, в этот раз разработчики из Valve решили удивить игроков, и обновление получилось действительно масштабным на нововведения. Апдейт весом 4,7 ГБ не только ",
     "source": "Steam News API"
   },
   {
