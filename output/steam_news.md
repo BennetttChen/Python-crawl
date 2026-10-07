@@ -1,5 +1,11 @@
 # Steam News
 
+- **Inside the Trove of Terror**  
+  发布: 1791332561  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067924633  
+  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/44e04da47da8b634dee235756e4ffa1234879b40.png"][/img][/p][p]Some time ago, a time now none of us can quite recall, we began to set our minds on matters of the monstrous. Our work has always concerned itself with the manufacture of fright…
+
 - **7.41f Gameplay Patch**  
   发布: 1789497865  
   来源: Steam News API  
@@ -42,11 +48,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886685  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5c825b3d35627bfc4276c013745aa6fd4de935ea.png[/img]  Nearly a year has passed since Team Falcons hoisted the Aegis of Champions as the final team standing in Hamburg. But that was last year's story, and the time has come to turn our thoughts to …
 
-- **Dota 2 Update - 7/1/2026**  
-  发布: 1782948361  
+- **Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера**  
+  发布: 1791350338  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165566626  
-  摘要: [p]Over the past few days we've made various bug fixes and improvements:[/p]  [b]Dark Carnival[/b] [list] [*] Playing Regular and Turbo games now reward Scrap tickets. 6 Scrap can be traded for a Hero ticket of your choice. Regular games reward 2, Turbo games reward 1. Scrap is r…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017  
+  摘要: <img src="https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png"/>               <br />                                                       <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете ест…
 
 - **Counter-Strike 2 Update**  
   发布: 1791243583  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795  
   摘要: [p]\[ RUSH ][/p][list][*][p]Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.[/p][/*][*][p]The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconne…
-
-- **Counter-Strike 2 adds an intense fast-paced 3v3 'Rush' game mode**  
-  发布: 1790159109  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1844751498218029  
-  摘要: This new Rush mode might be my favourite way to play Counter-Strike 2, giving you a faster-paced experience with shorter matches.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/558215747id29826gol.webp" alt /></p><p>Read the full article here: https://w…
 
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  
