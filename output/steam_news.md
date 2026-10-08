@@ -1,5 +1,11 @@
 # Steam News
 
+- **В Dota 2 добавили сокровищницу Trove of Terror - новая аркана на Tidehunter и возвращение арканы Drow Ranger**  
+  发布: 1791368107  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925681  
+  摘要: <img src="https://i.playground.ru/e/GW8W6FVboA8d86KpT-cu6g.png"/>               <br />                                                                                 <p>В Dota 2 вышла сокровищница Trove of Terror. Она принесла 19 косметических предметов, включая 15 наборов уровн…
+
 - **Inside the Trove of Terror**  
   发布: 1791332561  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
-
-- **The International: Predictions, Fantasy, and Supporter Bundles**  
-  发布: 1785455868  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886685  
-  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5c825b3d35627bfc4276c013745aa6fd4de935ea.png[/img]  Nearly a year has passed since Team Falcons hoisted the Aegis of Champions as the final team standing in Hamburg. But that was last year's story, and the time has come to turn our thoughts to …
 
 - **Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера**  
   发布: 1791350338  
