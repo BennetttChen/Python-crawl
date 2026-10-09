@@ -73,6 +73,24 @@
   },
   {
     "appid": 730,
+    "title": "Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423",
+    "author": "",
+    "published": "1791530925",
+    "summary": "<img src=\"https://i.playground.ru/e/98mRQB8laACN8ppsCnBa5g.jpeg\"/>\n              <br />\n                                                                                <p>Valve выпустила небольшое обновление для Counter-Strike 2 от 9 октября. Патч затронул баланс оружия, звуковые эффекты и геометрию карт, а также принёс несколько технических исправлений. Размер загрузки составил около 539 МБ.</p> ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597",
+    "author": "Vitaliy",
+    "published": "1791499009",
+    "summary": "[p]\\[ MISC ][/p][list][*][p]Added a ping icon for dropped defuse kits[/p][/*][*][p]Reduced the time for AUG reload by half second[/p][/*][*][p]Fixed the sound event during silent reload for Desert Eagle[/p][/*][*][p]Fixed a case of buzzing soundscape sounds during demo playback[/p][/*][*][p]Clipping fixes for Rush maps[/p][/*][*][p]Localization updates[/p][/*][*][p]Stability updates[/p][/*][/list]",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
     "author": "",
@@ -123,24 +141,6 @@
     "author": "jo",
     "published": "1790373294",
     "summary": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now r",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
-    "author": "jo",
-    "published": "1790286698",
-    "summary": "[p]\\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.[/p][/*",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795",
-    "author": "jo",
-    "published": "1790204844",
-    "summary": "[p]\\[ RUSH ][/p][list][*][p]Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.[/p][/*][*][p]The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.[/p][/*][*][p]Warmup time once all players have connected, freeze time, and technical timeout time are all reduced.[",
     "source": "Steam News API"
   },
   {

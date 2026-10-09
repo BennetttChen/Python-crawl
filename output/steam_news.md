@@ -48,6 +48,18 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении**  
+  发布: 1791530925  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423  
+  摘要: <img src="https://i.playground.ru/e/98mRQB8laACN8ppsCnBa5g.jpeg"/>               <br />                                                                                 <p>Valve выпустила небольшое обновление для Counter-Strike 2 от 9 октября. Патч затронул баланс оружия, звуковые…
+
+- **Counter-Strike 2 Update**  
+  发布: 1791499009  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597  
+  摘要: [p]\[ MISC ][/p][list][*][p]Added a ping icon for dropped defuse kits[/p][/*][*][p]Reduced the time for AUG reload by half second[/p][/*][*][p]Fixed the sound event during silent reload for Desert Eagle[/p][/*][*][p]Fixed a case of buzzing soundscape sounds during demo playback[/…
+
 - **Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера**  
   发布: 1791350338  
   来源: Steam News API  
@@ -83,18 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015  
   摘要: [p]\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Added sv_clantags_enable…
-
-- **Counter-Strike 2 Update**  
-  发布: 1790286698  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773  
-  摘要: [p]\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Fixed a …
-
-- **Counter-Strike 2 Update**  
-  发布: 1790204844  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795  
-  摘要: [p]\[ RUSH ][/p][list][*][p]Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.[/p][/*][*][p]The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconne…
 
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  
