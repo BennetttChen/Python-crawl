@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015  
   摘要: [p]\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Added sv_clantags_enable…
 
+- **Авторы Palworld рассказали, почему не превратили успешный мир с "покемонами" в новый Fortnite**  
+  发布: 1791958213  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706673296  
+  摘要: <img src="https://i.playground.ru/e/5hDbU_A_GSfggunI739JOw.png"/>               <br />                                                       <p>В Pocketpair объяснили, почему решила развивать вселенную Palworld через выпуск самостоятельных спин-оффов вместо создания единой метавс…
+
 - **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
   发布: 1790573895  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/WcPbmC27ysL8xi4Gam6Kcf-1280-80.jpg"/><br><br>                 Last week, Pocketpair head of publishing and communications John "Bucky" Buckley addressed a bubbling conversation about <a href="https://www.pcgamer.com/games/survival-craft…
-
-- **How to get Chromite in Palworld**  
-  发布: 1787076883  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1840944183789606  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/saGivmkiJMoSaffvHPYVCG-1280-80.jpg"/><br><br>                 Chromite isn't actually rare in <a href="https://www.pcgamer.com/palworld/">Palworld</a>, but you've got to have a specific tool (or pal) to mine it, which is different from …
