@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Counter-Strike 2 Update**  
+  发布: 1792018968  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829  
+  摘要: [p]\[ UI ][/p][p]Demo/Replay viewer improvements:[/p][list][*][p]Added a progress bar for demo/replay downloads[/p][/*][*][p]Camera controls now use click-and-drag scheme[/p][/*][*][p]Free and chase camera are usable during a paused demo[/p][/*][*][p]Fixed some minor issues when …
+
 - **Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении**  
   发布: 1791530925  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]
-
-- **Counter-Strike 2 Update**  
-  发布: 1790373294  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015  
-  摘要: [p]\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\[ MISC ][/p][list][*][p]Added sv_clantags_enable…
 
 - **Авторы Palworld рассказали, почему не превратили успешный мир с "покемонами" в новый Fortnite**  
   发布: 1791958213  
