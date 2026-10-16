@@ -77,7 +77,7 @@
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829",
     "author": "Vitaliy",
     "published": "1792018968",
-    "summary": "[p]\\[ UI ][/p][p]Demo/Replay viewer improvements:[/p][list][*][p]Added a progress bar for demo/replay downloads[/p][/*][*][p]Camera controls now use click-and-drag scheme[/p][/*][*][p]Free and chase camera are usable during a paused demo[/p][/*][*][p]Fixed some minor issues when seeking to a different position in the demo file[/p][/*][/list][p][/p][p]\\[ MISC ][/p][p]Round backup files now require ",
+    "summary": "[p]\\[ UI ][/p][p]Demo/Replay viewer improvements:[/p][list][*][p]Added a progress bar for demo/replay downloads[/p][/*][*][p]Camera controls now use click-and-drag scheme[/p][/*][*][p]Free and chase camera are usable during a paused demo[/p][/*][*][p]Fixed some minor issues when seeking to a different position in the demo file[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Round backup files now",
     "source": "Steam News API"
   },
   {
