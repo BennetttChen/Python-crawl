@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642  
   摘要: [p]\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]
 
+- **Разработчики Palworld не хотят добавлять сотни новых Палов ради количества - каждому нужна своя особенность**  
+  发布: 1792476395  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706693859  
+  摘要: <img src="https://i.playground.ru/e/UdvGxSrq9-ZzuhjHnLfjmA.webp"/>               <br />                                                                                 <p>Pocketpair не собирается бесконечно расширять список существ в Palworld ради очередных цифр в обновлениях. Ра…
+
 - **Авторы Palworld рассказали, почему не превратили успешный мир с "покемонами" в новый Fortnite**  
   发布: 1791958213  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/142b22c0d4f3e9a4a735e6fe6ab36750d35d2599.png"][/img][/p][p]Pal Tamers！[/p][p]The time has come to decide who stands at the top of the Palpagos Islands. Voting for the [b]Palworld Global Popularity Poll 2026[/b] is officially open![/p][p]Wi…
-
-- **Palworld and No Man's Sky are intensifying their months-long flirtation, and if those two don't just kiss already, I'm going to lose my mind**  
-  发布: 1787243387  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666180  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/WcPbmC27ysL8xi4Gam6Kcf-1280-80.jpg"/><br><br>                 Last week, Pocketpair head of publishing and communications John "Bucky" Buckley addressed a bubbling conversation about <a href="https://www.pcgamer.com/games/survival-craft…
