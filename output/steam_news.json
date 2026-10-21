@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791",
+    "author": "",
+    "published": "1792507511",
+    "summary": "<img src=\"https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm strongly of the opinion that <a href=\"https://www.rockpapershotgun.com/topics/loot-crates\">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only wor",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829",
     "author": "Vitaliy",
@@ -135,12 +144,21 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642",
-    "author": "Vitaliy",
-    "published": "1790635105",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]",
+    "appid": 1623730,
+    "title": "Palworld получит крупное обновление Side by Side этой зимой - Pocketpair также раскрыла любимых Палов игроков",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695313",
+    "author": "",
+    "published": "1792503012",
+    "summary": "<img src=\"https://i.playground.ru/e/d6OVw_0y7Qmd3p-MjAiiXQ.jpeg\"/>\n              <br />\n                                                                                <p>Pocketpair объявила, что следующее крупное обновление Palworld под названием Side by Side выйдет зимой 2026 года. Разработчики пока не раскрыли подробностей о новом контенте, предложив следить за будущими анонсами.</p>           ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Global Popularity Poll 2026 Results & New Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695192",
+    "author": "pocketpair_dev",
+    "published": "1792501599",
+    "summary": "[p]Pal Tamers![/p][p][/p][p]A huge thank you to everyone around the world who voted in the Palworld Global Popularity Poll 2026 back in September! Thanks to your amazing support, we received even more votes than last year.[/p][p][/p][p]Here are your top 3![/p][p]\\[Pal Category] [/p][p]1st: Sekhmet [/p][p]2nd: Solenne [/p][p]3rd: Chillet[/p][p][/p][p]\\[Character Category] [/p][p]1st: Zoe [/p][p]2nd",
     "source": "Steam News API"
   },
   {
@@ -195,24 +213,6 @@
     "author": "Andy Chalk",
     "published": "1789060979",
     "summary": "<img src=\"https://cdn.mos.cms.futurecdn.net/bNP4EUfLJbdaWgX7N2NvUQ-1280-80.jpg\"/><br><br>\n                Early access on Steam is a simple concept. You buy a game before it's finished, provide bug reports and feedback to developers, and help shape a project's direction and ambitions. Everybody wins: You get to play the game early, and developers earn money that helps them continue and finish thei",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "v1.0.4: Balance Adjustments & Bug Fixes",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062",
-    "author": "pocketpair_dev",
-    "published": "1788750285",
-    "summary": "[p]Palworld version v1.0.4 has been released!\n\n＝＝＝\n\n▼New Missions\n・Added the sub-missions “Beyond Dimensions” and “From the Far Side of the Moon.”\n“Beyond Dimensions” can be accepted from an NPC at Fisherman’s Point in Mount Obsidian.\n“From the Far Side of the Moon” can be progressed after clearing “Beyond Dimensions.”\n\n▼Pals and Skills\n・Adjusted summoned Pals and Base Pals to prioritize skills ex",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld Global Popularity Poll 2026 is LIVE!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335",
-    "author": "pocketpair_dev",
-    "published": "1788267638",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/142b22c0d4f3e9a4a735e6fe6ab36750d35d2599.png\"][/img][/p][p]Pal Tamers！[/p][p]The time has come to decide who stands at the top of the Palpagos Islands. Voting for the [b]Palworld Global Popularity Poll 2026[/b] is officially open![/p][p]With the launch of version 1.0, our roster has expanded to [b]over 280+ Pals, [/b]and every single one of them (plus some ",
     "source": "Steam News API"
   }
 ]

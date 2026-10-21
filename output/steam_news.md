@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Games with loot boxes and other "paid random items" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat**  
+  发布: 1792507511  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791  
+  摘要: <img src="https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>I'm strongly of the opinion that <a href="https://www.rockpapershotgun.com/topics/loot-crates">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present i…
+
 - **Counter-Strike 2 Update**  
   发布: 1792018968  
   来源: Steam News API  
@@ -90,11 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136  
   摘要: [p]\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style "Static Quadrant"[/p][/*][*][p]Enabled…
 
-- **Counter-Strike 2 Update**  
-  发布: 1790635105  
+- **Palworld получит крупное обновление Side by Side этой зимой - Pocketpair также раскрыла любимых Палов игроков**  
+  发布: 1792503012  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232642  
-  摘要: [p]\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695313  
+  摘要: <img src="https://i.playground.ru/e/d6OVw_0y7Qmd3p-MjAiiXQ.jpeg"/>               <br />                                                                                 <p>Pocketpair объявила, что следующее крупное обновление Palworld под названием Side by Side выйдет зимой 2026 г…
+
+- **Global Popularity Poll 2026 Results & New Update**  
+  发布: 1792501599  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695192  
+  摘要: [p]Pal Tamers![/p][p][/p][p]A huge thank you to everyone around the world who voted in the Palworld Global Popularity Poll 2026 back in September! Thanks to your amazing support, we received even more votes than last year.[/p][p][/p][p]Here are your top 3![/p][p]\[Pal Category] […
 
 - **Разработчики Palworld не хотят добавлять сотни новых Палов ради количества - каждому нужна своя особенность**  
   发布: 1792476395  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262693002  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/bNP4EUfLJbdaWgX7N2NvUQ-1280-80.jpg"/><br><br>                 Early access on Steam is a simple concept. You buy a game before it's finished, provide bug reports and feedback to developers, and help shape a project's direction and ambit…
-
-- **v1.0.4: Balance Adjustments & Bug Fixes**  
-  发布: 1788750285  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452062  
-  摘要: [p]Palworld version v1.0.4 has been released!  ＝＝＝  ▼New Missions ・Added the sub-missions “Beyond Dimensions” and “From the Far Side of the Moon.” “Beyond Dimensions” can be accepted from an NPC at Fisherman’s Point in Mount Obsidian. “From the Far Side of the Moon” can be progre…
-
-- **Palworld Global Popularity Poll 2026 is LIVE!**  
-  发布: 1788267638  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313335  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/142b22c0d4f3e9a4a735e6fe6ab36750d35d2599.png"][/img][/p][p]Pal Tamers！[/p][p]The time has come to decide who stands at the top of the Palpagos Islands. Voting for the [b]Palworld Global Popularity Poll 2026[/b] is officially open![/p][p]Wi…
