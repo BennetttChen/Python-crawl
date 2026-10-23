@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Counter-Strike 2 Update**  
+  发布: 1792709770  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398  
+  摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.Precache[/p][list][*][p]Returns a CSPrecache object[/p][/*][*][p]Added CSPrecache.IsServerLoading[/p][/*][*][p]Added CSPrecache.IsServerLoaded[/p][/*][*][p]Added CSPrecache.IsClientLoading[/p][/*][*][p]Added CSPrecache.IsClientL…
+
 - **Games with loot boxes and other "paid random items" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat**  
   发布: 1792507511  
   来源: Steam News API  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875  
   摘要: [p]\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report di…
 
-- **Counter-Strike 2 Update**  
-  发布: 1790808379  
+- **Глава Pocketpair уточнил, что анонс Palworld Side by Side - это всего лишь обновление 1.1, а не сиквел или спин-офф**  
+  发布: 1792687037  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136  
-  摘要: [p]\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style "Static Quadrant"[/p][/*][*][p]Enabled…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114033448  
+  摘要: <img src="https://i.playground.ru/e/Bkmx53y9FRrMKqP1AVuCmQ.png"/>               <br />                                                                                 <p>На этой неделе Palworld анонсировала «Side by Side». Название и загадочный ключевой арт вызвали у некоторых иг…
 
 - **Palworld получит крупное обновление Side by Side этой зимой - Pocketpair также раскрыла любимых Палов игроков**  
   发布: 1792503012  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703464  
   摘要: [p]▼Bug Fixes[/p][p]・Fixed an issue where terrain, building, and other textures could load at significantly reduced resolution for some players[/p][p]・Fixed an issue where some map icon filters could unintentionally be turned off after the player respawned[/p]
-
-- **Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into**  
-  发布: 1789060979  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1843481262693002  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/bNP4EUfLJbdaWgX7N2NvUQ-1280-80.jpg"/><br><br>                 Early access on Steam is a simple concept. You buy a game before it's finished, provide bug reports and feedback to developers, and help shape a project's direction and ambit…
