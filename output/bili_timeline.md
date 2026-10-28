@@ -1,29 +1,5 @@
 # Bilibili PGC Timeline
 
-- **李熊猫**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss262397  
-  摘要: 09:00
-
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
-- **小车队大救援：安全先锋队**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss298877  
-  摘要: 10:00
-
-- **小车队大救援：安全先锋队 中文配音**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss298878  
-  摘要: 10:00
-
 - **小车队大救援：安全先锋队**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +95,27 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss336505  
   摘要: 18:00
+
+- **万古至尊：李云霄传**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss119017  
+  摘要: 09:00
+
+- **小车队大救援：安全先锋队**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss298877  
+  摘要: 10:00
+
+- **小车队大救援：安全先锋队 中文配音**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss298878  
+  摘要: 10:00
+
+- **功夫熊猫：神龙骑士 第二季**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss332584  
+  摘要: 10:00

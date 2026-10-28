@@ -54,12 +54,6 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398  
   摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.Precache[/p][list][*][p]Returns a CSPrecache object[/p][/*][*][p]Added CSPrecache.IsServerLoading[/p][/*][*][p]Added CSPrecache.IsServerLoaded[/p][/*][*][p]Added CSPrecache.IsClientLoading[/p][/*][*][p]Added CSPrecache.IsClientL…
 
-- **Games with loot boxes and other "paid random items" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat**  
-  发布: 1792507511  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791  
-  摘要: <img src="https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp" /> <p>I'm strongly of the opinion that <a href="https://www.rockpapershotgun.com/topics/loot-crates">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present i…
-
 - **Counter-Strike 2 Update**  
   发布: 1792018968  
   来源: Steam News API  
@@ -95,6 +89,18 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875  
   摘要: [p]\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report di…
+
+- **Counter-Strike 2 Update**  
+  发布: 1790808379  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136  
+  摘要: [p]\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style "Static Quadrant"[/p][/*][*][p]Enabled…
+
+- **Palworld × Graveyard Keeper 2 Steam Bundle is Out Now!**  
+  发布: 1793150513  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229254  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/7b16685a6c7de8cdc3c77001fb9b65fa18e855a6.png"][/img][/p][p]We're thrilled to announce that the Palworld × Graveyard Keeper 2 Steam Bundle is now officially available![/p][p][/p][p]Whether you'd rather explore a vast world alongside mysteri…
 
 - **Глава Pocketpair уточнил, что анонс Palworld Side by Side - это всего лишь обновление 1.1, а не сиквел или спин-офф**  
   发布: 1792687037  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/d00e6f732b618399d7a4738802b4ffe65b3a56ba.png"][/img]We are thrilled to announce that the Palworld × RuneScape: Dragonwilds Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft game…
-
-- **v1.0.5: Bug fixes**  
-  发布: 1789441427  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262703464  
-  摘要: [p]▼Bug Fixes[/p][p]・Fixed an issue where terrain, building, and other textures could load at significantly reduced resolution for some players[/p][p]・Fixed an issue where some map icon filters could unintentionally be turned off after the player respawned[/p]
