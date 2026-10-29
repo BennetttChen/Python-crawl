@@ -49,6 +49,12 @@
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
 - **Counter-Strike 2 Update**  
+  发布: 1793224089  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button agai…
+
+- **Counter-Strike 2 Update**  
   发布: 1792709770  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875  
   摘要: [p]\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report di…
 
-- **Counter-Strike 2 Update**  
-  发布: 1790808379  
+- **Глава Pocketpair допустил порт Palworld на Switch 2 - при условии переговоров с Nintendo**  
+  发布: 1793178804  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136  
-  摘要: [p]\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style "Static Quadrant"[/p][/*][*][p]Enabled…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302230216  
+  摘要: <img src="https://i.playground.ru/e/ms6buuErajaKdmCKAL6KPg.png"/>               <br />                                                                                 <p>Генеральный директор Pocketpair Такуро Мидзобэ заявил, что порт Palworld на Nintendo Switch 2 возможен, если N…
 
 - **Palworld × Graveyard Keeper 2 Steam Bundle is Out Now!**  
   发布: 1793150513  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596  
   摘要: <img src="https://i.playground.ru/e/ODcS2jTPJqxe43UqYs-hvQ.jpeg"/>               <br />                                                                                 <p>Palworld неожиданно для самой Pocketpair стала самым высоко оценённым релизом 2026 года в Steam по данным Ste…
-
-- **Palworld × RuneScape: Dragonwilds Steam Bundle is Out Now!**  
-  发布: 1790336478  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251  
-  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/d00e6f732b618399d7a4738802b4ffe65b3a56ba.png"][/img]We are thrilled to announce that the Palworld × RuneScape: Dragonwilds Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft game…

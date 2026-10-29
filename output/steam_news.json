@@ -74,6 +74,15 @@
   {
     "appid": 730,
     "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686",
+    "author": "Vitaliy",
+    "published": "1793224089",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.[/p][/*][*][p]Fixed various cases where the first sound of a reload was audible irrespective if a user requested a sil",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398",
     "author": "Vitaliy",
     "published": "1792709770",
@@ -135,12 +144,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656379136",
-    "author": "Vitaliy",
-    "published": "1790808379",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style \"Static Quadrant\"[/p][/*][*][p]Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)[/p][/*][*][p]Allowed negative ",
+    "appid": 1623730,
+    "title": "Глава Pocketpair допустил порт Palworld на Switch 2 - при условии переговоров с Nintendo",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302230216",
+    "author": "",
+    "published": "1793178804",
+    "summary": "<img src=\"https://i.playground.ru/e/ms6buuErajaKdmCKAL6KPg.png\"/>\n              <br />\n                                                                                <p>Генеральный директор Pocketpair Такуро Мидзобэ заявил, что порт Palworld на Nintendo Switch 2 возможен, если Nintendo будет готова сесть за стол переговоров. Это происходит на фоне продолжающейся судебной тяжбы между компаниями: в",
     "source": "Steam News API"
   },
   {
@@ -204,15 +213,6 @@
     "author": "",
     "published": "1790573895",
     "summary": "<img src=\"https://i.playground.ru/e/ODcS2jTPJqxe43UqYs-hvQ.jpeg\"/>\n              <br />\n                                                                                <p>Palworld неожиданно для самой Pocketpair стала самым высоко оценённым релизом 2026 года в Steam по данным Steam250. Руководитель издательского направления и коммуникаций компании Джон «Бакки» Бакли назвал этот результат «ничем ин",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld × RuneScape: Dragonwilds Steam Bundle is Out Now!",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224251",
-    "author": "pocketpair_dev",
-    "published": "1790336478",
-    "summary": "[p][img src=\"{STEAM_CLAN_IMAGE}/40671762/d00e6f732b618399d7a4738802b4ffe65b3a56ba.png\"][/img]We are thrilled to announce that the Palworld × RuneScape: Dragonwilds Steam Bundle is now officially available![/p][p]You can now grab both of these unique open-world survival craft games at a [b]10% OFF[/b] discount![/p][p]If you already own Palworld, you can still use this bundle to purchase RuneScape: ",
     "source": "Steam News API"
   }
 ]
