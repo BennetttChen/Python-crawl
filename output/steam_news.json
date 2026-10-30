@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279",
+    "author": "",
+    "published": "1793287764",
+    "summary": "<img src=\"https://i.playground.ru/e/rr24UpqUJhVamz7BT3zk_A.jpeg\"/>\n              <br />\n                                                                                <p>В файлах CS2 нашли новое оружие – Valve тестирует винтовку LAR\n\nПосле свежего обновления датамайнеры обнаружили модель LAR – ранее этот прототип фигурировал в файлах под названием M14. Судя по найденным анимациям, это может быть ",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Counter-Strike 2 Update",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686",
     "author": "Vitaliy",
@@ -135,12 +144,21 @@
     "source": "Steam News API"
   },
   {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875",
-    "author": "Vitaliy",
-    "published": "1790979853",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report dialogs[/p][/*][*][p]Improved lighting in the Warehouse map[/p][/*][*][p]Updated workshop convars whitelist with the new c",
+    "appid": 1623730,
+    "title": "Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302237476",
+    "author": "",
+    "published": "1793343306",
+    "summary": "<img src=\"https://i.playground.ru/e/-pTMDHwV9yX2upL3B_oPCw.jpeg\"/>\n              <br />\n                                                                                <p>Разработчик Palworld Pocketpair не собирается отказываться от статуса инди-студии, несмотря на стремительный рост компании и аудиторию игры, достигшую в этом году 40 миллионов человек. По мнению руководителя отдела издательской д",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld dev says the studio still calls itself indie because of its \"genuine creative freedom\"",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1847920302235869",
+    "author": "editor@pcgamesn.com",
+    "published": "1793290988",
+    "summary": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/palworld-developer-pocketpair-indie-game-studio-bucky-john-buckley.jpg\"/><p>Pocketpair's John Buckley contemplates what makes a studio indie, asserting that the most important factor is its level of creative control.</p>\n<p>Read the full story on PCGamesN: <a href=\"https://www.pcgamesn.com/palworld/pocket",
     "source": "Steam News API"
   },
   {
@@ -195,24 +213,6 @@
     "author": "",
     "published": "1792476395",
     "summary": "<img src=\"https://i.playground.ru/e/UdvGxSrq9-ZzuhjHnLfjmA.webp\"/>\n              <br />\n                                                                                <p>Pocketpair не собирается бесконечно расширять список существ в Palworld ради очередных цифр в обновлениях. Разработчики считают, что каждый новый Пал должен чем-то запоминаться игрокам — будь то внешний вид, способности, боевая р",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Авторы Palworld рассказали, почему не превратили успешный мир с \"покемонами\" в новый Fortnite",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706673296",
-    "author": "",
-    "published": "1791958213",
-    "summary": "<img src=\"https://i.playground.ru/e/5hDbU_A_GSfggunI739JOw.png\"/>\n              <br />\n                                                      <p>В Pocketpair объяснили, почему решила развивать вселенную Palworld через выпуск самостоятельных спин-оффов вместо создания единой метавселенной по примеру Fortnite. В интервью изданию MP1st руководитель компании Джон Бакли заявил, что разработчики ставят в",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 1623730,
-    "title": "Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596",
-    "author": "",
-    "published": "1790573895",
-    "summary": "<img src=\"https://i.playground.ru/e/ODcS2jTPJqxe43UqYs-hvQ.jpeg\"/>\n              <br />\n                                                                                <p>Palworld неожиданно для самой Pocketpair стала самым высоко оценённым релизом 2026 года в Steam по данным Steam250. Руководитель издательского направления и коммуникаций компании Джон «Бакки» Бакли назвал этот результат «ничем ин",
     "source": "Steam News API"
   }
 ]

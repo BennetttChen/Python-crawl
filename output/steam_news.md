@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR**  
+  发布: 1793287764  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279  
+  摘要: <img src="https://i.playground.ru/e/rr24UpqUJhVamz7BT3zk_A.jpeg"/>               <br />                                                                                 <p>В файлах CS2 нашли новое оружие – Valve тестирует винтовку LAR  После свежего обновления датамайнеры обнаружи…
+
 - **Counter-Strike 2 Update**  
   发布: 1793224089  
   来源: Steam News API  
@@ -90,11 +96,17 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875  
   摘要: [p]\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]
 
-- **Counter-Strike 2 Update**  
-  发布: 1790979853  
+- **Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld**  
+  发布: 1793343306  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656387875  
-  摘要: [p]\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report di…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302237476  
+  摘要: <img src="https://i.playground.ru/e/-pTMDHwV9yX2upL3B_oPCw.jpeg"/>               <br />                                                                                 <p>Разработчик Palworld Pocketpair не собирается отказываться от статуса инди-студии, несмотря на стремительный …
+
+- **Palworld dev says the studio still calls itself indie because of its "genuine creative freedom"**  
+  发布: 1793290988  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1847920302235869  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/palworld-developer-pocketpair-indie-game-studio-bucky-john-buckley.jpg"/><p>Pocketpair's John Buckley contemplates what makes a studio indie, asserting that the most important factor is …
 
 - **Глава Pocketpair допустил порт Palworld на Switch 2 - при условии переговоров с Nintendo**  
   发布: 1793178804  
@@ -131,15 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706693859  
   摘要: <img src="https://i.playground.ru/e/UdvGxSrq9-ZzuhjHnLfjmA.webp"/>               <br />                                                                                 <p>Pocketpair не собирается бесконечно расширять список существ в Palworld ради очередных цифр в обновлениях. Ра…
-
-- **Авторы Palworld рассказали, почему не превратили успешный мир с "покемонами" в новый Fortnite**  
-  发布: 1791958213  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706673296  
-  摘要: <img src="https://i.playground.ru/e/5hDbU_A_GSfggunI739JOw.png"/>               <br />                                                       <p>В Pocketpair объяснили, почему решила развивать вселенную Palworld через выпуск самостоятельных спин-оффов вместо создания единой метавс…
-
-- **Palworld неожиданно для самих создателей стала самым высоко оценённым релизом 2026 года в Steam**  
-  发布: 1790573895  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1844751498230596  
-  摘要: <img src="https://i.playground.ru/e/ODcS2jTPJqxe43UqYs-hvQ.jpeg"/>               <br />                                                                                 <p>Palworld неожиданно для самой Pocketpair стала самым высоко оценённым релизом 2026 года в Steam по данным Ste…
