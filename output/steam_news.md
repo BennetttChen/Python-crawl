@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Российская 1w выиграла "Московские киберигры 2026" по Counter-Strike 2 и обеспечила себе место на мейджоре**  
+  发布: 1793699556  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353  
+  摘要: <img src="https://i.playground.ru/e/cFYB9h2yceV9dTjn9ufQoQ.jpeg"/>               <br />                                                                                 <p>В Москве завершился международный турнир по Counter-Strike 2, ставший одним из главных событий II Московской …
+
 - **В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR**  
   发布: 1793287764  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017  
   摘要: <img src="https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png"/>               <br />                                                       <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете ест…
-
-- **Counter-Strike 2 Update**  
-  发布: 1791243583  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875  
-  摘要: [p]\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]
 
 - **Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld**  
   发布: 1793343306  

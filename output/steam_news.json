@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Российская 1w выиграла \"Московские киберигры 2026\" по Counter-Strike 2 и обеспечила себе место на мейджоре",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353",
+    "author": "",
+    "published": "1793699556",
+    "summary": "<img src=\"https://i.playground.ru/e/cFYB9h2yceV9dTjn9ufQoQ.jpeg\"/>\n              <br />\n                                                                                <p>В Москве завершился международный турнир по Counter-Strike 2, ставший одним из главных событий II Московской международной недели видеоигр. Впервые с 2019 года столица приняла соревнование такого уровня, результаты которого учиты",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279",
     "author": "",
@@ -132,15 +141,6 @@
     "author": "",
     "published": "1791350338",
     "summary": "<img src=\"https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png\"/>\n              <br />\n                                                      <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете естественных и технических наук, предложив новый подход к борьбе с нечестными пользователями. Его работа посвящена системе ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394875",
-    "author": "Vitaliy",
-    "published": "1791243583",
-    "summary": "[p]\\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]",
     "source": "Steam News API"
   },
   {

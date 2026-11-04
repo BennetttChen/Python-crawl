@@ -1,35 +1,5 @@
 # Bilibili PGC Timeline
 
-- **李熊猫**  
-  发布: 09:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss262397  
-  摘要: 09:00
-
-- **功夫熊猫：神龙骑士 第二季**  
-  发布: 09:59  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss332584  
-  摘要: 09:59
-
-- **苏东坡与杭州的故事**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss247422  
-  摘要: 10:00
-
-- **功夫熊猫：神龙骑士 第二季 中文配音**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss332588  
-  摘要: 10:00
-
-- **海绵宝宝 第十二季 中文配音**  
-  发布: 15:20  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss348190  
-  摘要: 15:20
-
 - **功夫熊猫：神龙骑士 第二季**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -78,13 +48,13 @@
   链接: https://www.bilibili.com/bangumi/play/ss283870  
   摘要: 11:00
 
-- **好奇心俱乐部**  
+- **好奇心俱乐部（ Question Club）**  
   发布: 17:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss324706  
   摘要: 17:00
 
-- **好奇心俱乐部 中文配音**  
+- **好奇心俱乐部（ Question Club）中文配音**  
   发布: 17:00  
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss324710  
@@ -119,3 +89,33 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss332588  
   摘要: 10:00
+
+- **好奇心俱乐部（ Question Club）**  
+  发布: 17:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss324706  
+  摘要: 17:00
+
+- **好奇心俱乐部（ Question Club）中文配音**  
+  发布: 17:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss324710  
+  摘要: 17:00
+
+- **名侦探柯南**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33378  
+  摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **财神窦占龙**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss264970  
+  摘要: 09:00
