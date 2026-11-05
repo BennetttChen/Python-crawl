@@ -73,6 +73,15 @@
   },
   {
     "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353",
+    "author": "Vitaliy",
+    "published": "1793840047",
+    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.[/p][/*][*][p]Reduced freeze time and round restart delay in Retakes mode.[/p][/*][*][p]Pinging pet chickens during freeze time will request a trick from them.[/p][/*][*][p]Pet chicken names are no longer dis",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 730,
     "title": "Российская 1w выиграла \"Московские киберигры 2026\" по Counter-Strike 2 и обеспечила себе место на мейджоре",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353",
     "author": "",
@@ -132,15 +141,6 @@
     "author": "Vitaliy",
     "published": "1791499009",
     "summary": "[p]\\[ MISC ][/p][list][*][p]Added a ping icon for dropped defuse kits[/p][/*][*][p]Reduced the time for AUG reload by half second[/p][/*][*][p]Fixed the sound event during silent reload for Desert Eagle[/p][/*][*][p]Fixed a case of buzzing soundscape sounds during demo playback[/p][/*][*][p]Clipping fixes for Rush maps[/p][/*][*][p]Localization updates[/p][/*][*][p]Stability updates[/p][/*][/list]",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017",
-    "author": "",
-    "published": "1791350338",
-    "summary": "<img src=\"https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png\"/>\n              <br />\n                                                      <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете естественных и технических наук, предложив новый подход к борьбе с нечестными пользователями. Его работа посвящена системе ",
     "source": "Steam News API"
   },
   {

@@ -48,6 +48,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Counter-Strike 2 Update**  
+  发布: 1793840047  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353  
+  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.[/p][/*][*][p]Reduced freeze time and round restart delay in Retakes mode.[/p][/*][*][p]…
+
 - **Российская 1w выиграла "Московские киберигры 2026" по Counter-Strike 2 и обеспечила себе место на мейджоре**  
   发布: 1793699556  
   来源: Steam News API  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597  
   摘要: [p]\[ MISC ][/p][list][*][p]Added a ping icon for dropped defuse kits[/p][/*][*][p]Reduced the time for AUG reload by half second[/p][/*][*][p]Fixed the sound event during silent reload for Desert Eagle[/p][/*][*][p]Fixed a case of buzzing soundscape sounds during demo playback[/…
-
-- **Игрок в Counter-Strike 2 написал магистерскую диссертацию о том, как выследить и навсегда избавиться от читера**  
-  发布: 1791350338  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925017  
-  摘要: <img src="https://i.playground.ru/e/155mCndbo3atGoks2ODsgw.png"/>               <br />                                                       <p>Простой студент и заядлый игрок в Counter-Strike 2 под ником magga_ защитил целую магистерскую диссертацию в Норвежском университете ест…
 
 - **Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld**  
   发布: 1793343306  

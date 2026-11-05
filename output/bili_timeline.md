@@ -1,23 +1,5 @@
 # Bilibili PGC Timeline
 
-- **功夫熊猫：神龙骑士 第二季**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss332584  
-  摘要: 10:00
-
-- **功夫熊猫：神龙骑士 第二季 中文配音**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss332588  
-  摘要: 10:00
-
-- **雪王来了！**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss283870  
-  摘要: 11:00
-
 - **苏东坡与杭州的故事**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +101,21 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss264970  
   摘要: 09:00
+
+- **功夫熊猫：神龙骑士 第二季**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss332584  
+  摘要: 10:00
+
+- **功夫熊猫：神龙骑士 第二季 中文配音**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss332588  
+  摘要: 10:00
+
+- **牧神记**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45969  
+  摘要: 11:00
