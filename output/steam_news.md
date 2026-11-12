@@ -49,6 +49,12 @@
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
 - **Counter-Strike 2 Update**  
+  发布: 1794438200  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180746  
+  摘要: [p]\[ ANIMATION ][/p][list][*][p]Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles[/p][/*][/list][p]\[ MISC ][/p][list][*][p]Fixed bot pathing issue in Retakes game mode[/p][/*][*][p]Fixed a rendering hang on DX11[/p][/*][*][p]Improv…
+
+- **Counter-Strike 2 Update**  
   发布: 1793840047  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481353  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423  
   摘要: <img src="https://i.playground.ru/e/98mRQB8laACN8ppsCnBa5g.jpeg"/>               <br />                                                                                 <p>Valve выпустила небольшое обновление для Counter-Strike 2 от 9 октября. Патч затронул баланс оружия, звуковые…
-
-- **Counter-Strike 2 Update**  
-  发布: 1791499009  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931597  
-  摘要: [p]\[ MISC ][/p][list][*][p]Added a ping icon for dropped defuse kits[/p][/*][*][p]Reduced the time for AUG reload by half second[/p][/*][*][p]Fixed the sound event during silent reload for Desert Eagle[/p][/*][*][p]Fixed a case of buzzing soundscape sounds during demo playback[/…
 
 - **Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld**  
   发布: 1793343306  
