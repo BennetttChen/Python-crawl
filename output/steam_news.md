@@ -48,6 +48,24 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
   摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
 
+- **Valve опубликовала тизер зимней версии карты Cobblestone для Counter-Strike 2**  
+  发布: 1794986269  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110423066  
+  摘要: <img src="https://i.playground.ru/e/CJIKk7Gkn5_GJqIKfSqpMw.jpeg"/>               <br />                                                                                 <p>Студия Valve представила короткий тизер, намекающий на скорое возвращение легендарной карты Cobblestone в Cou…
+
+- **Counter-Strike 2 Update**  
+  发布: 1794958807  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421976  
+  摘要: [ SINGAPORE 2026 MAJOR ][list] [*] The PGL Singapore 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge, and more. [*] Purchase a Singapore 2026 Viewer Pass to receive an upgradable Singapore 2026 Coin. With an active pass, you…
+
+- **The Cobbled Road to Singapore**  
+  发布: 1794958720  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110421973  
+  摘要: [video webm="https://clan.fastly.steamstatic.com/images/3381077/cbaf2e646b6b20b7c1c1c27d30e76732fbe60b26.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/dec767ae6d99eb5782d0975a4627a51ca7f7931b.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/8e96d2f4…
+
 - **Counter-Strike 2 Update**  
   发布: 1794438200  
   来源: Steam News API  
@@ -78,23 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686  
   摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button agai…
 
-- **Counter-Strike 2 Update**  
-  发布: 1792709770  
+- **Pocketpair решила не конкурировать с GTA 6 за внимание игроков - новости о будущем Palworld подождут**  
+  发布: 1794985054  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034398  
-  摘要: [p]\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.Precache[/p][list][*][p]Returns a CSPrecache object[/p][/*][*][p]Added CSPrecache.IsServerLoading[/p][/*][*][p]Added CSPrecache.IsServerLoaded[/p][/*][*][p]Added CSPrecache.IsClientLoading[/p][/*][*][p]Added CSPrecache.IsClientL…
-
-- **Counter-Strike 2 Update**  
-  发布: 1792018968  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829  
-  摘要: [p]\[ UI ][/p][p]Demo/Replay viewer improvements:[/p][list][*][p]Added a progress bar for demo/replay downloads[/p][/*][*][p]Camera controls now use click-and-drag scheme[/p][/*][*][p]Free and chase camera are usable during a paused demo[/p][/*][*][p]Fixed some minor issues when …
-
-- **Valve ускорила перезарядку AUG в Counter-Strike 2 и исправила ошибки на картах Rush в свежем обновлении**  
-  发布: 1791530925  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067932423  
-  摘要: <img src="https://i.playground.ru/e/98mRQB8laACN8ppsCnBa5g.jpeg"/>               <br />                                                                                 <p>Valve выпустила небольшое обновление для Counter-Strike 2 от 9 октября. Патч затронул баланс оружия, звуковые…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110423022  
+  摘要: <img src="https://i.playground.ru/e/Dx1njcc1ZDDmCDtEbGFyxw.jpeg"/>               <br />                                                                                 <p>Pocketpair пока не спешит раскрывать подробности следующих обновлений Palworld и Palfarm. Причина, по словам …
 
 - **Pocketpair объяснила, почему считает себя инди-студией даже после успеха Palworld**  
   发布: 1793343306  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695192  
   摘要: [p]Pal Tamers![/p][p][/p][p]A huge thank you to everyone around the world who voted in the Palworld Global Popularity Poll 2026 back in September! Thanks to your amazing support, we received even more votes than last year.[/p][p][/p][p]Here are your top 3![/p][p]\[Pal Category] […
-
-- **Разработчики Palworld не хотят добавлять сотни новых Палов ради количества - каждому нужна своя особенность**  
-  发布: 1792476395  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706693859  
-  摘要: <img src="https://i.playground.ru/e/UdvGxSrq9-ZzuhjHnLfjmA.webp"/>               <br />                                                                                 <p>Pocketpair не собирается бесконечно расширять список существ в Palworld ради очередных цифр в обновлениях. Ра…
