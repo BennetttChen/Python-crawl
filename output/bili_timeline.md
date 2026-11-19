@@ -1,29 +1,5 @@
 # Bilibili PGC Timeline
 
-- **小羊肖恩 第七季**  
-  发布: 10:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss355139  
-  摘要: 10:00
-
-- **雪王来了！**  
-  发布: 11:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss283870  
-  摘要: 11:00
-
-- **海绵宝宝 第十二季**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss348189  
-  摘要: 12:00
-
-- **海绵宝宝 第十二季 中文配音**  
-  发布: 12:00  
-  来源: Bilibili Timeline (legacy)  
-  链接: https://www.bilibili.com/bangumi/play/ss348190  
-  摘要: 12:00
-
 - **苏东坡与杭州的故事**  
   发布: 10:00  
   来源: Bilibili Timeline (legacy)  
@@ -119,3 +95,27 @@
   来源: Bilibili Timeline (legacy)  
   链接: https://www.bilibili.com/bangumi/play/ss33378  
   摘要: 19:30
+
+- **名侦探柯南（中配）**  
+  发布: 19:30  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss33415  
+  摘要: 19:30
+
+- **财神窦占龙**  
+  发布: 09:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss264970  
+  摘要: 09:00
+
+- **小羊肖恩 第七季**  
+  发布: 10:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss355139  
+  摘要: 10:00
+
+- **牧神记**  
+  发布: 11:00  
+  来源: Bilibili Timeline (legacy)  
+  链接: https://www.bilibili.com/bangumi/play/ss45969  
+  摘要: 11:00

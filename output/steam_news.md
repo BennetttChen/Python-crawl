@@ -1,5 +1,17 @@
 # Steam News
 
+- **В Dota 2 вышел патч 7.42 - глобальные изменения механик, экономики и ландшафта**  
+  发布: 1795036721  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426096  
+  摘要: <img src="https://i.playground.ru/e/OUjxR7VilyyI_Z-NvmPUKw.png"/>               <br />                                                                                 <p>Valve выпустила обновление 7.42 для Dota 2 — одно из самых масштабных за последнее время. Патч затрагивает поч…
+
+- **7.42 Gameplay Update**  
+  发布: 1795032046  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425804  
+  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/adf1013ad1d68cac20ef37fe8bdb5282c3d9c245.png[/img]  [p]Patch 7.42 is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.42"]here[/url].  In addition, we've made the following improvements and bug fixes: [list] […
+
 - **В Dota 2 добавили сокровищницу Trove of Terror - новая аркана на Tidehunter и возвращение арканы Drow Ranger**  
   发布: 1791368107  
   来源: Steam News API  
@@ -36,17 +48,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427  
   摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/a7ab9b6d4c788583a689e0519021a93a76c17f30.png"][/img][/p][p]The sixteen best Dota teams in the world spent the last week battling through an intense Group Stage, and now only eight contenders remain. In a matter of hours Team Vision, Tea…
 
-- **The International: Streams, Secret Shop, and More**  
-  发布: 1786494519  
+- **Counter-Strike 2 Update**  
+  发布: 1795049879  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772671  
-  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/aa83bcaaafe7cd4d11a841ec381ec28ccb039d41.png"][/img]It's the final countdown: Players and talent have landed, and all of the pieces are falling into place to make Shanghai the center of the Dota universe for the next two weeks. It's tim…
-
-- **Gameplay Patch 7.41e and Summer Scrub**  
-  发布: 1785455895  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687  
-  摘要: [img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]  The International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426557  
+  摘要: [p]\[ MAPS ][/p][p]Cobblestone[/p][list][*][p]Fixed some walkable ledges in long A[/p][/*][*][p]Fixed map issue that was loading an empty skybox[/p][/*][*][p]Fixed an audio blocker issue by mid/A[/p][/*][*][p]Added a grenade clip to assault van bumper[/p][/*][*][p]Fixed various g…
 
 - **Valve опубликовала тизер зимней версии карты Cobblestone для Counter-Strike 2**  
   发布: 1794986269  
@@ -89,12 +95,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279  
   摘要: <img src="https://i.playground.ru/e/rr24UpqUJhVamz7BT3zk_A.jpeg"/>               <br />                                                                                 <p>В файлах CS2 нашли новое оружие – Valve тестирует винтовку LAR  После свежего обновления датамайнеры обнаружи…
-
-- **Counter-Strike 2 Update**  
-  发布: 1793224089  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686  
-  摘要: [p]\[ GAMEPLAY ][/p][list][*][p]Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button agai…
 
 - **Pocketpair решила не конкурировать с GTA 6 за внимание игроков - новости о будущем Palworld подождут**  
   发布: 1794985054  

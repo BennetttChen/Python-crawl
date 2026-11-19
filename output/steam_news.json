@@ -1,6 +1,24 @@
 [
   {
     "appid": 570,
+    "title": "В Dota 2 вышел патч 7.42 - глобальные изменения механик, экономики и ландшафта",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110426096",
+    "author": "",
+    "published": "1795036721",
+    "summary": "<img src=\"https://i.playground.ru/e/OUjxR7VilyyI_Z-NvmPUKw.png\"/>\n              <br />\n                                                                                <p>Valve выпустила обновление 7.42 для Dota 2 — одно из самых масштабных за последнее время. Патч затрагивает почти все аспекты игры: от базовых характеристик героев и экономики до нейтральных крипов, предметов и ландшафта карты. Пол",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
+    "title": "7.42 Gameplay Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110425804",
+    "author": "flynnch",
+    "published": "1795032046",
+    "summary": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/adf1013ad1d68cac20ef37fe8bdb5282c3d9c245.png[/img]\n\n[p]Patch 7.42 is out now and you can check out the patch notes [url=\"https://www.dota2.com/patches/7.42\"]here[/url].\n\nIn addition, we've made the following improvements and bug fixes:\n[list]\n[*] Added functionality to bind hotkeys for individual abilities on Invoker's Invoked Spells, Largo's songs, and Kez's Sa",
+    "source": "Steam News API"
+  },
+  {
+    "appid": 570,
     "title": "В Dota 2 добавили сокровищницу Trove of Terror - новая аркана на Tidehunter и возвращение арканы Drow Ranger",
     "link": "https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846018067925681",
     "author": "",
@@ -54,21 +72,12 @@
     "source": "Steam News API"
   },
   {
-    "appid": 570,
-    "title": "The International: Streams, Secret Shop, and More",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183772671",
-    "author": "krAnk0r",
-    "published": "1786494519",
-    "summary": "[p][img src=\"{STEAM_CLAN_LOC_IMAGE}/3703047/aa83bcaaafe7cd4d11a841ec381ec28ccb039d41.png\"][/img]It's the final countdown: Players and talent have landed, and all of the pieces are falling into place to make Shanghai the center of the Dota universe for the next two weeks. It's time to finish crafting your fantasy rosters, lock in your first round of predictions, and get ready to tune in because The",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 570,
-    "title": "Gameplay Patch 7.41e and Summer Scrub",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055886687",
-    "author": "kyled",
-    "published": "1785455895",
-    "summary": "[img]{STEAM_CLAN_LOC_IMAGE}/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4.png[/img]\n\nThe International approaches and we've just released an update that includes [url=https://www.dota2.com/newsentry/678505520073540063]predictions, fantasy, supporter bundles[/url], and a chance to prove your skills and win new Immortals and unlock terrains.\n\nBut that's not all. Today we're also releasing [url=ht",
+    "appid": 730,
+    "title": "Counter-Strike 2 Update",
+    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426557",
+    "author": "Vitaliy",
+    "published": "1795049879",
+    "summary": "[p]\\[ MAPS ][/p][p]Cobblestone[/p][list][*][p]Fixed some walkable ledges in long A[/p][/*][*][p]Fixed map issue that was loading an empty skybox[/p][/*][*][p]Fixed an audio blocker issue by mid/A[/p][/*][*][p]Added a grenade clip to assault van bumper[/p][/*][*][p]Fixed various gaps in the world[/p][/*][/list][p]Inferno[/p][list][*][p]Fixed grenade and Molotov exploit spot from church to dark on b",
     "source": "Steam News API"
   },
   {
@@ -132,15 +141,6 @@
     "author": "",
     "published": "1793287764",
     "summary": "<img src=\"https://i.playground.ru/e/rr24UpqUJhVamz7BT3zk_A.jpeg\"/>\n              <br />\n                                                                                <p>В файлах CS2 нашли новое оружие – Valve тестирует винтовку LAR\n\nПосле свежего обновления датамайнеры обнаружили модель LAR – ранее этот прототип фигурировал в файлах под названием M14. Судя по найденным анимациям, это может быть ",
-    "source": "Steam News API"
-  },
-  {
-    "appid": 730,
-    "title": "Counter-Strike 2 Update",
-    "link": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302232686",
-    "author": "Vitaliy",
-    "published": "1793224089",
-    "summary": "[p]\\[ GAMEPLAY ][/p][list][*][p]Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.[/p][/*][*][p]Fixed various cases where the first sound of a reload was audible irrespective if a user requested a sil",
     "source": "Steam News API"
   },
   {
