@@ -1,5 +1,11 @@
 # Steam News
 
+- **Dota 2 patch 7.42 hauls Valve's MOBA out of the late-game sludge**  
+  发布: 1795090090  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/1849827110428213  
+  摘要: <img width="900" height="507" src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/dota-2-7-42-patch-notes-valve-moba-new-update-steam.jpg"/><p>Valve's new Dota 2 7.42 patch notes are here, with major progression changes to speed up the late game, and a bunch of fresh …
+
 - **В Dota 2 вышел патч 7.42 - глобальные изменения механик, экономики и ландшафта**  
   发布: 1795036721  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666735  
   摘要: <img src="https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1280-80.jpg"/><br><br>                 Valve honcho Gabe Newell recorded a video to kick off The International 2026, the latest edition of Valve's annual <a href="https://www.pcgamer.com/dota-2/" target="_blank">D…
-
-- **The International Main Event**  
-  发布: 1787107564  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661427  
-  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/a7ab9b6d4c788583a689e0519021a93a76c17f30.png"][/img][/p][p]The sixteen best Dota teams in the world spent the last week battling through an intense Group Stage, and now only eight contenders remain. In a matter of hours Team Vision, Tea…
 
 - **Counter-Strike 2 Update**  
   发布: 1795049879  
@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279  
   摘要: <img src="https://i.playground.ru/e/rr24UpqUJhVamz7BT3zk_A.jpeg"/>               <br />                                                                                 <p>В файлах CS2 нашли новое оружие – Valve тестирует винтовку LAR  После свежего обновления датамайнеры обнаружи…
 
+- **Pocketpair устроила офисный праздник в честь выхода GTA 6 с суши и игровыми консолями**  
+  发布: 1795082079  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1849827110427762  
+  摘要: <img src="https://i.playground.ru/e/HH6g4GJIwgseEoHYQB2vTQ.png"/>               <br />                                                                                 <p>Разработчики из Pocketpair решили отметить выход GTA 6 необычным корпоративным мероприятием. Компания объявила…
+
 - **Pocketpair решила не конкурировать с GTA 6 за внимание игроков - новости о будущем Palworld подождут**  
   发布: 1794985054  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695313  
   摘要: <img src="https://i.playground.ru/e/d6OVw_0y7Qmd3p-MjAiiXQ.jpeg"/>               <br />                                                                                 <p>Pocketpair объявила, что следующее крупное обновление Palworld под названием Side by Side выйдет зимой 2026 г…
-
-- **Global Popularity Poll 2026 Results & New Update**  
-  发布: 1792501599  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706695192  
-  摘要: [p]Pal Tamers![/p][p][/p][p]A huge thank you to everyone around the world who voted in the Palworld Global Popularity Poll 2026 back in September! Thanks to your amazing support, we received even more votes than last year.[/p][p][/p][p]Here are your top 3![/p][p]\[Pal Category] […
