@@ -1,5 +1,11 @@
 # Steam News
 
+- **New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once**  
+  发布: 1795378153  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1849827110439479  
+  摘要: <img src="https://cdn.mos.cms.futurecdn.net/rPdj5KUrcUw2ZvWuDYHyZP-1920-80.png"/><br><br>                 The longest game of Dota I've played was comfortably past the 70-minute mark. Matches that gloriously long-winded can be fun in small doses, but they can also be exhausting a…
+
 - **Dota 2 patch 7.42 hauls Valve's MOBA out of the late-game sludge**  
   发布: 1795090090  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298513  
   摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/bab4343d906943ef2117ae553347d8f8991ebca3.png"][/img]Congratulations to Team Spirit, Grand Champions at The International 2026. After enduring a challenging year, Team Spirit regained their ultimate form just in time to take a five-game …
-
-- **'Dude no joke looks like Hugh Jackman now': The internet is swooning over Gabe Newell's svelte new look at The International**  
-  发布: 1787257316  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/1841579228666735  
-  摘要: <img src="https://cdn.mos.cms.futurecdn.net/xbXdUieqhRYrkTVJmzWmHB-1280-80.jpg"/><br><br>                 Valve honcho Gabe Newell recorded a video to kick off The International 2026, the latest edition of Valve's annual <a href="https://www.pcgamer.com/dota-2/" target="_blank">D…
 
 - **Counter-Strike 2 Update**  
   发布: 1795049879  
