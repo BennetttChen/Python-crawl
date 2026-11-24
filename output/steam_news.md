@@ -49,6 +49,12 @@
   摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/bab4343d906943ef2117ae553347d8f8991ebca3.png"][/img]Congratulations to Team Spirit, Grand Champions at The International 2026. After enduring a challenging year, Team Spirit regained their ultimate form just in time to take a five-game …
 
 - **Counter-Strike 2 Update**  
+  发布: 1795474927  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444052  
+  摘要: [p]\[ MAPS ][/p][p]Cobblestone[/p][list][*][p]Fixed a spot in princess tower where the bomb could be thrown out of reach[/p][/*][*][p]Fixed some bad wall bang locations[/p][/*][*][p]Fixes for smoother player movement throughout the level[/p][/*][*][p]Fixed some bad boosts and wal…
+
+- **Counter-Strike 2 Update**  
   发布: 1795049879  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426557  
@@ -90,11 +96,11 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353  
   摘要: <img src="https://i.playground.ru/e/cFYB9h2yceV9dTjn9ufQoQ.jpeg"/>               <br />                                                                                 <p>В Москве завершился международный турнир по Counter-Strike 2, ставший одним из главных событий II Московской …
 
-- **В файлах Counter-Strike 2 нашли новое оружие - Valve тестирует винтовку LAR**  
-  发布: 1793287764  
+- **Please Nominate Palworld for the "Just 5 More Minutes" Award — Steam Awards 2026**  
+  发布: 1795456893  
   来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302235279  
-  摘要: <img src="https://i.playground.ru/e/rr24UpqUJhVamz7BT3zk_A.jpeg"/>               <br />                                                                                 <p>В файлах CS2 нашли новое оружие – Valve тестирует винтовку LAR  После свежего обновления датамайнеры обнаружи…
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442979  
+  摘要: [p][/p][p]Hello, everyone![/p][p]Nominations for the Steam Awards 2026 are now open![/p][p][/p][p]In 2026, Palworld finally reached its full release![/p][p]Have you ever found yourself thinking something like this while playing Palworld?[/p][p][/p][p][b]"Just five more minutes of…
 
 - **Pocketpair устроила офисный праздник в честь выхода GTA 6 с суши и игровыми консолями**  
   发布: 1795082079  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114033448  
   摘要: <img src="https://i.playground.ru/e/Bkmx53y9FRrMKqP1AVuCmQ.png"/>               <br />                                                                                 <p>На этой неделе Palworld анонсировала «Side by Side». Название и загадочный ключевой арт вызвали у некоторых иг…
-
-- **Palworld получит крупное обновление Side by Side этой зимой - Pocketpair также раскрыла любимых Палов игроков**  
-  发布: 1792503012  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1846651706695313  
-  摘要: <img src="https://i.playground.ru/e/d6OVw_0y7Qmd3p-MjAiiXQ.jpeg"/>               <br />                                                                                 <p>Pocketpair объявила, что следующее крупное обновление Palworld под названием Side by Side выйдет зимой 2026 г…
