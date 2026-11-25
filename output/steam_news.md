@@ -1,5 +1,11 @@
 # Steam News
 
+- **7.42a Gameplay Patch**  
+  发布: 1795563544  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852979142  
+  摘要: Patch 7.42a is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.42a"]here[/url].  In addition, we've recently addressed the following issues: [list][*] Fixed a server crash related to the Tormentor dying [*] Fixed a server crash related to the T…
+
 - **New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once**  
   发布: 1795378153  
   来源: Steam News API  
@@ -41,12 +47,6 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705400  
   摘要: [p]Patch 7.41f is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.41f"]here[/url].[/p]  In addition, we've recently addressed the following issues: [list] [*] Fixed spot on map near the top Roshan Pit where a hero could hide within the geometry…
-
-- **The International 2026 Grand Champions**  
-  发布: 1787792862  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298513  
-  摘要: [p][img src="{STEAM_CLAN_LOC_IMAGE}/3703047/bab4343d906943ef2117ae553347d8f8991ebca3.png"][/img]Congratulations to Team Spirit, Grand Champions at The International 2026. After enduring a challenging year, Team Spirit regained their ultimate form just in time to take a five-game …
 
 - **Counter-Strike 2 Update**  
   发布: 1795474927  
