@@ -4,7 +4,7 @@
   发布: 1795563544  
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852979142  
-  摘要: Patch 7.42a is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.42a"]here[/url].  In addition, we've recently addressed the following issues: [list][*] Fixed a server crash related to the Tormentor dying [*] Fixed a server crash related to the T…
+  摘要: Patch 7.42a is out now and you can check out the patch notes [url="https://www.dota2.com/patches/7.42a"]here[/url].  In addition, we've recently addressed the following issues: [list][*] Fixed a server crash related to the Tormentor dying [*] Fixed a crash that sometimes occurred…
 
 - **New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once**  
   发布: 1795378153  
