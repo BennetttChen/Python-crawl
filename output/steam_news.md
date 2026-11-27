@@ -96,6 +96,12 @@
   链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847920302251353  
   摘要: <img src="https://i.playground.ru/e/cFYB9h2yceV9dTjn9ufQoQ.jpeg"/>               <br />                                                                                 <p>В Москве завершился международный турнир по Counter-Strike 2, ставший одним из главных событий II Московской …
 
+- **Palworld × Dune: Awakening Steam Bundle Is Out Now!**  
+  发布: 1795716037  
+  来源: Steam News API  
+  链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986596  
+  摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/3dad2663273efb0eab959d283c2fe678fdd43816.png"][/img]The Palworld × Dune: Awakening Steam Bundle is now available!  Explore a world filled with mysterious Pals in Palworld, or fight to survive on the harsh desert planet of Arrakis in Dune: …
+
 - **Please Nominate Palworld for the "Just 5 More Minutes" Award — Steam Awards 2026**  
   发布: 1795456893  
   来源: Steam News API  
@@ -137,9 +143,3 @@
   来源: Steam News API  
   链接: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229254  
   摘要: [p][img src="{STEAM_CLAN_IMAGE}/40671762/7b16685a6c7de8cdc3c77001fb9b65fa18e855a6.png"][/img][/p][p]We're thrilled to announce that the Palworld × Graveyard Keeper 2 Steam Bundle is now officially available![/p][p][/p][p]Whether you'd rather explore a vast world alongside mysteri…
-
-- **Глава Pocketpair уточнил, что анонс Palworld Side by Side - это всего лишь обновление 1.1, а не сиквел или спин-офф**  
-  发布: 1792687037  
-  来源: Steam News API  
-  链接: https://steamstore-a.akamaihd.net/news/externalpost/PlayGround.ru - официальная группа/1847286114033448  
-  摘要: <img src="https://i.playground.ru/e/Bkmx53y9FRrMKqP1AVuCmQ.png"/>               <br />                                                                                 <p>На этой неделе Palworld анонсировала «Side by Side». Название и загадочный ключевой арт вызвали у некоторых иг…
